@@ -33126,7 +33126,7 @@
 
 =LDR  10015nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260803000000.0
 =008  103020s1990    ||||||||||||||000 | spa||
 =020  ##$a9505210728
 =040  ##$cAR-QuEMBA
@@ -33136,7 +33136,7 @@
 =260  ##$aBuenos Aires$bEdigraf$c1990
 =300  0#$a94 p.
 =942  ##$cBK
-=952  ##$p2826$10$2ddc$aLPL$bLPL$c$k$oDIC$e$5$7
+=952  ##$p2826$10$2ddc$aLPL$bLPL$c$kDON$o305.8 DIC$e$5$7
 
 =LDR  10003nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -122658,14 +122658,18 @@
 =942  ##$cBK
 =952  ##$p10280$10$2ddc$aLPL$bLPL$c$k$oIB 863 REY$e$5$7
 
-=LDR  10002nmm  2200000 a 4500
+=LDR  10018nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260803000000.0
 =008  206020n        ||||||||||||||000 | spa||
+=020  ##$a8880295365
 =040  ##$cAR-QuEMBA
 =245  10$aLuxor y Karnak
+=260  ##$aFlorencia : Bonechi, 1999
+=300  0#$a32 p.
+=505  0#$tTemplo de Amon-Ra (p. 1) -- Templo de Karnak (p. 9) -- El Lago Sagrado (p. 28) -- Museo de Luxor (p. 32)
 =942  ##$cBK
-=952  ##$p10281$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+=952  ##$p10281$10$2ddc$aLPL$bLPL$c$kDON$o709.3 LUX$e$5$7
 
 =LDR  10022nmc  2200000 a 4500
 =003  AR-QuEMBA
@@ -123453,15 +123457,16 @@
 =942  ##$cBK
 =952  ##$p10342$10$2ddc$aLPL$bLPL$c$k$o759.061 IMP$e$5$7
 
-=LDR  10009nmm  2200000 a 4500
+=LDR  10014nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260803000000.0
 =008  296020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aAricha, Amos
 =700  1#$aLandau, Eli
 =245  10$aOperación Fénix
 =260  ##$aBuenos Aires : Crea, 1981
+=659  ##$aLITERATURA - NOVELAS
 =942  ##$cBK
 =952  ##$p10343$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
 
@@ -123617,10 +123622,46 @@
 =942  ##$cBK
 =952  ##$p10354$10$2ddc$aLPL$bLPL$c$k$o759.06 SKI$e$5$7
 
-=LDR  10001nmm  2200000 a 4500
+=LDR  10057nmm  2200000 a 4500
 =003  AR-QuEMBA
 =005  20260716000000.0
 =008  166020n        ||||||||||||||000 | spa||
+=020  ##$a8401605296
 =040  ##$cAR-QuEMBA
+=100  1#$aMalaspina, María del Carmen
+=700  1#$aMasalles, Rosa
+=245  10$aHistoria de la pintura : en dos volúmenes. 1
+=260  ##$aBarcelona : Plaza & Janes, 1978
+=300  0#$a223 p.
+=505  0#$tIntroducción a la pintura (p. 7) -- Primeras manifestaciones pictóricas (p. 15) -- El mundo griego (p. 39) -- El mundo romano : caminos de una expansión (p. 55) -- La revolución cristiana (p. 71) -- Bizancio : entre Oriente y Occidente (p. 79) -- Prerrománico (p. 91) -- El Islam (p. 101) -- La austeridad románica (p. 107) -- El Gótico : el espíritu se eleva (p. 145) -- Momentos de transición (p. 195)
 =942  ##$cBK
-=952  ##$p$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+=952  ##$p10355$10$2ddc$aLPL$bLPL$c$kDON$o759 MAL$e$5$7
+
+=LDR  10045nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260716000000.0
+=008  166020n        ||||||||||||||000 | spa||
+=020  ##$a840160530X
+=040  ##$cAR-QuEMBA
+=100  1#$aMalaspina, María del Carmen
+=700  1#$aMasalles, Rosa
+=245  10$aHistoria de la pintura : en dos volúmenes. 2
+=260  ##$aBarcelona : Plaza & Janes, 1978
+=300  0#$ap. 225-436
+=505  0#$tEl Renacimiento : un paso decisivo (p. 225) -- La exaltación barroca (p. 265) -- Siglo XVIII : una nueva sensibilidad (p. 319) -- La revolución liberal (p. 335) -- Una visión distinta (p. 343) -- La gran aventura del s. XX (p. 375)
+=942  ##$cBK
+=952  ##$p10356$10$2ddc$aLPL$bLPL$c$kDON$o759 MAL$e$5$7
+
+=LDR  10085nmc  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260803000000.0
+=008  036020n        ||||||||||||||000 | spa||
+=020  ##$a8425207266
+=040  ##$cAR-QuEMBA
+=245  10$aRevue d'Esthétique : la práctica de la pintura
+=260  ##$aBarcelona : GG, 1978
+=300  0#$a211 p.
+=490  #0$aPunto y Línea
+=505  0#$tPintar, siempre / por Mikel Dufrenne (p. 7) -- Pintar, o bien escribir... / por Gaétan Picon (p. 25) -- Sobre la aportación de la poética a la semiología de lo pictórico / por René Passeron (p. 40) -- Ars Amandi / por Anne Cauquelin (p. 42) -- Pintura y psicoanálisis. Estudios de singularidades / por Christiane Rabant (p. 53) -- La realidad supera al hiperrealismo / por Jean Baudrillard (p. 77) -- Invisibilidad de la pintura / por Marie-José Baudinet (p. 84) -- Elementos para un dossier sobre el gris / por Gilbert Lascault (p. 114) -- La muerte del arte / por Marc Le Bot (p. 130) -- Tres pintores norteamericanos / por MichelFried (p. 143) -- Algunos aspectos psicobiológicos de la imagen / por Francois Molnar (p. 195)
+=942  ##$cBK
+=952  ##$p10357$10$2ddc$aLPL$bLPL$c$kDON$o750.1 REV$e$5$7
