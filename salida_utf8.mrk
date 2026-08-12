@@ -1,4 +1,4 @@
-=LDR  10044nmm  2200000 a 4500
+﻿=LDR  10044nmm  2200000 a 4500
 =003  AR-QuEMBA
 =005  20260630000000.0
 =008  037120n        ||||||||||||||000 | spa||
@@ -73428,16 +73428,20 @@
 =942  ##$cBK
 =952  ##$p6427$10$2ddc$aLPL$bLPL$c$k$oTyD-051 $e$5$7
 
-=LDR  10007nmm  2200000 a 4500
+=LDR  10044nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260810000000.0
 =008  296020n        ||||||||||||||000 | spa||
+=020  ##$a8431538120
 =040  ##$cAR-QuEMBA
 =100  1#$aManera, Domingo
-=245  10$aCurso rapido de pintura al oleo
-=260  ##$aEd. De Vecchi
+=245  10$aCurso rápido de pintura al óleo
+=250  ##$a2a ed.
+=260  ##$aBarcelona : De Vecchi, 1979
+=300  0#$a153 p.
+=505  0#$tLos colores (p. 25) -- Teoría del colo (p. 26) -- Los pigmentos (p. 3) -- Aceites y barnices (p. 47) -- Elementos básicos de una tela (p. 53) -- Utensillos varios (p. 59) -- Naturaleza muerta (p. 67) -- Los paisajes (p. 81) -- El retrato (p. 95) -- Consejos prácticos (p. 109) -- Técnicas pictóricas (p. 119)
 =942  ##$cBK
-=952  ##$p6428$10$2ddc$aLPL$bLPL$c$k$oTyD-052 $e$5$7
+=952  ##$p6428$10$2ddc$aLPL$bLPL$c$kDON$o751 MAN$e$5$7
 
 =LDR  10007nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -123665,3 +123669,87 @@
 =505  0#$tPintar, siempre / por Mikel Dufrenne (p. 7) -- Pintar, o bien escribir... / por Gaétan Picon (p. 25) -- Sobre la aportación de la poética a la semiología de lo pictórico / por René Passeron (p. 40) -- Ars Amandi / por Anne Cauquelin (p. 42) -- Pintura y psicoanálisis. Estudios de singularidades / por Christiane Rabant (p. 53) -- La realidad supera al hiperrealismo / por Jean Baudrillard (p. 77) -- Invisibilidad de la pintura / por Marie-José Baudinet (p. 84) -- Elementos para un dossier sobre el gris / por Gilbert Lascault (p. 114) -- La muerte del arte / por Marc Le Bot (p. 130) -- Tres pintores norteamericanos / por MichelFried (p. 143) -- Algunos aspectos psicobiológicos de la imagen / por Francois Molnar (p. 195)
 =942  ##$cBK
 =952  ##$p10357$10$2ddc$aLPL$bLPL$c$kDON$o750.1 REV$e$5$7
+
+=LDR  10013nmc  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260810000000.0
+=008  106020n        ||||||||||||||000 | spa||
+=020  ##$a8886256027
+=020  ##$a9788886256025
+=040  ##$cAR-QuEMBA
+=245  10$aLas bases del dibujo$n3
+=260  ##$a[s.n.] : Vinciana, [ca. 2000]
+=300  0#$a34 p.
+=490  #0$aColección Leonardo ; 3
+=942  ##$cBK
+=952  ##$p10358$10$2ddc$aLPL$bLPL$c$kDON$o702.8 $e$5$7
+
+=LDR  10069nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260810000000.0
+=008  106020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=700  1#$aDi Mauro, Guglielmo$ecurador
+=245  10$aLa biennale di Venezia 2003 : brain academy apartment : extra 50
+=260  ##$aVenezia : Liceo Artistico Statale Venezia, 2003
+=300  0#$a120 p.
+=505  0#$t"The project aims at stressing the aspect of virtuality, that more and more often concerns the social living. . . Multimedia artists, post Fluxus, in a kind of art that is expression of..." / Guglielmo Di Mauro (p. 1) -- "This «Brain Academy Apartment» will be the chief seat of the embassy in Venice of the fantastic country "Ars Nova Island", that will represent the new house of next contemporary art, always connected by e-mail, internet and postal service" / Emilio Morandi (p. 3)
+=942  ##$cBK
+=952  ##$p10359$10$2ddc$aLPL$bLPL$c$kDON$o707.4 BIE$e$5$7
+
+=LDR  10006nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260811000000.0
+=008  116020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aMaravillas del arte$bHistoria universal del arte
+=942  ##$cBK
+=952  ##$p10360$10$2ddc$aLPL$bLPL$c$k$oAM-051 $e$5$7
+
+=LDR  10076nmc  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260811000000.0
+=008  116020n        ||||||||||||||000 | spa||
+=020  ##$a9791399001808
+=040  ##$cAR-QuEMBA
+=100  1#$aBuján Núñez, José Daniel
+=700  1#$aBernárdez, Carlos L.
+=700  1#$aLeira, Xan
+=245  10$aCastelao : a revolución gráfica en Galicia : o linoleogravado
+=260  ##$aGalicia : Memoria Documental de Galicia, 2025
+=300  0#$a127 p.
+=490  #0$aMemoria viva
+=505  0#$tO linóleo en Galicia, da escola de Pontevedra á ilustración gráfica revolucionaria / Carlos L. Bernárdez (p. 7) -- O gravado en relevo en Galicia, a linoleografía / José Daniel Buján Núñez (p. 15) -- Quen é quen na escola linoleista de Pontevedra (p. 42) -- A segunda etapa : a década de 1930 (p. 80) -- A escola linoleísta nas publicacións da década de 1930 (p. 92) -- Terceira e derradeira etapa : o gravado galego na posguerra (p. 95) -- A recuperación do gravado en relevo nun novo contexto social (p. 114)
+=653  ##$aLINOGRABADO
+=942  ##$cBK
+=952  ##$p10361$10$2ddc$aLPL$bLPL$c$kDON$o761.3 BUJ$e$5$7
+
+=LDR  10033nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260811000000.0
+=008  116020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aBach, Caleb I.
+=700  1#$aFisher, Pablo
+=700  1#$aSaurí, Jorge J.
+=245  10$aAdentro / Afuera : pinturas de Giancarlo Puppo  = Inside / outside : paintings by Giancarlo Puppo
+=260  ##$aBuenos Aires : Adobe, 1991
+=300  0#$a48 p.
+=505  0#$tAcerca de Giancarlo (p. 5) -- Una reflexión fenomenológica (p. 13) -- Fragmentos de cartas de y para Caleb I. Bach (p. 23)
+=942  ##$cBK
+=952  ##$p10362$10$2ddc$aLPL$bLPL$c$kDON$o759.2 BAC$e$5$7
+
+=LDR  10064nmc  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260811000000.0
+=008  116020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aDorfles, Gillo
+=700  1#$aCirici, Alexandre$eprologuista
+=245  10$aSímbolo, comunicación y consumo
+=260  ##$aBarcelona : Lumen, 1968
+=300  0#$a268 p.
+=490  #0$aPalabra en el tiempo / dirigida por Antonio Vilanova
+=505  0#$tInformación y consumo (p. 41) -- Comunicación artística y comunicación crítica (p. 69) -- Comunicación a través del lenguaje normal y alienado (p. 97) -- Símbolo y comunicación en la estética norteamericana (p. 129) -- Valores comunicativos y simbólicos en la arquitectura, en el diseño industrial y en la publicidad (p. 197) -- Comunicación visual cinética y fílmica (p. 235) -- Apuntes sobre el zen y sobre sus cualidades comunicativas (p. 247)
+=942  ##$cBK
+=952  ##$p10363$10$2ddc$aLPL$bLPL$c$kDON$o744.7 DOR$e$5$7
