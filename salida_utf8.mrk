@@ -8790,18 +8790,18 @@
 =942  ##$cBK
 =952  ##$p720$10$2ddc$aLPL$bLPL$c$k$oBI-FRA-001 $e$5$7
 
-=LDR  10023nmm  2200000 a 4500
+=LDR  10024nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  048020n        ||||||||||||||000 | spa||
+=005  20260813000000.0
+=008  048020s2004    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aSolana, Guillermo
 =245  10$aPaul Gauguin
-=260  ##$aMadrid : Arlanza, 2004
+=260  ##$aMadrid $bArlanza$c2004
 =300  0#$a143 p.
 =505  0#$tNavegaciones y regresos -- Del impresionismo al simbolismo -- El cuadro dentro del cuadro -- Las estatuas de los dioses -- En su propio planeta
 =942  ##$cBK
-=952  ##$p721$10$2ddc$aLPL$bLPL$c$k$oBI-GAU-OO1 $e$5$7
+=952  ##$p721$10$2ddc$aLPL$bLPL$c$k$o759.06 SOL$e$5$7
 
 =LDR  10019nmc  2200000 a 4500
 =003  AR-QuEMBA
@@ -122737,14 +122737,14 @@
 
 =LDR  10011nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260813000000.0
 =008  206020s1961    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =245  10$aCatalogo de reproducciones en color de pinturas$b1960-1961
 =260  ##$aParis$bUnesco Paris$c1961
 =300  0#$a485 p.
 =942  ##$cBK
-=952  ##$p10286$10$2ddc$aLPL$bLPL$c$k$o759.06 $e$5$7
+=952  ##$p10286$10$2ddc$aLPL$bLPL$c$k$o759.06 CAT$e$5$7
 
 =LDR  10020nmc  2200000 a 4500
 =003  AR-QuEMBA
@@ -123753,3 +123753,29 @@
 =505  0#$tInformación y consumo (p. 41) -- Comunicación artística y comunicación crítica (p. 69) -- Comunicación a través del lenguaje normal y alienado (p. 97) -- Símbolo y comunicación en la estética norteamericana (p. 129) -- Valores comunicativos y simbólicos en la arquitectura, en el diseño industrial y en la publicidad (p. 197) -- Comunicación visual cinética y fílmica (p. 235) -- Apuntes sobre el zen y sobre sus cualidades comunicativas (p. 247)
 =942  ##$cBK
 =952  ##$p10363$10$2ddc$aLPL$bLPL$c$kDON$o744.7 DOR$e$5$7
+
+=LDR  10024nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260813000000.0
+=008  136020s2004    ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aSolana, Guillermo
+=245  10$aPaul Gauguin
+=260  ##$aMadrid $bArlanza$c2004
+=300  0#$a143 p.
+=505  0#$tNavegaciones y regresos -- Del impresionismo al simbolismo -- El cuadro dentro del cuadro -- Las estatuas de los dioses -- En su propio planeta
+=942  ##$cBK
+=952  ##$p10364$10$2ddc$aLPL$bLPL$c$k$o759.06 SOL$e$5$7
+
+=LDR  10015nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260813000000.0
+=008  136020s[19-    ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aMuller, Joseph-Emile
+=700  1#$aElgar, Frank
+=245  10$aUn siglo de pintura moderna
+=260  ##$aBarcelona$bGustavo Gili$c[19--?]
+=300  0#$a192 p.
+=942  ##$cBK
+=952  ##$p10365$10$2ddc$aLPL$bLPL$c$k$o759.06 MUL$e$5$7
