@@ -2378,16 +2378,17 @@
 =942  ##$cBK
 =952  ##$p180$10$2ddc$aLPL$bLPL$c$k$oAA-Cha-001 $e$5$7
 
-=LDR  10012nmm  2200000 a 4500
+=LDR  10017nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260818000000.0
 =008  306020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=100  1#$aO¦Donnell, Mario-Glusberg, Jorge
+=100  1#$aO'Donnell, Mario
+=700  1#$aGlusberg, Jorge
 =245  10$aAndres compagnucci en el museo nacional de bellas artes
 =260  ##$aMuseo Nacional De Bellas Artes
 =942  ##$cBK
-=952  ##$p181$10$2ddc$aLPL$bLPL$c$k$oAA-Com-001 $e$5$7
+=952  ##$p181$10$2ddc$aLPL$bLPL$c$kDON$oAA-Com-001 $e$5$7
 
 =LDR  10008nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -4039,16 +4040,20 @@
 =942  ##$cBK
 =952  ##$p329$10$2ddc$aLPL$bLPL$c$k$oCOL37-002 $e$5$7
 
-=LDR  10010nmm  2200000 a 4500
+=LDR  10044nmc  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260818000000.0
 =008  037120n        ||||||||||||||000 | spa||
+=020  ##$a9789500837163
 =040  ##$cAR-QuEMBA
-=100  1#$aGutierrez Zaldivar, Ignacio
+=100  1#$aGutiérrez Zaldívar, Ignacio
 =245  10$aBerni
 =260  ##$aBuenos Aires : Atlántida, 2009
+=300  0#$a72 p.
+=490  #0$aEl arte de los argentinos
+=505  0#$tUn niño prodigio (p. 6) -- Europa (p. 12) -- El Nuevo Realismo (p. 18) -- Los murales de las Galerías Pacífico (p. 32) -- La década del '50 (p. 36) -- Juanito Laguna y Ramona Montiel (p. 44) -- Sus últimos años (p. 56) -- Berni por Berni (p. 64) -- Dónde ver sus obras (p. 70)
 =942  ##$cBK
-=952  ##$p330$10$2ddc$aLPL$bLPL$c$k$oCOL37-003 $e$5$7
+=952  ##$p330$10$2ddc$aLPL$bLPL$c$kDON$oGUT$e$5$7
 
 =LDR  10010nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -28544,16 +28549,18 @@
 =942  ##$cBK
 =952  ##$p2404$10$2ddc$aLPL$bLPL$c$k$oFIL-021 $e$5$7
 
-=LDR  10009nmm  2200000 a 4500
+=LDR  10031nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260818000000.0
 =008  306020n        ||||||||||||||000 | spa||
+=020  ##$a9501200108
 =040  ##$cAR-QuEMBA
 =100  1#$aFromm, Erich
-=245  10$aEl arte de amar, una inv. s/ la naturaleza del amor (2)
-=260  ##$aEditorial Paidos
+=245  10$aEl arte de amar : una investigación sobre la naturaleza del amor
+=260  ##$aBuenos Aires : Paidós, 1985
+=505  0#$t¿Es el amor un arte? (p. 13) -- La teoría del amor (p. 18) -- El amor y su desintegración en la sociedad occidental contemporánea (p. 84) -- La práctica del amor (p. 105)
 =942  ##$cBK
-=952  ##$p2405$10$2ddc$aLPL$bLPL$c$k$oFIL-022 $e$5$7
+=952  ##$p2405$10$2ddc$aLPL$bLPL$c$kDON$oFIL-022 $e$5$7
 
 =LDR  10007nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -123779,3 +123786,21 @@
 =300  0#$a192 p.
 =942  ##$cBK
 =952  ##$p10365$10$2ddc$aLPL$bLPL$c$k$o759.06 MUL$e$5$7
+
+=LDR  10003nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260818000000.0
+=008  186020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aJLA Año 1 - Parte 1
+=942  ##$cBK
+=952  ##$p10366$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10003nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260818000000.0
+=008  186020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aRudi un perro con suerte
+=942  ##$cBK
+=952  ##$p10367$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
