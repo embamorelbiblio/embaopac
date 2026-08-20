@@ -8822,17 +8822,19 @@
 =942  ##$cBK
 =952  ##$p722$10$2ddc$aLPL$bLPL$c$kDON$o759.061 IMP$e$5$7
 
-=LDR  10010nmc  2200000 a 4500
+=LDR  10023nmc  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  048020n        ||||||||||||||000 | spa||
+=005  20260819000000.0
+=008  048020s1992    ||||||||||||||000 | spa||
+=020  ##$a9500412667
 =040  ##$cAR-QuEMBA
 =100  1#$aHoward, Michel
-=245  10$aGauguin
-=260  ##$aBuenos Aires : Emecé, 1992
+=245  10$aGauguin$bGuia ilustrada esencial para conocer su vida, su arte y las influencias que marcaron su obra.
+=260  ##$aBuenos Aires $bEmece$c1992
+=300  0#$a64 p.
 =490  #0$aTestimonio visual del arte
 =942  ##$cBK
-=952  ##$p723$10$2ddc$aLPL$bLPL$c$k$oBI-GAU-003 $e$5$7
+=952  ##$p723$10$2ddc$aLPL$bLPL$c$k$o759.061 HOW$e$5$7
 
 =LDR  10006nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -83970,16 +83972,19 @@
 =942  ##$cBK
 =952  ##$p7278$10$2ddc$aLPL$bLPL$c$k$o759.061 IMP$e$5$7
 
-=LDR  10009nmm  2200000 a 4500
+=LDR  10023nmc  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  058020n        ||||||||||||||000 | spa||
+=005  20260819000000.0
+=008  058020s1992    ||||||||||||||000 | spa||
+=020  ##$a95004122667
 =040  ##$cAR-QuEMBA
 =100  1#$aHoward, Michael
-=245  10$aGaugin
-=260  ##$aEmece editores - Buenos Aires 1992
+=245  10$aGaugin$bGuia ilustrada esencial para conocer su vida, su arte y las influencias que marcaron su obra
+=260  ##$aBuenos Aires $bEmece$c1992
+=300  0#$a64 p.
+=490  #0$aTestimonio visual del arte
 =942  ##$cBK
-=952  ##$p7279$10$2ddc$aLPL$bLPL$c$k$oBi-Gau-003 bis $e$5$7
+=952  ##$p7279$10$2ddc$aLPL$bLPL$c$k$o759.061 HOW$e$5$7
 
 =LDR  10043nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -123804,3 +123809,90 @@
 =245  10$aRudi un perro con suerte
 =942  ##$cBK
 =952  ##$p10367$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10004nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260819000000.0
+=008  196020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aBerocay, Roy
+=245  10$aRuperto insiste!!
+=942  ##$cBK
+=952  ##$p10368$10$2ddc$aLPL$bLPL$c$k$o741.642 $e$5$7
+
+=LDR  10007nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260819000000.0
+=008  196020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aBerocay, Roy
+=245  10$aRuperto y la comadreja robot
+=942  ##$cBK
+=952  ##$p10369$10$2ddc$aLPL$bLPL$c$k$o741.642 $e$5$7
+
+=LDR  10006nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260819000000.0
+=008  196020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aBerocay, Roy
+=245  10$aRuperto y las vacaciones siniestras
+=942  ##$cBK
+=952  ##$p10370$10$2ddc$aLPL$bLPL$c$k$o741.642 $e$5$7
+
+=LDR  10007nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260819000000.0
+=008  196020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aBerocay, Roy
+=245  10$aRuperto y el señor siniestro
+=942  ##$cBK
+=952  ##$p10371$10$2ddc$aLPL$bLPL$c$k$o741.642 $e$5$7
+
+=LDR  10006nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260819000000.0
+=008  196020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aBerocay, Roy
+=245  10$aLas aventuras del sapo Ruperto
+=942  ##$cBK
+=952  ##$p10372$10$2ddc$aLPL$bLPL$c$k$o741.642 $e$5$7
+
+=LDR  10023nmc  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260819000000.0
+=008  196020s1992    ||||||||||||||000 | spa||
+=020  ##$a9500412667
+=040  ##$cAR-QuEMBA
+=100  1#$aHoward, Michel
+=245  10$aGauguin$bGuia ilustrada esencial para conocer su vida, su arte y las influencias que marcaron su obra.
+=260  ##$aBuenos Aires $bEmece$c1992
+=300  0#$a64 p.
+=490  #0$aTestimonio visual del arte
+=942  ##$cBK
+=952  ##$p10373$10$2ddc$aLPL$bLPL$c$kDON$o759.061 HW$e$5$7
+
+=LDR  10023nmc  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260819000000.0
+=008  196020s1992    ||||||||||||||000 | spa||
+=020  ##$a9500412667
+=040  ##$cAR-QuEMBA
+=100  1#$aHoward, Michael
+=245  10$aGauguin$bGuia ilustrada esencial para conocer su vida, su arte y las influencias que marcaron su obra.
+=260  ##$aBuenos Aires$bEmece$c1992
+=300  0#$a64 p.
+=490  #0$aTestimonio visual del arte
+=942  ##$cBK
+=952  ##$p10374$10$2ddc$aLPL$bLPL$c$kDON$o759.061 HOW$e$5$7
+
+=LDR  10003nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260819000000.0
+=008  196020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aLas bases del dibujo
+=942  ##$cBK
+=952  ##$p10375$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
