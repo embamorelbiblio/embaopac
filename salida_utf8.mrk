@@ -6510,16 +6510,17 @@
 
 =LDR  10022nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  177120n        ||||||||||||||000 | spa||
+=005  20260821000000.0
+=008  177120s1975    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aBorghini, Simonetta
 =700  0#$aAna Werthein de Trovarelli
 =700  0#$aHugo Petruschansky
 =245  10$aEl impresionismo
-=260  ##$aBuenos Aires : Centro Editor de América Latina, 1975
+=260  ##$aBuenos Aires$bCentro Editor de America Latina$c1975
+=300  0#$a100 p.
 =942  ##$cBK
-=952  ##$p534$10$2ddc$aLPL$bLPL$c$k$oAM-071 $e$5$7
+=952  ##$p534$10$2ddc$aLPL$bLPL$c$kDON$o759.061 BOR$e$5$7
 
 =LDR  10005nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -8836,29 +8837,30 @@
 =942  ##$cBK
 =952  ##$p723$10$2ddc$aLPL$bLPL$c$k$o759.061 HOW$e$5$7
 
-=LDR  10006nmm  2200000 a 4500
+=LDR  10012nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  306020n        ||||||||||||||000 | spa||
+=005  20260821000000.0
+=008  306020s0992    ||||||||||||||000 | spa||
+=020  ##$a3822802182
 =040  ##$cAR-QuEMBA
 =100  1#$aWalther, Ingo F.
-=245  10$aPaul Gauguin 1848-1903
-=260  ##$aBenedikt Taschen
+=245  10$aPaul Gauguin $b1848- 1903
+=260  ##$aGermany$bBenedikt Taschen$c0992
+=300  0#$a95 p.
 =942  ##$cBK
-=952  ##$p724$10$2ddc$aLPL$bLPL$c$k$oBI-GAU-004 $e$5$7
+=952  ##$p724$10$2ddc$aLPL$bLPL$c$k$o759.061 WAL$e$5$7
 
-=LDR  10014nmm  2200000 a 4500
+=LDR  10018nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260716000000.0
+=005  20260821000000.0
 =008  306020sCent    ||||||||||||||000 | spa||
-=020  ##$a1970
 =040  ##$cAR-QuEMBA
 =700  1#$aBignami, Ariel $etraductor
 =245  10$aVida y obra Gauguin. $bNOA- NOA- CARTAS
 =260  ##$aBuenos Aires$b1970$cCentro Editor de America Latina
 =300  0#$a336 p.
 =942  ##$cBK
-=952  ##$p725$10$2ddc$aLPL$bLPL$c$k$o759.06 BIG$e$5$7
+=952  ##$p725$10$2ddc$aLPL$bLPL$c$k$o759.061 BIG$e$5$7
 
 =LDR  10005nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -8892,16 +8894,17 @@
 =942  ##$cBK
 =952  ##$p728$10$2ddc$aLPL$bLPL$c$k$oBI-GAU-008 $e$5$7
 
-=LDR  10006nmm  2200000 a 4500
+=LDR  10011nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  306020n        ||||||||||||||000 | spa||
+=005  20260821000000.0
+=008  306020s1952    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=100  1#$aRewald, John
-=245  10$aGauguin (en ingles)
-=260  ##$aHarry, N.Abrams,Inc
+=700  1#$aRewald, John$etraductor
+=245  10$aPaul Gauguin 
+=260  ##$aNew York$bHarry N. Abrams$c1952
+=300  0#$a24 p.
 =942  ##$cBK
-=952  ##$p729$10$2ddc$aLPL$bLPL$c$k$oBI-GAU-009 $e$5$7
+=952  ##$p729$10$2ddc$aLPL$bLPL$c$k$o759.061 REW$e$5$7
 
 =LDR  10007nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -123896,3 +123899,20 @@
 =245  10$aLas bases del dibujo
 =942  ##$cBK
 =952  ##$p10375$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10003nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260821000000.0
+=008  216020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$apintemos los animales
+=942  ##$cBK
+=952  ##$p10376$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10001nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260821000000.0
+=008  216020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=942  ##$cBK
+=952  ##$p$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
