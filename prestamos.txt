@@ -346,11 +346,6 @@ INV: 5707
 RETIRÓ EL: 19/05/2025
 PRESTADO
 
-LIBRO: Expresionismo : una revolución artística alemana
-INV: 476
-RETIRÓ EL: 02/06/2025
-PRESTADO
-
 LIBRO: Goya en el Museo del Prado
 INV: 9866
 RETIRÓ EL: 12/06/2025
@@ -854,31 +849,6 @@ INV: 1915
 RETIRÓ EL: 18/08/2026
 PRESTADO
 
-LIBRO: Maus
-INV: 3302
-RETIRÓ EL: 19/08/2026
-PRESTADO
-
-LIBRO: Video girl ai. 12
-INV: 3637
-RETIRÓ EL: 19/08/2026
-PRESTADO
-
-LIBRO: Only  yesterday. 1
-INV: 3303
-RETIRÓ EL: 19/08/2026
-PRESTADO
-
-LIBRO: Comiqueando. 52
-INV: 6882
-RETIRÓ EL: 19/08/2026
-PRESTADO
-
-LIBRO: Profesor Xavier y los X- MEN
-INV: 3654
-RETIRÓ EL: 19/08/2026
-PRESTADO
-
 LIBRO: Dibujo al alcance de todos
 INV: 122
 RETIRÓ EL: 19/08/2026
@@ -896,16 +866,6 @@ PRESTADO
 
 LIBRO: Comics
 INV: 3627
-RETIRÓ EL: 20/08/2026
-PRESTADO
-
-LIBRO: El Románico en Alemania y en Italia
-INV: 9714
-RETIRÓ EL: 20/08/2026
-PRESTADO
-
-LIBRO: El Románico en Francia, Inglaterra y España
-INV: 9713
 RETIRÓ EL: 20/08/2026
 PRESTADO
 
@@ -934,7 +894,27 @@ INV: 2056
 RETIRÓ EL: 25/08/2026
 PRESTADO
 
-LIBRO: Educacion Sexual Integral
-INV: 8851
-RETIRÓ EL: 27/08/2026
+LIBRO: Mafalda y sus amigos (seleccion) 5 ejemplares
+INV: 3326
+RETIRÓ EL: 28/08/2026
+PRESTADO
+
+LIBRO: El arte correo en la Argentina
+INV: 7014
+RETIRÓ EL: 28/08/2026
+PRESTADO
+
+LIBRO: Matisse : 1869-1954
+INV: 8589
+RETIRÓ EL: 28/08/2026
+PRESTADO
+
+LIBRO: Diseños indigenas argentinos
+INV: 1050
+RETIRÓ EL: 28/08/2026
+PRESTADO
+
+LIBRO: Las palabras andantes
+INV: 10379
+RETIRÓ EL: 28/08/2026
 PRESTADO
