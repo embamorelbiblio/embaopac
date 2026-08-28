@@ -11974,9 +11974,9 @@
 =942  ##$cBK
 =952  ##$p1002$10$2ddc$aLPL$bLPL$c$k$oCAM-013 $e$5$7
 
-=LDR  10014nmc  2200000 a 4500
+=LDR  10052nmc  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260827000000.0
 =008  306020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aRicciu, Francesco
@@ -11985,8 +11985,9 @@
 =260  ##$aMadrid : Cupsa, 1982
 =300  0#$a75 p.
 =490  #0$aDocumentos de Arte ; 6
+=505  0#$tUna espléndida civilización sin testimonios escritos / por Francesco Ricciu (p. 3) -- Machu Picchu, Grupo de las tres puertas : la arquitectura inca (p. 15) -- Pachacamac (p. 17) -- Cuzco (p. 18) -- Sacsahuamán (p. 22) -- Kenco (p. 62) -- Tambu Machay (p. 32) -- Ollantaytambo (p. 54) -- Pisac (p. 58) -- Isla de la Luna (p. 62) -- Isla del Sol (p. 64) -- Titicaca (p. 75)
 =942  ##$cBK
-=952  ##$p1003$10$2ddc$aLPL$bLPL$c$k$o930.1 RIC$e$5$7
+=952  ##$p1003$10$2ddc$aLPL$bLPL$c$kDON$o930.1 RIC$e$5$7
 
 =LDR  10006nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -12519,7 +12520,7 @@
 
 =LDR  10018nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260827000000.0
 =008  029020s2008    ||||||||||||||000 | spa||
 =020  ##$a9789500419765
 =040  ##$cAR-QuEMBA
@@ -12530,7 +12531,7 @@
 =260  ##$aBuenos Aires$bEmecé$c2008
 =300  0#$a229 p.
 =942  ##$cBK
-=952  ##$p1050$10$2ddc$aLPL$bLPL$c$k$oALB$e$5$7
+=952  ##$p1050$10$2ddc$aLPL$bLPL$c$k$o709.80902 ALB$e$5$7
 
 =LDR  10017nmc  2200000 a 4500
 =003  AR-QuEMBA
@@ -24573,21 +24574,22 @@
 =942  ##$cBK
 =952  ##$p2071$10$2ddc$aLPL$bLPL$c$k$o744 BIE$e$5$7
 
-=LDR  10025nmm  2200000 a 4500
+=LDR  10067nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  203020s1991    ||||||||||||||000 | spa||
+=005  20260827000000.0
+=008  203020s1995    ||||||||||||||000 | spa||
 =020  ##$a9688871745
 =040  ##$cAR-QuEMBA
 =100  1#$aAicher,Otl
 =700  1#$aKrampen, Martin
-=245  10$aSistemas de signos en la comunicacion visual
-=250  ##$a3a ed.
-=260  ##$aMexico$bGustavo Gili$c1991
+=245  10$aSistemas de signos en la comunicación visual
+=250  ##$a4a ed.
+=260  ##$aMéxico$bGustavo Gili$c1995
 =300  0#$a158 p.
 =500  1#$aManual para diseñadores, arquitectos, planificadores y analisis de sistemas
+=505  0#$tAclaración de conceptos fundamentales (p. 9) -- Códigos lógicos para la amplificación de la lengua y para la ciencia (p. 15) -- Códigos lógicos de la práxis. Códigos para la planificación de la técnica (p. 47) -- Códigos lógicos de la praxis. Códigos técnicos con finalidad utilitaria (p. 81) -- Códigos lógicos de la práxis. Información pública (p. 112) -- Pictogramas y acontecimientos de masas (p. 129)
 =942  ##$cBK
-=952  ##$p2072$10$2ddc$aLPL$bLPL$c$k$o744 AIC$e$5$7
+=952  ##$p2072$10$2ddc$aLPL$bLPL$c$kDON$o744 AIC$e$5$7
 
 =LDR  10012nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -24693,18 +24695,19 @@
 =942  ##$cBK
 =952  ##$p2080$10$2ddc$aLPL$bLPL$c$k$o744 AIC$e$5$7
 
-=LDR  10019nmm  2200000 a 4500
+=LDR  10039nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260827000000.0
 =008  088020s1994    ||||||||||||||000 | spa||
 =020  ##$a9500413809
 =040  ##$cAR-QuEMBA
 =100  1#$aGonzález Ruiz, Guillermo
-=245  10$aEstudio de diseño $bSobre la construccion de las ideas y su aplicacion
-=260  ##$aBuenos Aires$bEmece$c1994
+=245  10$aEstudio de diseño $bsobre la construcción de las ideas y su aplicación
+=260  ##$aBuenos Aires$bEmecé$c1994
 =300  0#$a447 p.
+=505  0#$tLa creación proyectual (p. 21) -- La comunicación visual (p. 79) -- La visión perceptual (p. 129) -- La organización formal (p. 185) -- La interacción serial (p. 249) -- La programación integral (p. 335)
 =942  ##$cBK
-=952  ##$p2081$10$2ddc$aLPL$bLPL$c$k$o744 GON$e$5$7
+=952  ##$p2081$10$2ddc$aLPL$bLPL$c$kDON$o744 GON$e$5$7
 
 =LDR  10017nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -97524,9 +97527,9 @@
 =942  ##$cBK
 =952  ##$p8324$10$2ddc$aLPL$bLPL$c$k$o750.92 ENC$e$5$7
 
-=LDR  10014nmc  2200000 a 4500
+=LDR  10051nmc  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260827000000.0
 =008  313020sc200    ||||||||||||||000 | spa||
 =020  ##$a9788499280318
 =040  ##$cAR-QuEMBA
@@ -97534,8 +97537,9 @@
 =245  10$aFrida Kahlo
 =260  ##$aMadrid$bSusaeta$cc2008
 =490  #0$aEnciclopedia del arte
+=505  0#$t"Frida la coja" : una muchacha rebelde (p. 6) -- La grácil paloma y la rana gorda (p. 16) -- Una pintora mexicana en "Gringolandia" (p. 30) -- Desesperación y éxito (p. 44) -- Los cirujanos, "jijos de su ... recién casada mamá" (p. 60) -- "Alegremento espero la partida..." (p. 78) -- Frida Kahlo 1970-1954 : datos de su vida (p. 92) -- Leyendas de las láminas (p. 94)
 =942  ##$cBK
-=952  ##$p8325$10$2ddc$aLPL$bLPL$c$k$o750.92 ENC$e$5$7
+=952  ##$p8325$10$2ddc$aLPL$bLPL$c$kDON$o750.92 ENC$e$5$7
 
 =LDR  10027nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -108785,19 +108789,19 @@
 =942  ##$cBK
 =952  ##$p9222$10$2ddc$aLPL$bLPL$c$k$o750.92 PIN$e$5$7
 
-=LDR  10069nmm  2200000 a 4500
+=LDR  10068nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260827000000.0
 =008  064020s1981    ||||||||||||||000 | spa||
 =020  ##$a8472142213
 =040  ##$cAR-QuEMBA
 =100  1#$aDalley, Terence
 =245  10$aGuía completa de ilustración y diseño, técnicas y materiales
-=260  ##$aEspaña$bH. Blume Ediciones$c1981
+=260  ##$aEspaña$bH. Blume$c1981
 =300  0#$a224 p.
 =505  0#$tPrefacio (6) -- Ilustración (8) -- Introducción a la ilustración (10) -- Lápices y otros medios de punta (16) -- Pluma y tinta (32) -- Oleos y otros medios de pintura (52) -- Impresión (76) -- Ilustración técnica (88) -- Diseño gráfico (102) -- Introducción al diseño gráfico (104) -- Equipo de diseño (110) -- Copia y fotoimpresión (120) -- Diseño y tipografía (124) -- Procedimientos de diseño (144) -- Diseño y fotografía (166) -- Reproducción e impresión (180) -- Glosario (208) -- Indice (218) -- Agradecimientos (224)
 =942  ##$cBK
-=952  ##$p9223$10$2ddc$aLPL$bLPL$c$k$o741.2 DAL$e$5$7
+=952  ##$p9223$10$2ddc$aLPL$bLPL$c$kDON$o741.2 DAL$e$5$7
 
 =LDR  10157nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -123909,10 +123913,26 @@
 =942  ##$cBK
 =952  ##$p10376$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
 
-=LDR  10001nmm  2200000 a 4500
+=LDR  10124nmc  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260821000000.0
+=005  20260827000000.0
 =008  216020n        ||||||||||||||000 | spa||
+=020  ##$a8403380283
 =040  ##$cAR-QuEMBA
+=700  1#$aAldred, Cyril
+=700  1#$aBarguet, Paul
+=700  1#$aDesroches-Noblecourt, Christiane
+=700  1#$aLeclant, Jean
+=700  1#$aMüller, Hans Wolfgang
+=700  1#$aNovella Domingo, Juan$etraductor
+=245  10$aEl imperio de los conquistadores : Egipto en el Nuevo Imperio (1560-1070 a. de C.)
+=260  ##$aMadrid : Aguilar, 1979
+=300  0#$a337 p.
+=490  #0$aEl universo de las formas / creada por Andre Malraux$pEl mundo egipcio : Los Faraones / dirigida por Jean Leclant ; 2
+=500  1#$a"El mundo egipcio: los faraones" es una subserie de tres volúmenes, que forma parte de la serie El Universo de las Formas. Contenido de la subserie: 1. Los tiempos de las pirámides: de la Prehistoria a los hicsos (1560 a.C.); 2. El imperio de los conquistadores (1560-1070 a. de C.); 3. El Egipto del crepúsculo (1070 a. de C.-siglo IV d. de C.)
+=505  0#$tPrefacio / por Jean Leclant (p. VII)
+=505  0#$tPRIMERA PARTE : Arquitectura / por Paul Barguet (p. 9) -- Bajo relieve y pintura / por Hans Wolfgang Müller (p. 67) -- Estatuaria / por Cyril Aldred (p. 139) -- Artes de metamorfosis / por Christiane Desroches-Noblecourt (p. 205) -- Conclusión / por Jean Leclant (p. 271)
+=505  0#$tPARTE SEGUNDA : Itinerario paralelo (p. 273)
+=505  0#$tPARTE TERCERA : Documentación general (p. 299)
 =942  ##$cBK
-=952  ##$p$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+=952  ##$p10377$10$2ddc$aLPL$bLPL$cR$kDON$o703 UNIm2$e$5$7

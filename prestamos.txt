@@ -644,11 +644,6 @@ INV: 10109
 RETIRÓ EL: 22/05/2026
 PRESTADO
 
-LIBRO: EL MUNDO MAGICO DE LAS hadas
-INV: 10291
-RETIRÓ EL: 22/05/2026
-PRESTADO
-
 LIBRO: Aprender a escuchar música
 INV: 7775
 RETIRÓ EL: 22/05/2026
@@ -834,11 +829,6 @@ INV: 146
 RETIRÓ EL: 13/08/2026
 PRESTADO
 
-LIBRO: La verdadera historia del principito [antoine de saint-exupery]
-INV: 5209
-RETIRÓ EL: 18/08/2026
-PRESTADO
-
 LIBRO: Dragon Ball. 12
 INV: 3585
 RETIRÓ EL: 18/08/2026
@@ -942,4 +932,9 @@ PRESTADO
 LIBRO: El grito manso
 INV: 2056
 RETIRÓ EL: 25/08/2026
+PRESTADO
+
+LIBRO: Educacion Sexual Integral
+INV: 8851
+RETIRÓ EL: 27/08/2026
 PRESTADO
