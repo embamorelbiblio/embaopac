@@ -918,3 +918,23 @@ LIBRO: Ilustracion creadora
 INV: 543
 RETIRÓ EL: 31/08/2026
 PRESTADO
+
+LIBRO: Theo angelopoulos. la mirada de Ulises to vlemma tou odyssea. estudio critico
+INV: 6179
+RETIRÓ EL: 31/08/2026
+PRESTADO
+
+LIBRO: L'art japonais. 4 : l'estampe
+INV: 1917
+RETIRÓ EL: 31/08/2026
+PRESTADO
+
+LIBRO: Arte popular de Japón : arte popular asiático
+INV: 1916
+RETIRÓ EL: 31/08/2026
+PRESTADO
+
+LIBRO: Cultos y canonizaciones populares de Argentina
+INV: 10398
+RETIRÓ EL: 31/08/2026
+PRESTADO
