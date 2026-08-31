@@ -844,11 +844,6 @@ INV: 6309
 RETIRÓ EL: 18/08/2026
 PRESTADO
 
-LIBRO: Historia cultural del Japón : una perspectiva
-INV: 1915
-RETIRÓ EL: 18/08/2026
-PRESTADO
-
 LIBRO: Dibujo al alcance de todos
 INV: 122
 RETIRÓ EL: 19/08/2026
@@ -869,11 +864,6 @@ INV: 3627
 RETIRÓ EL: 20/08/2026
 PRESTADO
 
-LIBRO: Leyendas de nuestra tierra
-INV: 9278
-RETIRÓ EL: 20/08/2026
-PRESTADO
-
 LIBRO: pintemos los animales
 INV: 10376
 RETIRÓ EL: 21/08/2026
@@ -887,11 +877,6 @@ PRESTADO
 LIBRO: El codigo da vinci
 INV: 4226
 RETIRÓ EL: 21/08/2026
-PRESTADO
-
-LIBRO: El grito manso
-INV: 2056
-RETIRÓ EL: 25/08/2026
 PRESTADO
 
 LIBRO: Mafalda y sus amigos (seleccion) 5 ejemplares
@@ -917,4 +902,19 @@ PRESTADO
 LIBRO: Las palabras andantes
 INV: 10379
 RETIRÓ EL: 28/08/2026
+PRESTADO
+
+LIBRO: Manual de esmaltes cerámicos : tomo 1
+INV: 851
+RETIRÓ EL: 28/08/2026
+PRESTADO
+
+LIBRO: Enseñar distinto
+INV: 8857
+RETIRÓ EL: 31/08/2026
+PRESTADO
+
+LIBRO: Ilustracion creadora
+INV: 543
+RETIRÓ EL: 31/08/2026
 PRESTADO
