@@ -123906,12 +123906,12 @@
 
 =LDR  10003nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260821000000.0
+=005  20260831000000.0
 =008  216020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=245  10$apintemos los animales
+=245  10$aPintemos los animales
 =942  ##$cBK
-=952  ##$p10376$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+=952  ##$p10376$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
 
 =LDR  10124nmc  2200000 a 4500
 =003  AR-QuEMBA
@@ -124154,3 +124154,18 @@
 =300  0#$a28 p.
 =942  ##$cBK
 =952  ##$p10397$10$2ddc$aLPL$bLPL$c$k$o759.061 GAU$e$5$7
+
+=LDR  10032nmc  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260831000000.0
+=008  316020n        ||||||||||||||000 | spa||
+=020  ##$a9509413100
+=040  ##$cAR-QuEMBA
+=100  1#$aColuccio, Félix
+=245  10$aCultos y canonizaciones populares de Argentina
+=260  ##$aBuenos Aires : Del Sol, 1986
+=300  0#$a201 p.
+=490  #0$aBiblioteca de Cultura Popular ; 6
+=505  0#$tPrincipales devociones (p. 11) -- Los gauchos milagrosos (p. 65) -- Iluminados y líderes espirituales (p. 93) -- El santoral sospechoso (p. 117)
+=942  ##$cBK
+=952  ##$p10398$10$2ddc$aLPL$bLPL$c$kDON$o390 COL$e$5$7
