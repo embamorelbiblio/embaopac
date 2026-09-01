@@ -489,11 +489,6 @@ INV: 8142
 RETIRÓ EL: 09/04/2026
 PRESTADO
 
-LIBRO: HISTORIA SOCIAL DE LA LITERATURA
-INV: 9711
-RETIRÓ EL: 13/04/2026
-PRESTADO
-
 LIBRO: El dibujo de figura en todo su valor
 INV: 8393
 RETIRÓ EL: 15/04/2026
@@ -934,7 +929,12 @@ INV: 1916
 RETIRÓ EL: 31/08/2026
 PRESTADO
 
-LIBRO: Cultos y canonizaciones populares de Argentina
-INV: 10398
+LIBRO: Ir más allá de la piel : repensar, rehacer y reivindicar el cuerpo en el capitalismo contemporáneo
+INV: 510
+RETIRÓ EL: 31/08/2026
+PRESTADO
+
+LIBRO: Esferas de la insurrección : apuntes para descolonizar el inconsciente
+INV: 2443
 RETIRÓ EL: 31/08/2026
 PRESTADO
