@@ -499,11 +499,6 @@ INV: 7668
 RETIRÓ EL: 16/04/2026
 PRESTADO
 
-LIBRO: El simbolismo
-INV: 508
-RETIRÓ EL: 17/04/2026
-PRESTADO
-
 LIBRO: Paredes del Conurbano
 INV: 7565
 RETIRÓ EL: 21/04/2026
@@ -577,16 +572,6 @@ PRESTADO
 LIBRO: La creatividad
 INV: 1967
 RETIRÓ EL: 11/05/2026
-PRESTADO
-
-LIBRO: Goya
-INV: 8406
-RETIRÓ EL: 13/05/2026
-PRESTADO
-
-LIBRO: La obra completa de Goya
-INV: 10259
-RETIRÓ EL: 13/05/2026
 PRESTADO
 
 LIBRO: Diseño grafico para la gente
@@ -787,21 +772,6 @@ PRESTADO
 LIBRO: Desarrollo del ballet en la argentina
 INV: 2008
 RETIRÓ EL: 11/08/2026
-PRESTADO
-
-LIBRO: El dibujo anatomico a su alcance
-INV: 8392
-RETIRÓ EL: 12/08/2026
-PRESTADO
-
-LIBRO: Atlas ilustrado de dibujo y pintura
-INV: 8341
-RETIRÓ EL: 12/08/2026
-PRESTADO
-
-LIBRO: El dibujo de figura en todo su valor
-INV: 119
-RETIRÓ EL: 12/08/2026
 PRESTADO
 
 LIBRO: Una psicoterapia por el arte : teoría y técnica
@@ -1012,4 +982,44 @@ PRESTADO
 LIBRO: Roma antigua
 INV: 1269
 RETIRÓ EL: 01/09/2026
+PRESTADO
+
+LIBRO: La obra completa de Gauguin
+INV: 10405
+RETIRÓ EL: 02/09/2026
+PRESTADO
+
+LIBRO: Enrique Matisse
+INV: 8692
+RETIRÓ EL: 02/09/2026
+PRESTADO
+
+LIBRO: Hals
+INV: 10406
+RETIRÓ EL: 02/09/2026
+PRESTADO
+
+LIBRO: La murcielaga
+INV: 3515
+RETIRÓ EL: 02/09/2026
+PRESTADO
+
+LIBRO: Esma
+INV: 10407
+RETIRÓ EL: 02/09/2026
+PRESTADO
+
+LIBRO: El mundo mágico de las brujas
+INV: 10291
+RETIRÓ EL: 02/09/2026
+PRESTADO
+
+LIBRO: Hadas
+INV: 10408
+RETIRÓ EL: 02/09/2026
+PRESTADO
+
+LIBRO: Hayez
+INV: 10116
+RETIRÓ EL: 02/09/2026
 PRESTADO

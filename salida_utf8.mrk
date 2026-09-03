@@ -124223,3 +124223,39 @@
 =245  10$aArte en el mundo
 =942  ##$cBK
 =952  ##$p10404$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10004nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260902000000.0
+=008  026020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aLa obra completa de Gauguin
+=942  ##$cBK
+=952  ##$p10405$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10001nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260902000000.0
+=008  026020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aHals
+=942  ##$cBK
+=952  ##$p10406$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10001nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260902000000.0
+=008  026020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aEsma
+=942  ##$cBK
+=952  ##$p10407$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260902000000.0
+=008  026020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aHadas
+=942  ##$cBK
+=952  ##$p10408$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
