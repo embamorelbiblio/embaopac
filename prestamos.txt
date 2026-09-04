@@ -504,11 +504,6 @@ INV: 7565
 RETIRÓ EL: 21/04/2026
 PRESTADO
 
-LIBRO: Diseño gráfico y comunicación
-INV: 2069
-RETIRÓ EL: 24/04/2026
-PRESTADO
-
 LIBRO: Poster- selected from the graphis annuals
 INV: 2067
 RETIRÓ EL: 24/04/2026
@@ -646,11 +641,6 @@ PRESTADO
 
 LIBRO: EGIPTO
 INV: 10305
-RETIRÓ EL: 28/05/2026
-PRESTADO
-
-LIBRO: Mesopotamia
-INV: 1261
 RETIRÓ EL: 28/05/2026
 PRESTADO
 
@@ -822,11 +812,6 @@ PRESTADO
 LIBRO: Comics
 INV: 3627
 RETIRÓ EL: 20/08/2026
-PRESTADO
-
-LIBRO: pintemos los animales
-INV: 10376
-RETIRÓ EL: 21/08/2026
 PRESTADO
 
 LIBRO: Manual de esmaltes cerámicos : tomo 2
@@ -1022,4 +1007,24 @@ PRESTADO
 LIBRO: Hayez
 INV: 10116
 RETIRÓ EL: 02/09/2026
+PRESTADO
+
+LIBRO: Matisse
+INV: 755
+RETIRÓ EL: 03/09/2026
+PRESTADO
+
+LIBRO: Matisse
+INV: 9486
+RETIRÓ EL: 03/09/2026
+PRESTADO
+
+LIBRO: Coleccion leonardo : perspectiva y teoria de las sombras
+INV: 1850
+RETIRÓ EL: 03/09/2026
+PRESTADO
+
+LIBRO: Coleccion leonardo : pintemos los animales : anatomia de los animales
+INV: 1857
+RETIRÓ EL: 03/09/2026
 PRESTADO

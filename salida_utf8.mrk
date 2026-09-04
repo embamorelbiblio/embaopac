@@ -98424,14 +98424,14 @@
 =942  ##$cBK
 =952  ##$p8395$10$2ddc$aLPL$bLPL$c$kDON$o720 COM$e$5$7
 
-=LDR  10014nmc  2200000 a 4500
+=LDR  10012nmc  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260903000000.0
 =008  283020s[201    ||||||||||||||000 | spa||
 =020  ##$a9788499280318
 =040  ##$cAR-QuEMBA
 =100  1#$aGarcía Sánchez, Laura
-=245  10$aFrida Kalho
+=245  10$aFrida Kahlo
 =260  ##$aMadrid$bSusaeta$c[2010?]
 =490  #0$aEnciclopedia del arte
 =942  ##$cBK
@@ -118171,12 +118171,12 @@
 
 =LDR  10014nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260903000000.0
 =008  285020s1992    ||||||||||||||000 | spa||
 =020  ##$a3822826803
 =040  ##$cAR-QuEMBA
 =100  1#$aKettenmann, Andrea
-=245  10$aFrida Kalho (1907- 1954)$bDolor y pasion
+=245  10$aFrida Kahlo (1907- 1954)$bDolor y pasion
 =260  ##$a[S.l.]$bBenedikt Taschen$c1992
 =942  ##$cBK
 =952  ##$p9922$10$2ddc$aLPL$bLPL$c$kDON$o759.98 KET$e$5$7
@@ -121358,29 +121358,31 @@
 =942  ##$cBK
 =952  ##$p10171$10$2ddc$aLPL$bLPL$c$k$o759.982 COS$e$5$7
 
-=LDR  10018nmm  2200000 a 4500
+=LDR  10168nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260903000000.0
 =008  086020s1988    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =700  1#$aCosta Peuser, Jorge A.$edirector
-=245  10$aDocumenta '88$bLa plastica Latinoamericana hoy
+=245  10$aDocumenta '88$bla plástica latinoamericana hoy
 =260  ##$aBuenos Aires$bArte al dia$c1988
 =300  0#$a240 p.
+=505  0#$tRaquel Forner : nuestro adiós a una creadora singular / por Jorge A. Costa Peuser (p. 2) -- Homenaje a José Antonio Usandiv Aras : fiel testigo de su tierra salteña (p. 4) -- Blas Castagna : refinamiento y fuerza / por Rafael Squirru (p. 5) -- Sergio Telles : alta vibración pictórica / por Rafael Squirru (p. 6) -- Axel Amuchastegui : casi desconocido en su país (p. 7) -- Axel Amuchastegui : pincel seco, empapado en magia / por Rafael Squirru (p. 8) -- Nasca y Mochica : dos antítesis estéticas, máximas expresiones ceramistas del Perú / por César Sondereguer (p. 10) -- Arte precolombino : palenque, paradigma arquitectónico intimista (p. 14) -- La colección de la Fundación Praxis Internacional (p. 16) -- VI salón de Arte Naif : meditación en torno del Arte Naive / por Enrique Horacio Gené (p. 50) -- "Armando Papiros" : Eva Jaewrbaun y el interlenguaje del campo gráfico / por Rosa Faccaro (p. 52) -- Enigmas y símbolos en la obra de Juan Kancepolski (p.53) -- Una familia de artistas plásticos argentinos en España / por Alberto Collazo (p. 54) -- Silvia Zavalla o exaltación del color / por José María Castiñeira de Dios (p. 55) -- Jorge Damiani : el mundo en el ser / por Angel Kalenberg (p. 56) -- Monika Misslbeck o el arte en tensión (p. 58) -- Jorge Schnitman : tres argumentos / por Raúl Santana (p. 59) -- John Ransome Phillips o la fragmentación y la realidad / por J. C. Brauer (p. 60) -- VI salón del anticuario : pensando en la próxima edición / por Adrián Gualdoni Basualdo (p. 230)
 =942  ##$cBK
-=952  ##$p10172$10$2ddc$aLPL$bLPL$c$k$o759.98 COS$e$5$7
+=952  ##$p10172$10$2ddc$aLPL$bLPL$c$kDON$o759.98 COS$e$5$7
 
-=LDR  10018nmm  2200000 a 4500
+=LDR  10085nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260903000000.0
 =008  086020s1987    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =700  1#$aCosta Peuser, Jorge A.$edirector
-=245  10$aDocumenta '87$bLa plastica Latinoamericana hoy
+=245  10$aDocumenta '87$bla plástica Latinoamericana hoy
 =260  ##$aBuenos Aires$bArte al dia$c1987
 =300  0#$a240 p.
+=505  0#$tSalón de artes plásticas "Pedro Domingo Murillo" de La Paz, Bolivia / por Gonzalo Iñiguez (p. 2) -- Chile vive : muestra de arte y cultura (p. 4) -- Filosofía del arte de América Latina / por Rafael Squirru (p. 6) -- Homenaje a Carlos Silva : figura del arte contemporáneo (p. 13) -- Fortunato Lacamera : en el centenario de su nacimiento (p. 15) -- Angel Fadul en su homenaje (p. 16) -- Reportaje a Bélgica Rodríguez : nueva presidente / por Laura Buccellatto (p. 18) -- V° salón de Arte Naif / por César Magrini (p. 20) -- Modernimo - Modermnidad y la filosofía de la historia / por Marcelin Pleynet (p. 22) -- Muestra colectiva de pintura argentina y europea (pp. 63-258)
 =942  ##$cBK
-=952  ##$p10173$10$2ddc$aLPL$bLPL$c$k$o759.98 COS$e$5$7
+=952  ##$p10173$10$2ddc$aLPL$bLPL$c$kDON$o759.98 COS$e$5$7
 
 =LDR  10007nmm  2200000 a 4500
 =003  AR-QuEMBA
