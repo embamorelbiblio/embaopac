@@ -824,16 +824,6 @@ INV: 4226
 RETIRÓ EL: 21/08/2026
 PRESTADO
 
-LIBRO: El arte correo en la Argentina
-INV: 7014
-RETIRÓ EL: 28/08/2026
-PRESTADO
-
-LIBRO: Matisse : 1869-1954
-INV: 8589
-RETIRÓ EL: 28/08/2026
-PRESTADO
-
 LIBRO: Diseños indigenas argentinos
 INV: 1050
 RETIRÓ EL: 28/08/2026
@@ -1027,4 +1017,24 @@ PRESTADO
 LIBRO: Coleccion leonardo : pintemos los animales : anatomia de los animales
 INV: 1857
 RETIRÓ EL: 03/09/2026
+PRESTADO
+
+LIBRO: Arte barroco. 1
+INV: 9811
+RETIRÓ EL: 04/09/2026
+PRESTADO
+
+LIBRO: El Barroco y el Rococó
+INV: 99
+RETIRÓ EL: 04/09/2026
+PRESTADO
+
+LIBRO: Acuarela
+INV: 6381
+RETIRÓ EL: 04/09/2026
+PRESTADO
+
+LIBRO: Much'as figures decoratives
+INV: 9396
+RETIRÓ EL: 04/09/2026
 PRESTADO
