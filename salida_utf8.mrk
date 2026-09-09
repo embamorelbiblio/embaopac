@@ -124244,14 +124244,21 @@
 =942  ##$cBK
 =952  ##$p10406$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
 
-=LDR  10001nmm  2200000 a 4500
+=LDR  10023nmc  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260902000000.0
-=008  026020n        ||||||||||||||000 | spa||
+=005  20260908000000.0
+=008  026020s2023    ||||||||||||||000 | spa||
+=020  ##$a9789874911247
 =040  ##$cAR-QuEMBA
+=100  1#$aCarrá, Juan
+=700  1#$aEcheverría, Iñaki
 =245  10$aEsma
+=250  ##$a1a ed.
+=260  ##$aCiudad Autónoma de Buenos Aires$bEvaristo$c2023
+=300  0#$a160 p.$bil. ; 25 x 17 cm.
+=490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p10407$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+=952  ##$p10407$10$2ddc$aLPL$bLPL$c$k$oIB 741.5982 CAR$e$5$7
 
 =LDR  10002nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -124287,3 +124294,18 @@
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
 =952  ##$p10410$10$2ddc$aLPL$bLPL$c$kDON$oIB 306.45 SER$e$5$7
+
+=LDR  10023nmc  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260908000000.0
+=008  086020s2023    ||||||||||||||000 | spa||
+=020  ##$a9789874164711
+=040  ##$cAR-QuEMBA
+=100  1#$aSáenz Valiente, Juan
+=245  10$aLa sudestada
+=250  ##$a1a ed.
+=260  ##$aCiudad Autónoma de Buenos Aires$bHotel de las idea$c2023
+=300  0#$a128 p.$bil. ; ilustrado por Juan Sáenz Valiente
+=490  #0$aIdentidades Bonaerenses
+=942  ##$cBK
+=952  ##$p10411$10$2ddc$aLPL$bLPL$c$k$oIB 741.5982 SAE$e$5$7
