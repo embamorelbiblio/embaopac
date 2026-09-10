@@ -124309,3 +124309,12 @@
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
 =952  ##$p10411$10$2ddc$aLPL$bLPL$c$k$oIB 741.5982 SAE$e$5$7
+
+=LDR  10003nmm  2200000 a 4500
+=003  AR-QuEMBA
+=005  20260909000000.0
+=008  096020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aEl lenguaje del dibujo
+=942  ##$cBK
+=952  ##$p10412$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
