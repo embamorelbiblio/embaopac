@@ -714,11 +714,6 @@ INV: 6692
 RETIRÓ EL: 16/07/2026
 PRESTADO
 
-LIBRO: Vanguardia, internacionalismo y politica arte argentino en los años sesenta
-INV: 3204
-RETIRÓ EL: 17/07/2026
-PRESTADO
-
 LIBRO: 13 Relatos negros
 INV: 9310
 RETIRÓ EL: 17/07/2026
@@ -844,11 +839,6 @@ INV: 8325
 RETIRÓ EL: 01/09/2026
 PRESTADO
 
-LIBRO: Cuentos silenciosos
-INV: 7377
-RETIRÓ EL: 01/09/2026
-PRESTADO
-
 LIBRO: Chagall
 INV: 10403
 RETIRÓ EL: 01/09/2026
@@ -856,11 +846,6 @@ PRESTADO
 
 LIBRO: Mondrian
 INV: 10402
-RETIRÓ EL: 01/09/2026
-PRESTADO
-
-LIBRO: Arte en el mundo
-INV: 10404
 RETIRÓ EL: 01/09/2026
 PRESTADO
 
@@ -944,26 +929,6 @@ INV: 3495
 RETIRÓ EL: 07/09/2026
 PRESTADO
 
-LIBRO: Comiqueando. 34
-INV: 6876
-RETIRÓ EL: 07/09/2026
-PRESTADO
-
-LIBRO: Cuadernos de dibujante
-INV: 3418
-RETIRÓ EL: 08/09/2026
-PRESTADO
-
-LIBRO: Panxarama . 6
-INV: 3356
-RETIRÓ EL: 08/09/2026
-PRESTADO
-
-LIBRO: Donde viven los monstruos
-INV: 7372
-RETIRÓ EL: 08/09/2026
-PRESTADO
-
 LIBRO: Nosotras, presas políticas : 1974 - 1983
 INV: 8281
 RETIRÓ EL: 08/09/2026
@@ -1037,4 +1002,19 @@ PRESTADO
 LIBRO: Impresionismo
 INV: 474
 RETIRÓ EL: 10/09/2026
+PRESTADO
+
+LIBRO: La obra completa de Botticelli 1445-1510
+INV: 9413
+RETIRÓ EL: 14/09/2026
+PRESTADO
+
+LIBRO: Sandro Botticelli
+INV: 8414
+RETIRÓ EL: 14/09/2026
+PRESTADO
+
+LIBRO: Norah Borges : la vanguardia enmascarada
+INV: 169
+RETIRÓ EL: 14/09/2026
 PRESTADO
