@@ -639,11 +639,6 @@ INV: 4631
 RETIRÓ EL: 28/05/2026
 PRESTADO
 
-LIBRO: EGIPTO
-INV: 10305
-RETIRÓ EL: 28/05/2026
-PRESTADO
-
 LIBRO: EL MUNDO DEL ARTE
 INV: 10306
 RETIRÓ EL: 28/05/2026
@@ -809,11 +804,6 @@ INV: 8857
 RETIRÓ EL: 31/08/2026
 PRESTADO
 
-LIBRO: Theo angelopoulos. la mirada de Ulises to vlemma tou odyssea. estudio critico
-INV: 6179
-RETIRÓ EL: 31/08/2026
-PRESTADO
-
 LIBRO: L'art japonais. 4 : l'estampe
 INV: 1917
 RETIRÓ EL: 31/08/2026
@@ -836,16 +826,6 @@ PRESTADO
 
 LIBRO: Frida Kahlo
 INV: 8325
-RETIRÓ EL: 01/09/2026
-PRESTADO
-
-LIBRO: Chagall
-INV: 10403
-RETIRÓ EL: 01/09/2026
-PRESTADO
-
-LIBRO: Mondrian
-INV: 10402
 RETIRÓ EL: 01/09/2026
 PRESTADO
 
@@ -949,11 +929,6 @@ INV: 1001
 RETIRÓ EL: 08/09/2026
 PRESTADO
 
-LIBRO: Derechos de la infancia y educación inclusiva en América Latina
-INV: 8742
-RETIRÓ EL: 08/09/2026
-PRESTADO
-
 LIBRO: Educacion Sexual Integral
 INV: 8854
 RETIRÓ EL: 08/09/2026
@@ -984,16 +959,6 @@ INV: 8302
 RETIRÓ EL: 09/09/2026
 PRESTADO
 
-LIBRO: Fader
-INV: 6567
-RETIRÓ EL: 10/09/2026
-PRESTADO
-
-LIBRO: Fader
-INV: 10092
-RETIRÓ EL: 10/09/2026
-PRESTADO
-
 LIBRO: Impresionistas
 INV: 533
 RETIRÓ EL: 10/09/2026
@@ -1017,4 +982,99 @@ PRESTADO
 LIBRO: Norah Borges : la vanguardia enmascarada
 INV: 169
 RETIRÓ EL: 14/09/2026
+PRESTADO
+
+LIBRO: Aprendiendo de la experiencia
+INV: 6295
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: El surrealismo
+INV: 6787
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Historia del surrealismo
+INV: 482
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Salvador Dali 1904-1989
+INV: 688
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: La pausa. 5 : del Rococó al Impresionismo
+INV: 105
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Estilos, escuelas y movimientos : guía enciclopédica del arte moderno
+INV: 507
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Expresionismo : una revolución artística alemana. 1
+INV: 7348
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: El Expresionismo y el Fauvismo. 1
+INV: 1160
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Historia del surrealismo
+INV: 539
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: El surrealismo
+INV: 483
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Goya
+INV: 1096
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Andy Warhol. giant size
+INV: 838
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Arte siglos XVII y XVIII. 1
+INV: 9986
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Arte siglos XVII y XVIII. 2
+INV: 660
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Expresionismo : una revolución artística alemana
+INV: 476
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Historia del arte argentino
+INV: 3171
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Enciclopedia universal de la pintura y la escultura
+INV: 8269
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Enciclopedia universal de la pintura y la escultura
+INV: 8270
+RETIRÓ EL: 15/09/2026
+PRESTADO
+
+LIBRO: Roma antigua
+INV: 1269
+RETIRÓ EL: 15/09/2026
 PRESTADO

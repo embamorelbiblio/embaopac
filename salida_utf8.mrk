@@ -10124,13 +10124,13 @@
 
 =LDR  10004nmm  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260915000000.0
 =008  215020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =245  10$aAndy Warhol. giant size
 =260  ##$aPhaidon Press Lim.
 =942  ##$cBK
-=952  ##$p838$10$2ddc$aLPL$bLPL$c$k$oBI-WAR-002 709.04038 $e$51$71
+=952  ##$p838$10$2ddc$aLPL$bLPL$c$kDON$oBI-WAR-002 709.04038 $e$5$7
 
 =LDR  10005nmm  2200000 a 4500
 =003  AR-QuEMBA
@@ -72134,16 +72134,21 @@
 =942  ##$cBK
 =952  ##$p6314$10$2ddc$aLPL$bLPL$c$k$o750.1 LEG$e$5$7
 
-=LDR  10005nmm  2200000 a 4500
+=LDR  10016nmc  2200000 a 4500
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260915000000.0
 =008  296020n        ||||||||||||||000 | spa||
+=020  ##$a8433535129
 =040  ##$cAR-QuEMBA
-=100  1#$aBreton, Andre
-=245  10$aManifiestos del surrealismo
-=260  ##$aLabor
+=100  1#$aBreton, André
+=245  10$aManifiestos del Surrealismo
+=250  ##$a2a ed.
+=260  ##$aBarcelona : Labor, 1995
+=300  0#$a338 p.
+=490  #0$aColección Labor
+=505  0#$tManifiesto 
 =942  ##$cBK
-=952  ##$p6315$10$2ddc$aLPL$bLPL$c$k$oTxA-010 $e$5$7
+=952  ##$p6315$10$2ddc$aLPL$bLPL$c$kDON$oTxA-010 $e$5$7
 
 =LDR  10009nmm  2200000 a 4500
 =003  AR-QuEMBA
