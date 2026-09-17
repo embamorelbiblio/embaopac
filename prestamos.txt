@@ -446,16 +446,6 @@ INV: 1906
 RETIRÓ EL: 17/11/2025
 PRESTADO
 
-LIBRO: La balada del álamo carolina
-INV: 10021
-RETIRÓ EL: 16/12/2025
-PRESTADO
-
-LIBRO: Donde no hago pie
-INV: 10102
-RETIRÓ EL: 16/12/2025
-PRESTADO
-
 LIBRO: Historia social de la literatura y el arte. 1 : desde la Prehistoria hasta el Barroco
 INV: 34
 RETIRÓ EL: 13/03/2026
@@ -463,11 +453,6 @@ PRESTADO
 
 LIBRO: La historia del arte
 INV: 29
-RETIRÓ EL: 13/03/2026
-PRESTADO
-
-LIBRO: Arte paleocristiano, bizantino
-INV: 1891
 RETIRÓ EL: 13/03/2026
 PRESTADO
 
@@ -784,11 +769,6 @@ INV: 4226
 RETIRÓ EL: 21/08/2026
 PRESTADO
 
-LIBRO: Diseños indigenas argentinos
-INV: 1050
-RETIRÓ EL: 28/08/2026
-PRESTADO
-
 LIBRO: Las palabras andantes
 INV: 10379
 RETIRÓ EL: 28/08/2026
@@ -809,11 +789,6 @@ INV: 1917
 RETIRÓ EL: 31/08/2026
 PRESTADO
 
-LIBRO: Arte popular de Japón : arte popular asiático
-INV: 1916
-RETIRÓ EL: 31/08/2026
-PRESTADO
-
 LIBRO: Ir más allá de la piel : repensar, rehacer y reivindicar el cuerpo en el capitalismo contemporáneo
 INV: 510
 RETIRÓ EL: 31/08/2026
@@ -822,11 +797,6 @@ PRESTADO
 LIBRO: Esferas de la insurrección : apuntes para descolonizar el inconsciente
 INV: 2443
 RETIRÓ EL: 31/08/2026
-PRESTADO
-
-LIBRO: Frida Kahlo
-INV: 8325
-RETIRÓ EL: 01/09/2026
 PRESTADO
 
 LIBRO: Arte gótico. 2
@@ -924,11 +894,6 @@ INV: 7395
 RETIRÓ EL: 08/09/2026
 PRESTADO
 
-LIBRO: Nuestros paisanos los indios : vida, historia y destino de las comunidades indígenas en la Argentina
-INV: 1001
-RETIRÓ EL: 08/09/2026
-PRESTADO
-
 LIBRO: Educacion Sexual Integral
 INV: 8854
 RETIRÓ EL: 08/09/2026
@@ -936,11 +901,6 @@ PRESTADO
 
 LIBRO: Castillos
 INV: 9937
-RETIRÓ EL: 08/09/2026
-PRESTADO
-
-LIBRO: Desnudo femenino al pastel
-INV: 6400
 RETIRÓ EL: 08/09/2026
 PRESTADO
 
@@ -957,16 +917,6 @@ PRESTADO
 LIBRO: En nombre del Che
 INV: 8302
 RETIRÓ EL: 09/09/2026
-PRESTADO
-
-LIBRO: Impresionistas
-INV: 533
-RETIRÓ EL: 10/09/2026
-PRESTADO
-
-LIBRO: Impresionismo
-INV: 474
-RETIRÓ EL: 10/09/2026
 PRESTADO
 
 LIBRO: La obra completa de Botticelli 1445-1510
@@ -989,92 +939,7 @@ INV: 6295
 RETIRÓ EL: 15/09/2026
 PRESTADO
 
-LIBRO: El surrealismo
-INV: 6787
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Historia del surrealismo
-INV: 482
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Salvador Dali 1904-1989
-INV: 688
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: La pausa. 5 : del Rococó al Impresionismo
-INV: 105
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Estilos, escuelas y movimientos : guía enciclopédica del arte moderno
-INV: 507
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Expresionismo : una revolución artística alemana. 1
-INV: 7348
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: El Expresionismo y el Fauvismo. 1
-INV: 1160
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Historia del surrealismo
-INV: 539
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: El surrealismo
-INV: 483
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Goya
-INV: 1096
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Andy Warhol. giant size
-INV: 838
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Arte siglos XVII y XVIII. 1
-INV: 9986
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Arte siglos XVII y XVIII. 2
-INV: 660
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Expresionismo : una revolución artística alemana
-INV: 476
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Historia del arte argentino
-INV: 3171
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Enciclopedia universal de la pintura y la escultura
-INV: 8269
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Enciclopedia universal de la pintura y la escultura
-INV: 8270
-RETIRÓ EL: 15/09/2026
-PRESTADO
-
-LIBRO: Roma antigua
-INV: 1269
-RETIRÓ EL: 15/09/2026
+LIBRO: El principito
+INV: 5034
+RETIRÓ EL: 16/09/2026
 PRESTADO
