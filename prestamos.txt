@@ -549,11 +549,6 @@ INV: 8856
 RETIRÓ EL: 07/05/2026
 PRESTADO
 
-LIBRO: La creatividad
-INV: 1967
-RETIRÓ EL: 11/05/2026
-PRESTADO
-
 LIBRO: Diseño grafico para la gente
 INV: 9355
 RETIRÓ EL: 14/05/2026
@@ -799,16 +794,6 @@ INV: 2443
 RETIRÓ EL: 31/08/2026
 PRESTADO
 
-LIBRO: Arte gótico. 2
-INV: 8114
-RETIRÓ EL: 01/09/2026
-PRESTADO
-
-LIBRO: Arte gótico. 1
-INV: 8113
-RETIRÓ EL: 01/09/2026
-PRESTADO
-
 LIBRO: La obra completa de Gauguin
 INV: 10405
 RETIRÓ EL: 02/09/2026
@@ -914,21 +899,6 @@ INV: 10412
 RETIRÓ EL: 09/09/2026
 PRESTADO
 
-LIBRO: En nombre del Che
-INV: 8302
-RETIRÓ EL: 09/09/2026
-PRESTADO
-
-LIBRO: La obra completa de Botticelli 1445-1510
-INV: 9413
-RETIRÓ EL: 14/09/2026
-PRESTADO
-
-LIBRO: Sandro Botticelli
-INV: 8414
-RETIRÓ EL: 14/09/2026
-PRESTADO
-
 LIBRO: Norah Borges : la vanguardia enmascarada
 INV: 169
 RETIRÓ EL: 14/09/2026
@@ -942,4 +912,9 @@ PRESTADO
 LIBRO: El principito
 INV: 5034
 RETIRÓ EL: 16/09/2026
+PRESTADO
+
+LIBRO: El silencio de las chicharras
+INV: 10409
+RETIRÓ EL: 17/09/2026
 PRESTADO

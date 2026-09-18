@@ -134789,3 +134789,13 @@
 =505  0#$tIntroducción (p. 14) -- Mamíferos nativos (p. 26) -- Mamíferos invasores (p. 84) -- Mamíferos marinos (p. 132)
 =942  ##$cBK
 =952  ##$p10415$10$2ddc$aLPL$bLPL$c$kDON$o743.6 FOR$e$5$7
+
+=LDR  10004nmm  2200000 a 4500
+=001  010416
+=003  AR-QuEMBA
+=005  20260917000000.0
+=008  176020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aCuadernos de Picadero$n28
+=942  ##$cBK
+=952  ##$p10416$10$2ddc$aLPL$bLPL$c$k$o792 $e$5$7
