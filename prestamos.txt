@@ -759,11 +759,6 @@ INV: 8195
 RETIRÓ EL: 21/08/2026
 PRESTADO
 
-LIBRO: El codigo da vinci
-INV: 4226
-RETIRÓ EL: 21/08/2026
-PRESTADO
-
 LIBRO: Las palabras andantes
 INV: 10379
 RETIRÓ EL: 28/08/2026
@@ -917,4 +912,14 @@ PRESTADO
 LIBRO: El silencio de las chicharras
 INV: 10409
 RETIRÓ EL: 17/09/2026
+PRESTADO
+
+LIBRO: Las tecnicas del grabado : guia de las tecnicas y de la historia del grabado de arte original
+INV: 2941
+RETIRÓ EL: 18/09/2026
+PRESTADO
+
+LIBRO: Los mitos de la historia argentina
+INV: 7682
+RETIRÓ EL: 18/09/2026
 PRESTADO
