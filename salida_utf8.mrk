@@ -78453,10 +78453,10 @@
 =942  ##$cBK
 =952  ##$p6314$10$2ddc$aLPL$bLPL$c$k$o750.1 LEG$e$5$7
 
-=LDR  10016nmc  2200000 a 4500
+=LDR  10056nmc  2200000 a 4500
 =001  006315
 =003  AR-QuEMBA
-=005  20260915000000.0
+=005  20260922000000.0
 =008  296020n        ||||||||||||||000 | spa||
 =020  ##$a8433535129
 =040  ##$cAR-QuEMBA
@@ -78466,7 +78466,7 @@
 =260  ##$aBarcelona : Labor, 1995
 =300  0#$a338 p.
 =490  #0$aColección Labor
-=505  0#$tManifiesto 
+=505  0#$tManifiesto del Surrealismo (p. 15) -- Pez soluble (p. 71) -- Advertencia en la reedición del Segundo Manifiesto (p. 147) -- Segundo Manifiesto del Surrealismo (p. 153) -- Carta a las videntes (p. 245) -- Discurso en el Congreso de Escritores (p. 257) -- Situación surrealista del objeto (p. 271) -- Prolegómenos a un tercer Manifiesto surrealista o no (p. 309) -- El Surrealismo en sus obras vivas (p. 327)
 =942  ##$cBK
 =952  ##$p6315$10$2ddc$aLPL$bLPL$c$kDON$oTxA-010 $e$5$7
 
@@ -134799,3 +134799,13 @@
 =245  10$aCuadernos de Picadero$n28
 =942  ##$cBK
 =952  ##$p10416$10$2ddc$aLPL$bLPL$c$k$o792 $e$5$7
+
+=LDR  10003nmm  2200000 a 4500
+=001  010417
+=003  AR-QuEMBA
+=005  20260922000000.0
+=008  226020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aThe bets of  ac dc
+=942  ##$cBK
+=952  ##$p10417$10$2ddc$aLPL$bLPL$c$k$o$e$5$7

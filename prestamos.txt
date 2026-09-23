@@ -769,11 +769,6 @@ INV: 851
 RETIRÓ EL: 28/08/2026
 PRESTADO
 
-LIBRO: Enseñar distinto
-INV: 8857
-RETIRÓ EL: 31/08/2026
-PRESTADO
-
 LIBRO: L'art japonais. 4 : l'estampe
 INV: 1917
 RETIRÓ EL: 31/08/2026
@@ -922,4 +917,34 @@ PRESTADO
 LIBRO: Los mitos de la historia argentina
 INV: 7682
 RETIRÓ EL: 18/09/2026
+PRESTADO
+
+LIBRO: Nativas
+INV: 9587
+RETIRÓ EL: 22/09/2026
+PRESTADO
+
+LIBRO: The bets of  ac dc
+INV: 10417
+RETIRÓ EL: 22/09/2026
+PRESTADO
+
+LIBRO: Arte barroco. 1
+INV: 9811
+RETIRÓ EL: 22/09/2026
+PRESTADO
+
+LIBRO: Expresionismo : una revolución artística alemana
+INV: 476
+RETIRÓ EL: 22/09/2026
+PRESTADO
+
+LIBRO: Los pibes del Santa
+INV: 10284
+RETIRÓ EL: 22/09/2026
+PRESTADO
+
+LIBRO: Goya
+INV: 8406
+RETIRÓ EL: 22/09/2026
 PRESTADO
