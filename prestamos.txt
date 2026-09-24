@@ -699,11 +699,6 @@ INV: 9659
 RETIRÓ EL: 17/07/2026
 PRESTADO
 
-LIBRO: Berni
-INV: 9807
-RETIRÓ EL: 04/08/2026
-PRESTADO
-
 LIBRO: Teoria transcultural del arte : hacia un pensamiento visual independiente : ensayo
 INV: 6354
 RETIRÓ EL: 10/08/2026
@@ -824,11 +819,6 @@ INV: 1857
 RETIRÓ EL: 03/09/2026
 PRESTADO
 
-LIBRO: El Barroco y el Rococó
-INV: 99
-RETIRÓ EL: 04/09/2026
-PRESTADO
-
 LIBRO: Acuarela
 INV: 6381
 RETIRÓ EL: 04/09/2026
@@ -947,4 +937,59 @@ PRESTADO
 LIBRO: Goya
 INV: 8406
 RETIRÓ EL: 22/09/2026
+PRESTADO
+
+LIBRO: Segunda Guerra Mundial
+INV: 10418
+RETIRÓ EL: 23/09/2026
+PRESTADO
+
+LIBRO: Las claves del arte barroco
+INV: 10419
+RETIRÓ EL: 23/09/2026
+PRESTADO
+
+LIBRO: El Seiscientos en Europa : el Barroco
+INV: 9812
+RETIRÓ EL: 23/09/2026
+PRESTADO
+
+LIBRO: Manierismo
+INV: 9793
+RETIRÓ EL: 23/09/2026
+PRESTADO
+
+LIBRO: Arte siglos XVII y XVIII. 1
+INV: 9986
+RETIRÓ EL: 23/09/2026
+PRESTADO
+
+LIBRO: Animal enamorado
+INV: 4011
+RETIRÓ EL: 23/09/2026
+PRESTADO
+
+LIBRO: Blancanieves
+INV: 4000
+RETIRÓ EL: 23/09/2026
+PRESTADO
+
+LIBRO: En el desvan
+INV: 3998
+RETIRÓ EL: 23/09/2026
+PRESTADO
+
+LIBRO: Gente, bichos, plantas: el mundo que me encanta
+INV: 3992
+RETIRÓ EL: 23/09/2026
+PRESTADO
+
+LIBRO: Manual de danzas nativas argentinas : coreografía historia y texto poético de las danzas
+INV: 9630
+RETIRÓ EL: 23/09/2026
+PRESTADO
+
+LIBRO: El arte de escuchar la música
+INV: 7326
+RETIRÓ EL: 23/09/2026
 PRESTADO

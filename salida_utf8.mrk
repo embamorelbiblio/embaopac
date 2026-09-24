@@ -3974,17 +3974,22 @@
 =942  ##$cBK
 =952  ##$p296$10$2ddc$aLPL$bLPL$c$kDON$o709.82092 SPI$e$5$7
 
-=LDR  10007nmm  2200000 a 4500
+=LDR  10035nmm  2200000 a 4500
 =001  000297
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260923000000.0
 =008  306020n        ||||||||||||||000 | spa||
+=020  ##$a9509807443
 =040  ##$cAR-QuEMBA
-=100  0#$aWhitelow-Fevre-Wechsler
+=100  1#$aWhitelow, Guillermo
+=700  1#$aFevre, Fermín
+=700  1#$aWechsler, Diana Beatriz
 =245  10$aSpilimbergo
-=260  ##$aFondo Nacional De Las Artes
+=260  ##$aBuenos Aires : Fondo Nacional de las Artes, 1999
+=300  0#$a237 p.
+=505  0#$tSpilimbergo / por Guillermo Whitelow (p. 11) -- Arcaísmo y modernidad / por Fermín Fevre (p. 15) -- Spilimbergo y el arte moderno en la Argentina / por Diana Beatriz Wechsler (p. 21)
 =942  ##$cBK
-=952  ##$p297$10$2ddc$aLPL$bLPL$c$k$oAA-Spi-001-bis $e$5$7
+=952  ##$p297$10$2ddc$aLPL$bLPL$c$kDON$o759.982 WHI$e$5$7
 
 =LDR  10006nmm  2200000 a 4500
 =001  000298
@@ -24779,18 +24784,22 @@
 =942  ##$cBK
 =952  ##$p1934$10$2ddc$aLPL$bLPL$c$k$oAOr-001 $e$5$7
 
-=LDR  10011nmc  2200000 a 4500
+=LDR  10051nmc  2200000 a 4500
 =001  001935
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260923000000.0
 =008  068020n        ||||||||||||||000 | spa||
+=020  ##$a9502601254
 =040  ##$cAR-QuEMBA
 =100  1#$aAbate, Francisco
 =245  10$aArte chino
-=260  ##$aBuenos Aires : Viscontea, 1983
+=250  ##$a2a ed.
+=260  ##$aBuenos Aires : Viscontea, 1984
+=300  0#$a150 p.
 =490  #0$aArte en el mundo ; 13
+=505  0#$tLa Prehistoria (p. 8) -- Dinastía Shang (p. 10) -- El reino de los Chou (p. 16) -- La dinastía de los Han (p. 28) -- Las Seis Dinastías (p. 48) -- El breve reinado de los Sui (p. 52) -- La China de los T'ang (p. 58) -- Las Cinco Dinastías (p. 64) -- Los nacionalistas Sung (p. 74) -- Los mongoles Yuan (p. 102) -- Los Ming (p. 114) -- Los Ch'ing (p. 124)
 =942  ##$cBK
-=952  ##$p1935$10$2ddc$aLPL$bLPL$c$k$oCol41-007 $e$5$7
+=952  ##$p1935$10$2ddc$aLPL$bLPL$c$kDON$o709.5 ABA$e$5$7
 
 =LDR  10018nmc  2200000 a 4500
 =001  001936
@@ -134636,15 +134645,21 @@
 =942  ##$cBK
 =952  ##$p10403$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
 
-=LDR  10003nmm  2200000 a 4500
+=LDR  10041nmc  2200000 a 4500
 =001  010404
 =003  AR-QuEMBA
-=005  20260901000000.0
+=005  20260923000000.0
 =008  016020n        ||||||||||||||000 | spa||
+=020  ##$a9502601459
 =040  ##$cAR-QuEMBA
-=245  10$aArte en el mundo
+=100  1#$aAbbate, Francesco
+=245  10$aCorrientes contemporáneas. 1
+=260  ##$aBuenos Aires : Viscontea, 1984
+=300  0#$a150 p.
+=490  #0$aArte en el mundo ; 33
+=505  0#$tLas consecuencias de la guerra (p. 8) -- Un nuevo vocabulario (p. 33) -- Los abstracto-expresionistas (p. 51) -- El descubrimiento de la materia (p. 62) -- El abstractismo geométrico (p. 71) -- Aspectos de la nueva pintura de la realidad (p. 81)
 =942  ##$cBK
-=952  ##$p10404$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+=952  ##$p10404$10$2ddc$aLPL$bLPL$c$kDON$o709.04 ABB$e$5$7
 
 =LDR  10004nmm  2200000 a 4500
 =001  010405
@@ -134809,3 +134824,56 @@
 =245  10$aThe bets of  ac dc
 =942  ##$cBK
 =952  ##$p10417$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10003nmm  2200000 a 4500
+=001  010418
+=003  AR-QuEMBA
+=005  20260923000000.0
+=008  236020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aSegunda Guerra Mundial
+=942  ##$cBK
+=952  ##$p10418$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10004nmm  2200000 a 4500
+=001  010419
+=003  AR-QuEMBA
+=005  20260923000000.0
+=008  236020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aLas claves del arte barroco
+=942  ##$cBK
+=952  ##$p10419$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10045nmm  2200000 a 4500
+=001  010420
+=003  AR-QuEMBA
+=005  20260923000000.0
+=008  236020n        ||||||||||||||000 | spa||
+=020  ##$a9789879132470
+=040  ##$cAR-QuEMBA
+=100  1#$aForcelli, Daniel
+=700  1#$aNarosky, Tito
+=700  1#$aZaffaroni, Juan Carlos$erevisión
+=245  10$aUruguayan seashells = Moluscos Marinos : Argentina, Uruguay, Brasil
+=250  ##$a1a ed.
+=260  ##$aBuenos Aires : Fundación Azara, 2015
+=300  0#$a270 p.
+=505  0#$tZona de pesca común Argentino-Uruguaya (p. 15) -- Clase Gastrópoda (p. 16) -- Clase Bivalvia (p. 124) -- Clase Cephalopoda (p. 173) -- Clase Scaphopoda (p. 184) -- Clase Aplacophora (p. 188) -- Clase Polyplacophora (p. 189)
+=942  ##$cBK
+=952  ##$p10420$10$2ddc$aLPL$bLPL$c$kDON$o743.6 FOR$e$5$7
+
+=LDR  10069nmm  2200000 a 4500
+=001  010421
+=003  AR-QuEMBA
+=005  20260923000000.0
+=008  236020n        ||||||||||||||000 | spa||
+=020  ##$a9789707770287
+=040  ##$cAR-QuEMBA
+=100  1#$aSheppard, Rob
+=245  10$aGuía de fotografía digital : secretos para hacer las mejores fotografías
+=250  ##$a1a ed.
+=260  ##$a[Barcelona] : National Geographic, 2004
+=505  0#$t¿Qué son las cámaras digitales? (p. 10) -- Cómo tomar fotografías digitales (p. 34) -- Jim Brandemburg, creatividad juguetona (p. 52) -- De la cámara al ordenador (p. 56) -- Michael Melford, implicar al sujeto (p. 72) -- Herramientas del cuarto oscuro (p. 76) -- Bruce Dale, fotoperiodista e ilustrador (p. 118) -- La ética y el cuarto oscuro (p. 122) -- George Lepp, todo sobre el control (p. 128) -- La copia (p. 132) -- Información útil (p. 146) -- Páginas web (p. 156) -- Revistas y libros (p. 157)
+=942  ##$cBK
+=952  ##$p10421$10$2ddc$aLPL$bLPL$c$kDON$o775 SHE$e$5$7
