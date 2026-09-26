@@ -123358,7 +123358,7 @@
 =LDR  10022nmc  2200000 a 4500
 =001  009586
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260925000000.0
 =008  134120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789874164704
 =040  ##$cAR-QuEMBA
@@ -123369,7 +123369,7 @@
 =300  0#$a144 p.$bil. 23 x 17 cm.
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p9586$10$2ddc$aLPL$bLPL$c$k$oL IDE$e$5$7
+=952  ##$p9586$10$2ddc$aLPL$bLPL$c$k$oIB 741 FER$e$5$7
 
 =LDR  10028nmc  2200000 a 4500
 =001  009587
@@ -123690,21 +123690,21 @@
 =942  ##$cBK
 =952  ##$p9605$10$2ddc$aLPL$bLPL$c$k$oIB 306 MUN$e$5$7
 
-=LDR  10018nmc  2200000 a 4500
+=LDR  10019nmc  2200000 a 4500
 =001  009606
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20260925000000.0
 =008  144120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789873994319
 =040  ##$cAR-QuEMBA
-=100  1#$aCinetto, Lialiana
+=100  1#$aCinetto, Liliana
 =245  10$aCristal
-=250  ##$a1a. ed.
+=250  ##$a1a ed.
 =260  ##$aCiudad Autonoma de Buenos Aires$bLa letra del gato$c2023
-=300  0#$a128 p.
+=300  0#$a128 p.$b21 x 15 cm.
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p9606$10$2ddc$aLPL$bLPL$c$k$oL IDE$e$5$7
+=952  ##$p9606$10$2ddc$aLPL$bLPL$c$k$oIB 863 CIN$e$5$7
 
 =LDR  10026nmc  2200000 a 4500
 =001  009607
@@ -134887,3 +134887,14 @@
 =245  10$aEl horror de Dunwich
 =942  ##$cBK
 =952  ##$p10422$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10001nmm  2200000 a 4500
+=001  010423
+=003  AR-QuEMBA
+=005  20260925000000.0
+=008  256020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aFalbo, Graciela
+=245  $c
+=942  ##$cBK
+=952  ##$p$10$2ddc$aLPL$bLPL$c$k$o$e$51$71
