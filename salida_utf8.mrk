@@ -9618,17 +9618,18 @@
 =942  ##$cBK
 =952  ##$p727$10$2ddc$aLPL$bLPL$c$k$oBI-GAU-007 $e$5$7
 
-=LDR  10007nmm  2200000 a 4500
+=LDR  10012nmm  2200000 a 4500
 =001  000728
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  306020n        ||||||||||||||000 | spa||
+=005  20260929000000.0
+=008  306020s1977    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aBignami, Ariel
-=245  10$aGauguin II (fasciculo)
-=260  ##$aCentro Editor De America Latina
+=245  10$aGauguin II$n98
+=260  ##$aBuenos Aires$bCentro Editor De America Latina$c1977
+=300  0#$a32 p.
 =942  ##$cBK
-=952  ##$p728$10$2ddc$aLPL$bLPL$c$k$oBI-GAU-008 $e$5$7
+=952  ##$p728$10$2ddc$aLPL$bLPL$c$k$o759.06 GAU$e$5$7
 
 =LDR  10011nmm  2200000 a 4500
 =001  000729
@@ -70304,7 +70305,7 @@
 =LDR  10029nmm  2200000 a 4500
 =001  005668
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20260929000000.0
 =008  035020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =245  10$aDe Cézanne a Miró : una exposición organizada bajo los auspicios del International Council of the Museum of Modern Art, New York
@@ -91278,7 +91279,7 @@
 =LDR  10023nmc  2200000 a 4500
 =001  007279
 =003  AR-QuEMBA
-=005  20260819000000.0
+=005  20260929000000.0
 =008  058020s1992    ||||||||||||||000 | spa||
 =020  ##$a95004122667
 =040  ##$cAR-QuEMBA
@@ -134898,3 +134899,36 @@
 =245  $c
 =942  ##$cBK
 =952  ##$p$10$2ddc$aLPL$bLPL$c$k$o$e$51$71
+
+=LDR  10003nmm  2200000 a 4500
+=001  010424
+=003  AR-QuEMBA
+=005  20260928000000.0
+=008  286020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aEx Libris- Foba F
+=942  ##$cBK
+=952  ##$p10424$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10007nmm  2200000 a 4500
+=001  010425
+=003  AR-QuEMBA
+=005  20260929000000.0
+=008  296020n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  1#$aAvellaneda, Lina
+=245  10$aCartas a Gracielita
+=942  ##$cBK
+=952  ##$p10425$10$2ddc$aLPL$bLPL$c$k$o323 $e$51$71
+
+=LDR  10009nmm  2200000 a 4500
+=001  010426
+=003  AR-QuEMBA
+=005  20260929000000.0
+=008  296020n        ||||||||||||||000 | spa||
+=020  ##$a9505816553
+=040  ##$cAR-QuEMBA
+=700  1#$aBarrera, Rosita
+=245  10$aEl folclore en la educación
+=942  ##$cBK
+=952  ##$p10426$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7

@@ -479,11 +479,6 @@ INV: 8393
 RETIRÓ EL: 15/04/2026
 PRESTADO
 
-LIBRO: Ch'ixinakax utxiwa
-INV: 7668
-RETIRÓ EL: 16/04/2026
-PRESTADO
-
 LIBRO: Paredes del Conurbano
 INV: 7565
 RETIRÓ EL: 21/04/2026
@@ -694,11 +689,6 @@ INV: 9659
 RETIRÓ EL: 17/07/2026
 PRESTADO
 
-LIBRO: Teoria transcultural del arte : hacia un pensamiento visual independiente : ensayo
-INV: 6354
-RETIRÓ EL: 10/08/2026
-PRESTADO
-
 LIBRO: Las bases del dibujo. 3
 INV: 10358
 RETIRÓ EL: 11/08/2026
@@ -774,21 +764,6 @@ INV: 2443
 RETIRÓ EL: 31/08/2026
 PRESTADO
 
-LIBRO: La obra completa de Gauguin
-INV: 10405
-RETIRÓ EL: 02/09/2026
-PRESTADO
-
-LIBRO: Enrique Matisse
-INV: 8692
-RETIRÓ EL: 02/09/2026
-PRESTADO
-
-LIBRO: Hals
-INV: 10406
-RETIRÓ EL: 02/09/2026
-PRESTADO
-
 LIBRO: El mundo mágico de las brujas
 INV: 10291
 RETIRÓ EL: 02/09/2026
@@ -854,16 +829,6 @@ INV: 9937
 RETIRÓ EL: 08/09/2026
 PRESTADO
 
-LIBRO: Manifiesto comunista
-INV: 2409
-RETIRÓ EL: 09/09/2026
-PRESTADO
-
-LIBRO: El lenguaje del dibujo
-INV: 10412
-RETIRÓ EL: 09/09/2026
-PRESTADO
-
 LIBRO: Aprendiendo de la experiencia
 INV: 6295
 RETIRÓ EL: 15/09/2026
@@ -879,16 +844,6 @@ INV: 10409
 RETIRÓ EL: 17/09/2026
 PRESTADO
 
-LIBRO: Las tecnicas del grabado : guia de las tecnicas y de la historia del grabado de arte original
-INV: 2941
-RETIRÓ EL: 18/09/2026
-PRESTADO
-
-LIBRO: Los mitos de la historia argentina
-INV: 7682
-RETIRÓ EL: 18/09/2026
-PRESTADO
-
 LIBRO: Nativas
 INV: 9587
 RETIRÓ EL: 22/09/2026
@@ -896,16 +851,6 @@ PRESTADO
 
 LIBRO: The bets of  ac dc
 INV: 10417
-RETIRÓ EL: 22/09/2026
-PRESTADO
-
-LIBRO: Arte barroco. 1
-INV: 9811
-RETIRÓ EL: 22/09/2026
-PRESTADO
-
-LIBRO: Expresionismo : una revolución artística alemana
-INV: 476
 RETIRÓ EL: 22/09/2026
 PRESTADO
 
@@ -1004,17 +949,77 @@ INV: 2901
 RETIRÓ EL: 24/09/2026
 PRESTADO
 
-LIBRO: Pettoruti
-INV: 249
-RETIRÓ EL: 25/09/2026
+LIBRO: El Románico en Francia, Inglaterra y España
+INV: 492
+RETIRÓ EL: 28/09/2026
 PRESTADO
 
-LIBRO: La obra completa de Botticelli 1445-1510
-INV: 9413
-RETIRÓ EL: 25/09/2026
+LIBRO: El Románico en Alemania y en Italia
+INV: 9715
+RETIRÓ EL: 28/09/2026
 PRESTADO
 
-LIBRO: Vermeer
-INV: 641
-RETIRÓ EL: 25/09/2026
+LIBRO: Historia social de la literatura y del arte. 1
+INV: 6662
+RETIRÓ EL: 28/09/2026
+PRESTADO
+
+LIBRO: Europa medieval
+INV: 1271
+RETIRÓ EL: 28/09/2026
+PRESTADO
+
+LIBRO: Transitar la formación pedagógica
+INV: 7390
+RETIRÓ EL: 28/09/2026
+PRESTADO
+
+LIBRO: Moron suburbio
+INV: 3354
+RETIRÓ EL: 28/09/2026
+PRESTADO
+
+LIBRO: Ex Libris- Foba F
+INV: 10424
+RETIRÓ EL: 28/09/2026
+PRESTADO
+
+LIBRO: La obra garfica del Expresionismo aleman
+INV: 9675
+RETIRÓ EL: 28/09/2026
+PRESTADO
+
+LIBRO: La xilografía. 8
+INV: 9817
+RETIRÓ EL: 28/09/2026
+PRESTADO
+
+LIBRO: El grabado en color
+INV: 7459
+RETIRÓ EL: 28/09/2026
+PRESTADO
+
+LIBRO: Formar y formarse en la enseñanza
+INV: 7402
+RETIRÓ EL: 28/09/2026
+PRESTADO
+
+LIBRO: Cartas a Gracielita
+INV: 10413
+RETIRÓ EL: 29/09/2026
+PRESTADO
+
+LIBRO: Arte románico
+INV: 8112
+RETIRÓ EL: 29/09/2026
+PRESTADO
+
+LIBRO: El folclore en la educación
+INV: 10426
+RETIRÓ EL: 29/09/2026
+PRESTADO
+
+LIBRO: Esma
+INV: 10407
+RETIRÓ EL: 29/09/2026
 PRESTADO
