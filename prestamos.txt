@@ -779,16 +779,6 @@ INV: 10116
 RETIRÓ EL: 02/09/2026
 PRESTADO
 
-LIBRO: Coleccion leonardo : perspectiva y teoria de las sombras
-INV: 1850
-RETIRÓ EL: 03/09/2026
-PRESTADO
-
-LIBRO: Coleccion leonardo : pintemos los animales : anatomia de los animales
-INV: 1857
-RETIRÓ EL: 03/09/2026
-PRESTADO
-
 LIBRO: Acuarela
 INV: 6381
 RETIRÓ EL: 04/09/2026
@@ -854,11 +844,6 @@ INV: 10417
 RETIRÓ EL: 22/09/2026
 PRESTADO
 
-LIBRO: Los pibes del Santa
-INV: 10284
-RETIRÓ EL: 22/09/2026
-PRESTADO
-
 LIBRO: Goya
 INV: 8406
 RETIRÓ EL: 22/09/2026
@@ -917,16 +902,6 @@ PRESTADO
 LIBRO: El arte de escuchar la música
 INV: 7326
 RETIRÓ EL: 23/09/2026
-PRESTADO
-
-LIBRO: D.n.a.2
-INV: 3332
-RETIRÓ EL: 24/09/2026
-PRESTADO
-
-LIBRO: Alita. 3
-INV: 3618
-RETIRÓ EL: 24/09/2026
 PRESTADO
 
 LIBRO: Comiqueando. 6
@@ -1022,4 +997,34 @@ PRESTADO
 LIBRO: Esma
 INV: 10407
 RETIRÓ EL: 29/09/2026
+PRESTADO
+
+LIBRO: La pintura francesa del siglo XIX : 1800-1870
+INV: 469
+RETIRÓ EL: 30/09/2026
+PRESTADO
+
+LIBRO: Pintura Moderna. 1800 - 1940
+INV: 10301
+RETIRÓ EL: 30/09/2026
+PRESTADO
+
+LIBRO: La civilización de los incas
+INV: 10309
+RETIRÓ EL: 30/09/2026
+PRESTADO
+
+LIBRO: Atuendo tradicional Argentino
+INV: 10428
+RETIRÓ EL: 30/09/2026
+PRESTADO
+
+LIBRO: Teoria transcultural del arte : hacia un pensamiento visual independiente : ensayo
+INV: 6354
+RETIRÓ EL: 30/09/2026
+PRESTADO
+
+LIBRO: D.n.a.2
+INV: 3332
+RETIRÓ EL: 01/10/2026
 PRESTADO
