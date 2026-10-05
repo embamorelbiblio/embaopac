@@ -11135,30 +11135,33 @@
 =942  ##$cBK
 =952  ##$p850$10$2ddc$aLPL$bLPL$c$k$oC3-009-fot. $e$5$7
 
-=LDR  10036nmm  2200000 a 4500
+=LDR  10041nmm  2200000 a 4500
 =001  000851
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261002000000.0
 =008  012020s1988    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aFernandez Chiti, Jorge
-=245  10$aManual de esmaltes cerámicos : tomo 1
+=245  10$aManual de esmaltes cerámicos. 1
+=250  ##$a3a ed. restructurada y ampliada
 =260  ##$aBuenos Aires$bCondorhuasi$c1988
+=300  0#$a276 p.
 =505  0#$tMaterias primas usuales en la preparación de esmaltes (p. 7) -- Clasificación de los esmaltes (p. 106) -- Propiedades y estructura de los esmaltes (p. 132) -- Prácticas con materiales básicos (p. 173) -- Cocción de los esmaltes (p. 198)
 =942  ##$cBK
-=952  ##$p851$10$2ddc$aLPL$bLPL$c$k$o738 FER$e$5$7
+=952  ##$p851$10$2ddc$aLPL$bLPL$c$kDON$o738 FER$e$5$7
 
-=LDR  10014nmm  2200000 a 4500
+=LDR  10035nmm  2200000 a 4500
 =001  000852
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261002000000.0
 =008  012120simpr    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aFernandez Chiti, Jorge
-=245  10$aManual de esmaltes cerámicos : tomo 2
+=245  10$aManual de esmaltes cerámicos. 2
 =260  ##$aBuenos Aires$bTaller Condorhuasi$cimpresión de 1977
+=505  0#$t6. Aplicación de los esmaltes (p. 7) -- 7. Defectos y ajustes de los esmaltes (p. 47) -- 8. Cálculo de los esmaltes (p. 81) -- 9. Esmaltes crudos de plomo (p. 131) -- 10. Otros esmaltes crudos y mixtos
 =942  ##$cBK
-=952  ##$p852$10$2ddc$aLPL$bLPL$c$k$o738 FER$e$5$7
+=952  ##$p852$10$2ddc$aLPL$bLPL$c$kDON$o738 FER$e$5$7
 
 =LDR  10010nmc  2200000 a 4500
 =001  000853
@@ -94093,20 +94096,20 @@
 =942  ##$cBK
 =952  ##$p7472$10$2ddc$aLPL$bLPL$c$k$oDAN-061 $e$5$7
 
-=LDR  10020nmm  2200000 a 4500
+=LDR  10065nmm  2200000 a 4500
 =001  007473
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261002000000.0
 =008  149020s1984    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aMelo, Setembrino
 =700  1#$aGuzman, Alicia Susana
 =700  1#$aGulli, Azucena Asunción
-=245  10$a50 danzas argentinas
+=245  10$a50 danzas argentinas [fotocopia]
 =260  ##$aBuenos Aires$c1984
-=505  0#$tCoreografías
+=505  0#$tAchachita (El restito) / letra, música y coreografía de José Hilario Gómez Basualdo (p. 13) -- Baile pampa / letra, música y coreografía de Sixto Lucero (p. 15) -- Bailecito cordobés / letra de Daniel Arjona; música de Guillermo Aguilar, coreografía de Olga D. de Frizzotti (p. 17) -- Caballito / Bailón Peralta Luna la presentó como danza tradicional de Santiago del Estero (p. 19) -- Celosa / letra, música y coreografía de Arabech (p. 23)
 =942  ##$cBK
-=952  ##$p7473$10$2ddc$aLPL$bLPL$c$k$oDAN-062 $e$5$7
+=952  ##$p7473$10$2ddc$aLPL$bLPL$c$kDON$oDAN-062 $e$5$7
 
 =LDR  10035nmm  2200000 a 4500
 =001  007474
@@ -104115,17 +104118,19 @@
 =942  ##$cBK
 =952  ##$p8194$10$2ddc$aLPL$bLPL$c$k$o738 RAD$e$5$7
 
-=LDR  10014nmm  2200000 a 4500
+=LDR  10037nmm  2200000 a 4500
 =001  008195
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  012120simpr    ||||||||||||||000 | spa||
+=005  20261002000000.0
+=008  012120s1977    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aFernandez Chiti, Jorge
-=245  10$aManual de esmaltes cerámicos : tomo 2
-=260  ##$aBuenos Aires$bTaller Condorhuasi$cimpresión de 1977
+=245  10$aManual de esmaltes cerámicos. 2 : el libro de las fórmulas
+=260  ##$aBuenos Aires$bCondorhuasi$c1977
+=300  0#$a194 p.
+=505  0#$t6. Aplicación de los esmaltes (p. 7) -- 7. Defectos y ajustes de los esmaltes (p. 47) -- 8. Cálculo de los esmaltes (p. 81) -- 9. Esmaltes crudos de plomo (p. 131) -- 10. Otros esmaltes crudos y mixtos
 =942  ##$cBK
-=952  ##$p8195$10$2ddc$aLPL$bLPL$c$k$o738 FER$e$5$7
+=952  ##$p8195$10$2ddc$aLPL$bLPL$c$kDON$o738 FER$e$5$7
 
 =LDR  10017nmm  2200000 a 4500
 =001  008196
@@ -123759,7 +123764,7 @@
 =LDR  10022nmc  2200000 a 4500
 =001  009610
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261002000000.0
 =008  154120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789873823848
 =040  ##$cAR-QuEMBA
@@ -123770,7 +123775,7 @@
 =300  0#$a128 p.$b23 x 15 cm.
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p9610$10$2ddc$aLPL$bLPL$c$k$oL IDE$e$5$7
+=952  ##$p9610$10$2ddc$aLPL$bLPL$c$k$oIB 784 DAC$e$5$7
 
 =LDR  10019nmc  2200000 a 4500
 =001  009611
@@ -123820,10 +123825,10 @@
 =942  ##$cBK
 =952  ##$p9613$10$2ddc$aLPL$bLPL$c$k$oIB A863 BOD$e$5$7
 
-=LDR  10021nmc  2200000 a 4500
+=LDR  10022nmc  2200000 a 4500
 =001  009614
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261002000000.0
 =008  154120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789878283821
 =040  ##$cAR-QuEMBA
@@ -123832,10 +123837,10 @@
 =245  10$aVida de un lapiz
 =250  ##$a1a. ed.
 =260  ##$aCiudad Autonoma de Buenos Aires$bLimonero$c2023
-=300  0#$a56 p.
+=300  0#$a56 p.$b30 x 18 cm.
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p9614$10$2ddc$aLPL$bLPL$c$k$oL IDE$e$5$7
+=952  ##$p9614$10$2ddc$aLPL$bLPL$c$k$oIB 741 SCH$e$5$7
 
 =LDR  10019nmc  2200000 a 4500
 =001  009615
@@ -123972,7 +123977,7 @@
 =LDR  10023nmc  2200000 a 4500
 =001  009623
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261002000000.0
 =008  194120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789873969720
 =040  ##$cAR-QuEMBA
@@ -123984,7 +123989,7 @@
 =300  0#$a32 p.$bil.
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p9623$10$2ddc$aLPL$bLPL$c$k$oL IDE$e$5$7
+=952  ##$p9623$10$2ddc$aLPL$bLPL$c$k$oIB A863 IDE$e$5$7
 
 =LDR  10017nmc  2200000 a 4500
 =001  009624
@@ -134980,3 +134985,20 @@
 =245  10$aRevista El Galpon$bDe la Comision de Homenaje a las Madres de Plaza de Mayo
 =942  ##$cBK
 =952  ##$p10430$10$2ddc$aLPL$bLPL$c$k$o323 $e$5$7
+
+=LDR  10026nmc  2200000 a 4500
+=001  010431
+=003  AR-QuEMBA
+=005  20261002000000.0
+=008  026120s2023    ||||||||||||||000 | spa||
+=020  ##$a9789878230061
+=040  ##$cAR-QuEMBA
+=700  1#$aCaterbetti, Jorge$ecompilador
+=245  10$aJorge Julio López$bMemoria escrita
+=250  ##$a1a ed. esp.
+=260  ##$aCiudad Autónoma de Buenos Aires$bMarea$c2023
+=300  0#$a168 p.$b24 x 16 cm.
+=490  #0$aHistoria urgente$v36
+=490  #0$aIdentidades Bonaerenses
+=942  ##$cBK
+=952  ##$p10431$10$2ddc$aLPL$bLPL$c$k$oIB 323.092 LOP$e$5$7

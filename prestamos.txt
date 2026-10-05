@@ -529,11 +529,6 @@ INV: 1999
 RETIRÓ EL: 05/05/2026
 PRESTADO
 
-LIBRO: 50 danzas argentinas
-INV: 7473
-RETIRÓ EL: 05/05/2026
-PRESTADO
-
 LIBRO: Contra-pedagogías de la crueldad
 INV: 3237
 RETIRÓ EL: 07/05/2026
@@ -734,18 +729,8 @@ INV: 3627
 RETIRÓ EL: 20/08/2026
 PRESTADO
 
-LIBRO: Manual de esmaltes cerámicos : tomo 2
-INV: 8195
-RETIRÓ EL: 21/08/2026
-PRESTADO
-
 LIBRO: Las palabras andantes
 INV: 10379
-RETIRÓ EL: 28/08/2026
-PRESTADO
-
-LIBRO: Manual de esmaltes cerámicos : tomo 1
-INV: 851
 RETIRÓ EL: 28/08/2026
 PRESTADO
 
@@ -814,11 +799,6 @@ INV: 8854
 RETIRÓ EL: 08/09/2026
 PRESTADO
 
-LIBRO: Castillos
-INV: 9937
-RETIRÓ EL: 08/09/2026
-PRESTADO
-
 LIBRO: Aprendiendo de la experiencia
 INV: 6295
 RETIRÓ EL: 15/09/2026
@@ -871,26 +851,6 @@ PRESTADO
 
 LIBRO: Arte siglos XVII y XVIII. 1
 INV: 9986
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
-LIBRO: Animal enamorado
-INV: 4011
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
-LIBRO: Blancanieves
-INV: 4000
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
-LIBRO: En el desvan
-INV: 3998
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
-LIBRO: Gente, bichos, plantas: el mundo que me encanta
-INV: 3992
 RETIRÓ EL: 23/09/2026
 PRESTADO
 
@@ -1027,4 +987,14 @@ PRESTADO
 LIBRO: D.n.a.2
 INV: 3332
 RETIRÓ EL: 01/10/2026
+PRESTADO
+
+LIBRO: Nippur Magnum. 114
+INV: 9444
+RETIRÓ EL: 02/10/2026
+PRESTADO
+
+LIBRO: Arteterapia : semánticas y morfologías
+INV: 6302
+RETIRÓ EL: 02/10/2026
 PRESTADO
