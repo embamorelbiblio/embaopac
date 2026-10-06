@@ -124783,18 +124783,19 @@
 =942  ##$cBK
 =952  ##$p9674$10$2ddc$aLPL$bLPL$c$kDON$o760 WIN$e$5$7
 
-=LDR  10017nmm  2200000 a 4500
+=LDR  10029nmm  2200000 a 4500
 =001  009675
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261005000000.0
 =008  315020s1981    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =700  1#$aRau, Bernard$eprologuista
-=245  10$aLa obra garfica del Expresionismo aleman
-=260  ##$a[S. l.]$bWilhelm Jungmann GmbH - Co$c1981
+=110  1#$aStuttgart. Instituto de Relaciones Culturales con el Exterior
+=245  10$aLa obra gráfica del Expresionismo alemán
+=260  ##$aStuttgart$bWilhelm Jungmann GmbH$c1981
 =300  0#$a150 p.
 =942  ##$cBK
-=952  ##$p9675$10$2ddc$aLPL$bLPL$c$k$o760 RAU$e$5$7
+=952  ##$p9675$10$2ddc$aLPL$bLPL$c$kDON$o760 RAU$e$5$7
 
 =LDR  10021nmm  2200000 a 4500
 =001  009676
@@ -126698,18 +126699,20 @@
 =942  ##$cBK
 =952  ##$p9816$10$2ddc$aLPL$bLPL$c$kDON$o709.033 ABB$e$5$7
 
-=LDR  10013nmm  2200000 a 4500
+=LDR  10073nmc  2200000 a 4500
 =001  009817
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261005000000.0
 =008  215020s1975    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=100  1#$aBalan, Américo A.
-=245  10$aLa xilografía$n8
-=260  ##$aBuenos Aires $bCentro Editor de America Latina$c1975
+=100  1#$aBalán, Américo A.
+=245  10$aLa xilografía
+=260  ##$aBuenos Aires$bCentro Editor de América Latina$c1975
 =300  0#$a64 p.
+=490  #0$aPueblos, hombres y formas en el arte ; 8
+=505  0#$tIntroducción (p. 33) -- La técnica (p. 34) -- Maderas (p. 36) -- Herramientas (p. 36) -- Afilado (p. 38) -- Rodillos (p. 39) -- Tintas (p. 39) -- Papeles (p. 40) -- Algunos conceptos (p. 40) -- Boceto (p. 43) -- Talla (p. 47) -- Estampación (p. 51) -- Estampación a mano (p. 51) -- Estampación en prensa (p. 52) -- Prensas (p. 54) -- Estampación en prensa de tornillo (p. 54) -- Estampación en la prensa de tórculo (p. 54) -- Notaciones (p. 58) -- Grabado a contrafibra (p. 58) -- Correcciones (p. 61) -- Camafeo (p. 62) -- Xilografía en color (p. 63)
 =942  ##$cBK
-=952  ##$p9817$10$2ddc$aLPL$bLPL$c$k$o761 BAL$e$5$7
+=952  ##$p9817$10$2ddc$aLPL$bLPL$c$kDON$o761 BAL$e$5$7
 
 =LDR  10019nmc  2200000 a 4500
 =001  009818
@@ -128913,19 +128916,20 @@
 =942  ##$cBK
 =952  ##$p9981$10$2ddc$aLPL$bLPL$c$k$o777 BAR$e$5$7
 
-=LDR  10013nmm  2200000 a 4500
+=LDR  10039nmm  2200000 a 4500
 =001  009982
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261005000000.0
 =008  245020s2024    ||||||||||||||000 | spa||
 =020  ##$a9789878291796
 =040  ##$cAR-QuEMBA
-=245  10$aVivas nos queremos
+=245  10$aVivas nos queremos. 2
 =250  ##$a1a ed.
 =260  ##$aCiudad Autónoma de Buenos Aires$bMuchas Nueces$c2024
 =300  0#$a112 p.$b24 x 17 cm.
+=505  0#$tEngendrar otra historia gráfica (p. 7) -- Las gráficas de la resistencia florecen en el asfalto (p. 13) -- Derivas transoceánicas (p. 17) -- Inglaterra y Alemania (p. 19) -- Francia (p. 25) -- Piba matancera (p. 35) -- Feminismos populares (p. 39)
 =942  ##$cBK
-=952  ##$p9982$10$2ddc$aLPL$bLPL$c$k$o761 VIV$e$5$7
+=952  ##$p9982$10$2ddc$aLPL$bLPL$c$kDON$o761 VIV$e$5$7
 
 =LDR  10015nmm  2200000 a 4500
 =001  009983
@@ -134758,15 +134762,21 @@
 =942  ##$cBK
 =952  ##$p10411$10$2ddc$aLPL$bLPL$c$k$oIB 741.5982 SAE$e$5$7
 
-=LDR  10003nmm  2200000 a 4500
+=LDR  10069nmc  2200000 a 4500
 =001  010412
 =003  AR-QuEMBA
-=005  20260909000000.0
+=005  20261005000000.0
 =008  096020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=245  10$aEl lenguaje del dibujo
+=100  1#$aBiedma, Carlos J.
+=700  1#$aD'Alfonso, Pedro G.
+=245  10$aEl lenguaje del dibujo : versión modificada del test de Wartegg
+=260  ##$aBuenos Aires : Kapelusz, 1960
+=300  0#$a125 p.
+=490  #0$aBiblioteca de Psicología Contemporánea
+=505  0#$tAntecedentes y fundamentos del WZT (p. 1) -- Nueva extensión e interpretación del test (p. 15) -- Determinación de las cualidades expresivas del dibujo (p. 23) -- Los temas como medios para descubrir y prever el comportamiento (p. 29) -- Factores de expresión (p. 33) -- Factores de integración (p. 53) -- Factores de representación (p. 65) -- Aplicación de los arquetipos al estilo del comportamiento (p. 73) -- Visión global de la prueba (p. 107) -- Control experimental (p. 115)
 =942  ##$cBK
-=952  ##$p10412$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+=952  ##$p10412$10$2ddc$aLPL$bLPL$c$kDON$o701.15 BIE$e$5$7
 
 =LDR  10007nmm  2200000 a 4500
 =001  010413
@@ -135002,3 +135012,29 @@
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
 =952  ##$p10431$10$2ddc$aLPL$bLPL$c$k$oIB 323.092 LOP$e$5$7
+
+=LDR  10008nmm  2200000 a 4500
+=001  010432
+=003  AR-QuEMBA
+=005  20261005000000.0
+=008  056120n        ||||||||||||||000 | spa||
+=020  ##$a9789874313423
+=040  ##$cAR-QuEMBA
+=100  1#$aOlivetti, Ariel
+=245  10$aAnatomía dibujada
+=942  ##$cBK
+=952  ##$p10432$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+
+=LDR  10010nmm  2200000 a 4500
+=001  010433
+=003  AR-QuEMBA
+=005  20261005000000.0
+=008  056120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=100  0#$aKalidasa
+=700  1#$aToussaint, Franz$etraductor
+=245  10$aSakuntala
+=260  ##$aBuenos Aires : Kraft, 1955
+=300  0#$a192 p.
+=942  ##$cBK
+=952  ##$p10433$10$2ddc$aLPL$bLPL$c$kDON$o895 KAL$e$5$7

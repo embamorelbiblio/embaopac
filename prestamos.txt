@@ -774,11 +774,6 @@ INV: 9396
 RETIRÓ EL: 04/09/2026
 PRESTADO
 
-LIBRO: Poesias
-INV: 4360
-RETIRÓ EL: 07/09/2026
-PRESTADO
-
 LIBRO: Nosotras, presas políticas : 1974 - 1983
 INV: 8281
 RETIRÓ EL: 08/09/2026
@@ -854,11 +849,6 @@ INV: 9986
 RETIRÓ EL: 23/09/2026
 PRESTADO
 
-LIBRO: Manual de danzas nativas argentinas : coreografía historia y texto poético de las danzas
-INV: 9630
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
 LIBRO: El arte de escuchar la música
 INV: 7326
 RETIRÓ EL: 23/09/2026
@@ -919,21 +909,6 @@ INV: 10424
 RETIRÓ EL: 28/09/2026
 PRESTADO
 
-LIBRO: La obra garfica del Expresionismo aleman
-INV: 9675
-RETIRÓ EL: 28/09/2026
-PRESTADO
-
-LIBRO: La xilografía. 8
-INV: 9817
-RETIRÓ EL: 28/09/2026
-PRESTADO
-
-LIBRO: El grabado en color
-INV: 7459
-RETIRÓ EL: 28/09/2026
-PRESTADO
-
 LIBRO: Formar y formarse en la enseñanza
 INV: 7402
 RETIRÓ EL: 28/09/2026
@@ -974,11 +949,6 @@ INV: 10309
 RETIRÓ EL: 30/09/2026
 PRESTADO
 
-LIBRO: Atuendo tradicional Argentino
-INV: 10428
-RETIRÓ EL: 30/09/2026
-PRESTADO
-
 LIBRO: Teoria transcultural del arte : hacia un pensamiento visual independiente : ensayo
 INV: 6354
 RETIRÓ EL: 30/09/2026
@@ -997,4 +967,14 @@ PRESTADO
 LIBRO: Arteterapia : semánticas y morfologías
 INV: 6302
 RETIRÓ EL: 02/10/2026
+PRESTADO
+
+LIBRO: Musica del brasil
+INV: 5472
+RETIRÓ EL: 05/10/2026
+PRESTADO
+
+LIBRO: Dibujo compendio anatomia
+INV: 132
+RETIRÓ EL: 05/10/2026
 PRESTADO
