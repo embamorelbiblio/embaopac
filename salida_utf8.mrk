@@ -24422,19 +24422,24 @@
 =942  ##$cBK
 =952  ##$p1909$10$2ddc$aLPL$bLPL$c$k$oMhi-079 $e$5$7
 
-=LDR  10014nmm  2200000 a 4500
+=LDR  10024nmc  2200000 a 4500
 =001  001910
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261006000000.0
 =008  308120n        ||||||||||||||000 | spa||
 =020  ##$a843457358X
 =040  ##$cAR-QuEMBA
 =100  1#$aRiviere, Jean
 =245  10$aEl arte oriental
 =260  ##$aBarcelona : Salvat, 1975
-=505  0#$tEl crisol hindú -- El arte en China y en Japón
+=300  0#$a143 p.
+=490  #0$aBiblioteca Salvat Grandes Temas ; 91
+=505  0#$tEl crisol hindú (p. 7) -- El arte en China y en Japón (p. 69)
+=651  #4$aINDIA
+=651  #4$aCHINA
+=651  #4$aJAPON
 =942  ##$cBK
-=952  ##$p1910$10$2ddc$aLPL$bLPL$c$k$oA-OR-004 $e$5$7
+=952  ##$p1910$10$2ddc$aLPL$bLPL$c$kDON$o709.5 RIV$e$5$7
 
 =LDR  10024nmc  2200000 a 4500
 =001  001911
@@ -119299,7 +119304,7 @@
 =LDR  10021nmm  2200000 a 4500
 =001  009312
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261006000000.0
 =008  134020s2011    ||||||||||||||000 | spa||
 =020  ##$a9789872612344
 =040  ##$cAR-QuEMBA
@@ -119311,7 +119316,7 @@
 =300  0#$a56 p.
 =659  ##$aLITERATURA - HISTORIETAS
 =942  ##$cBK
-=952  ##$p9312$10$2ddc$aLPL$bLPL$c$kDON$o741.5 MEG$e$51$71
+=952  ##$p9312$10$2ddc$aLPL$bLPL$c$kDON$o741.5 MEG$e$5$7
 
 =LDR  10020nmm  2200000 a 4500
 =001  009313
@@ -123558,10 +123563,10 @@
 =942  ##$cBK
 =952  ##$p9597$10$2ddc$aLPL$bLPL$c$k$oIB 306 SER$e$5$7
 
-=LDR  10069nmc  2200000 a 4500
+=LDR  10071nmc  2200000 a 4500
 =001  009598
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261006000000.0
 =008  144120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789876848626
 =040  ##$cAR-QuEMBA
@@ -123573,6 +123578,7 @@
 =700  1#$aPradelli, Angela
 =700  1#$aLópez Casanave, D
 =245  10$aMujeres por la memoria$bEscritoras argentinas cuentan la dictadura
+=250  ##$a1a ed. esp.
 =260  ##$aCiudad Autónoma de Buenos Aires$bColihue$c2023
 =300  0#$a96 p.$bil. ; 24 x 17 cm.
 =490  #0$aIdentidades Bonaerenses
