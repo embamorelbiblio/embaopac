@@ -754,11 +754,6 @@ INV: 10408
 RETIRÓ EL: 02/09/2026
 PRESTADO
 
-LIBRO: Hayez
-INV: 10116
-RETIRÓ EL: 02/09/2026
-PRESTADO
-
 LIBRO: Acuarela
 INV: 6381
 RETIRÓ EL: 04/09/2026
@@ -909,16 +904,6 @@ INV: 7402
 RETIRÓ EL: 28/09/2026
 PRESTADO
 
-LIBRO: Cartas a Gracielita
-INV: 10413
-RETIRÓ EL: 29/09/2026
-PRESTADO
-
-LIBRO: Arte románico
-INV: 8112
-RETIRÓ EL: 29/09/2026
-PRESTADO
-
 LIBRO: El folclore en la educación
 INV: 10426
 RETIRÓ EL: 29/09/2026
@@ -936,11 +921,6 @@ PRESTADO
 
 LIBRO: Pintura Moderna. 1800 - 1940
 INV: 10301
-RETIRÓ EL: 30/09/2026
-PRESTADO
-
-LIBRO: La civilización de los incas
-INV: 10309
 RETIRÓ EL: 30/09/2026
 PRESTADO
 
@@ -992,4 +972,34 @@ PRESTADO
 LIBRO: Diálogos entre arte y terapia : del "arte psicótico" al desarrollo de la arteterapia y sus aplicaciones
 INV: 5954
 RETIRÓ EL: 06/10/2026
+PRESTADO
+
+LIBRO: El dibujo de figura en todo su valor
+INV: 119
+RETIRÓ EL: 07/10/2026
+PRESTADO
+
+LIBRO: Rembrandt
+INV: 6491
+RETIRÓ EL: 07/10/2026
+PRESTADO
+
+LIBRO: El Greco
+INV: 6492
+RETIRÓ EL: 07/10/2026
+PRESTADO
+
+LIBRO: Rembrandt
+INV: 8337
+RETIRÓ EL: 07/10/2026
+PRESTADO
+
+LIBRO: Rembrandt Van Rijn
+INV: 1304
+RETIRÓ EL: 07/10/2026
+PRESTADO
+
+LIBRO: Goya
+INV: 1531
+RETIRÓ EL: 07/10/2026
 PRESTADO
