@@ -809,33 +809,8 @@ INV: 10417
 RETIRÓ EL: 22/09/2026
 PRESTADO
 
-LIBRO: Goya
-INV: 8406
-RETIRÓ EL: 22/09/2026
-PRESTADO
-
 LIBRO: Segunda Guerra Mundial
 INV: 10418
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
-LIBRO: Las claves del arte barroco
-INV: 10419
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
-LIBRO: El Seiscientos en Europa : el Barroco
-INV: 9812
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
-LIBRO: Manierismo
-INV: 9793
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
-LIBRO: Arte siglos XVII y XVIII. 1
-INV: 9986
 RETIRÓ EL: 23/09/2026
 PRESTADO
 
@@ -912,16 +887,6 @@ PRESTADO
 LIBRO: Esma
 INV: 10407
 RETIRÓ EL: 29/09/2026
-PRESTADO
-
-LIBRO: La pintura francesa del siglo XIX : 1800-1870
-INV: 469
-RETIRÓ EL: 30/09/2026
-PRESTADO
-
-LIBRO: Pintura Moderna. 1800 - 1940
-INV: 10301
-RETIRÓ EL: 30/09/2026
 PRESTADO
 
 LIBRO: Teoria transcultural del arte : hacia un pensamiento visual independiente : ensayo
@@ -1002,4 +967,9 @@ PRESTADO
 LIBRO: Goya
 INV: 1531
 RETIRÓ EL: 07/10/2026
+PRESTADO
+
+LIBRO: Historia de la música folklórica. 2
+INV: 1909
+RETIRÓ EL: 08/10/2026
 PRESTADO
