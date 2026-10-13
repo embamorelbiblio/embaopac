@@ -769,11 +769,6 @@ INV: 8281
 RETIRÓ EL: 08/09/2026
 PRESTADO
 
-LIBRO: El arte de amar : una investigación sobre la naturaleza del amor
-INV: 2405
-RETIRÓ EL: 08/09/2026
-PRESTADO
-
 LIBRO: El saber didactico
 INV: 7395
 RETIRÓ EL: 08/09/2026
@@ -914,11 +909,6 @@ INV: 5472
 RETIRÓ EL: 05/10/2026
 PRESTADO
 
-LIBRO: Dibujo compendio anatomia
-INV: 132
-RETIRÓ EL: 05/10/2026
-PRESTADO
-
 LIBRO: Guia del museo nacional de bellas artes
 INV: 3218
 RETIRÓ EL: 06/10/2026
@@ -972,4 +962,29 @@ PRESTADO
 LIBRO: Historia de la música folklórica. 2
 INV: 1909
 RETIRÓ EL: 08/10/2026
+PRESTADO
+
+LIBRO: Poemas
+INV: 4947
+RETIRÓ EL: 09/10/2026
+PRESTADO
+
+LIBRO: No silbes de noche
+INV: 10440
+RETIRÓ EL: 09/10/2026
+PRESTADO
+
+LIBRO: Proceso creador, terapia y existencia
+INV: 6265
+RETIRÓ EL: 09/10/2026
+PRESTADO
+
+LIBRO: El taller de terapia expresiva
+INV: 6268
+RETIRÓ EL: 09/10/2026
+PRESTADO
+
+LIBRO: Itinerarios de la modernidad : corrientes del pensamiento y tradiciones intelectuales desde la Ilustración hasta la posmodernidad [fotocopia]
+INV: 2546
+RETIRÓ EL: 09/10/2026
 PRESTADO

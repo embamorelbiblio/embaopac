@@ -6974,17 +6974,18 @@
 =942  ##$cBK
 =952  ##$p528$10$2ddc$aLPL$bLPL$c$kDON$o709.0342 HON$e$5$7
 
-=LDR  10016nmm  2200000 a 4500
+=LDR  10057nmm  2200000 a 4500
 =001  000529
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261009000000.0
 =008  215020s2007    ||||||||||||||000 | spa||
 =020  ##$a978386523578
 =040  ##$cAR-QuEMBA
 =100  1#$aSchlombs, Adele
-=245  10$aHiroshige 1797-1858$bEl maestro de la Xilografia japonesa Ukiyo-e
+=245  10$aHiroshige 1797-1858$bel maestro de la xilografía japonesa Ukiyo-e
 =260  ##$aKoln$bTaschen$c2007
 =300  0#$a96 p.
+=505  0#$tLa xilografía de paisajes : una nueva visión de la realidad (p. 6) -- Rutas y destinos de viaje (p. 14) -- La cultura urbana en Edo (p. 22) -- La importancia de los métodos occidentales de representación para la xilografía de paisajes (p. 34) -- La técnica de la estampa Ukiyo-e (p. 40) -- La vida de Hiroshige (p. 46) -- Series y pequeñas ediciones (p. 52) -- Hiroshige y el «Japonismo» europeo (p. 84)
 =942  ##$cBK
 =952  ##$p529$10$2ddc$aLPL$bLPL$c$kDON$o761 SCH$e$5$7
 
@@ -24398,18 +24399,20 @@
 =942  ##$cBK
 =952  ##$p1907$10$2ddc$aLPL$bLPL$c$k$o370.26 MIN$e$5$7
 
-=LDR  10020nmc  2200000 a 4500
+=LDR  10067nmc  2200000 a 4500
 =001  001908
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261009000000.0
 =008  238120n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aAbínzano, Roberto Carlos
 =245  10$aArte popular de China : arte popular asiático
 =260  ##$aBuenos Aires : Centro Editor de América Latina, 1976
+=300  0#$ap. 65-96
 =490  #0$aPueblos, hombres y formas en el arte ; 94
+=505  0#$tDe las grutas de Chukut'ien a las aguas sagradas del Hoan-ho (p. 65) -- El Neolítico (p. 66) -- El surgimiento de la civilización china (p. 69) -- La dinastía de los Shang (p. 69) -- Los reyes Chou y la conformación de la China clásica (p. 71) -- El Primer Imperio Chino (p. 79) -- El arrte bajo el Imperio de los Han (p. 79) -- La cultura popular china (p. 82) -- La complejidad etnográfica china (p. 94) -- El norte Yin y el sur Yang (p. 95)
 =942  ##$cBK
-=952  ##$p1908$10$2ddc$aLPL$bLPL$c$k$oCol43-094 $e$5$7
+=952  ##$p1908$10$2ddc$aLPL$bLPL$c$kDON$o709.5 ABI$e$5$7
 
 =LDR  10006nmm  2200000 a 4500
 =001  001909
@@ -24513,18 +24516,20 @@
 =942  ##$cBK
 =952  ##$p1915$10$2ddc$aLPL$bLPL$c$k$oA-OR-008 $e$5$7
 
-=LDR  10019nmc  2200000 a 4500
+=LDR  10063nmc  2200000 a 4500
 =001  001916
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261009000000.0
 =008  238120n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aAbínzano, Roberto Carlos
 =245  10$aArte popular de Japón : arte popular asiático
-=260  ##$aBuenos Aires : Centro Editor de América Latina
+=260  ##$aBuenos Aires : Centro Editor de América Latina, 1977
+=300  0#$ap. 33-64
 =490  #0$aPueblos, hombres y formas en el arte ; 90
+=505  0#$tJe-Pen-Kuo (p. 33) -- El medio geográfico (p. 34) -- Los tiempos prehistóricos (p. 35) -- El Neolítico (p. 35) -- Los Ainu (p. 37) -- Yayoi (p. 38) -- El primer imperio (p. 40) -- La cultura japonesa como epifenómeno de la cultura china (p. 40) -- El budismo (p. 43) -- Nara (p. 44) -- Heian (p. 50) -- Kamakura (p. 53) -- Muromachi (p. 54) -- Momoyama (p. 57) -- Edo (p. 60) -- El Japón tradicional (p. 62)
 =942  ##$cBK
-=952  ##$p1916$10$2ddc$aLPL$bLPL$c$k$oCol43-090 $e$5$7
+=952  ##$p1916$10$2ddc$aLPL$bLPL$c$kDON$o709.5 ABI$e$5$7
 
 =LDR  10010nmm  2200000 a 4500
 =001  001917
@@ -26557,18 +26562,18 @@
 =942  ##$cBK
 =952  ##$p2063$10$2ddc$aLPL$bLPL$c$k$o744.7 GLU$e$5$7
 
-=LDR  10013nmm  2200000 a 4500
+=LDR  10014nmm  2200000 a 4500
 =001  002064
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261009000000.0
 =008  223020s1970    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=100  1#$aBooth-Clibborn, Edward, editor
+=700  1#$aBooth-Clibborn, Edward$eeditor
 =245  10$aGraphis annual -
 =260  ##$aZurich$bWalter Herdeg, The Graphis Press$c1970
 =300  0#$a258 p.
 =942  ##$cBK
-=952  ##$p2064$10$2ddc$aLPL$bLPL$c$k$o744 BOO$e$51$71
+=952  ##$p2064$10$2ddc$aLPL$bLPL$c$kDON$o744 BOO$e$5$7
 
 =LDR  10017nmm  2200000 a 4500
 =001  002065
@@ -77826,17 +77831,20 @@
 =942  ##$cBK
 =952  ##$p6261$10$2ddc$aLPL$bLPL$c$k$oTERAP-002 $e$5$7
 
-=LDR  10006nmm  2200000 a 4500
+=LDR  10038nmm  2200000 a 4500
 =001  006262
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261009000000.0
 =008  296020n        ||||||||||||||000 | spa||
+=020  ##$a9874349883
 =040  ##$cAR-QuEMBA
-=100  1#$aTouson, Salomon
-=245  10$aEl dibujo en la terapia
-=260  ##$aEdicion de Autor
+=100  1#$aTouson, Salomón
+=245  10$aEl dibujo en la terapia : creación y curación
+=260  ##$aBuenos Aires : Cogtal, 2002
+=300  0#$a166 p.
+=505  0#$tEl dibujo (p. 27) -- La inteligencia visual-espacial (p. 37) -- Creación y curación (p. 47) -- El color (p. 67) -- Los materiales (p. 83) -- Los trabajos (p. 91) -- La creatividad y el terapeuta (p. 141) -- El título en la obra de arte (p. 153)
 =942  ##$cBK
-=952  ##$p6262$10$2ddc$aLPL$bLPL$c$k$oTERAP-003 $e$5$7
+=952  ##$p6262$10$2ddc$aLPL$bLPL$c$kDON$o741.15 TOU$e$5$7
 
 =LDR  10009nmm  2200000 a 4500
 =001  006263
@@ -135040,17 +135048,20 @@
 =942  ##$cBK
 =952  ##$p10431$10$2ddc$aLPL$bLPL$c$k$oIB 323.092 LOP$e$5$7
 
-=LDR  10008nmm  2200000 a 4500
+=LDR  10042nmm  2200000 a 4500
 =001  010432
 =003  AR-QuEMBA
-=005  20261005000000.0
+=005  20261009000000.0
 =008  056120n        ||||||||||||||000 | spa||
 =020  ##$a9789874313423
 =040  ##$cAR-QuEMBA
 =100  1#$aOlivetti, Ariel
 =245  10$aAnatomía dibujada
+=260  ##$aBuenos Aires : [s.n.], 1999
+=300  0#$a29 p.
+=505  0#$tProporciones masculinas (p. 4) -- Proporciones femeninas (p. 5) -- Figura humana (p. 6) -- Movimientos básicos (p. 7) -- Esqueleto (p. 11) -- Torso (p. 13) -- Pectoral (p. 16) -- Dorsal (p. 18) -- Brazos (p. 20) -- Piernas (p. 23) -- Estructura de la cabeza (p. 25) -- Manos (p. 28) -- Pies (p. 29)
 =942  ##$cBK
-=952  ##$p10432$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+=952  ##$p10432$10$2ddc$aLPL$bLPL$c$kDON$o743.49 OLI$e$5$7
 
 =LDR  10010nmm  2200000 a 4500
 =001  010433
@@ -135150,3 +135161,26 @@
 =490  #0$aHuellas
 =942  ##$cBK
 =952  ##$p10439$10$2ddc$aLPL$bLPL$c$kDON$o741.642 CIN$e$5$7
+
+=LDR  10003nmm  2200000 a 4500
+=001  010440
+=003  AR-QuEMBA
+=005  20261009000000.0
+=008  096120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aNo silbes de noche
+=942  ##$cBK
+=952  ##$p10440$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10126nmm  2200000 a 4500
+=001  010441
+=003  AR-QuEMBA
+=005  20261009000000.0
+=008  096120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aAnnual of advertising art in Japan 1964 = Anuario de arte publicitario en Japón 1964
+=260  ##$aTokyo : Bijutsu Shuppansha, 1964
+=300  0#$a276 p.
+=505  0#$tPreface = Kamekura yusaku (p. 7) -- The judging = OKA hideyuki (p. 8) -- The fusion of art and entertainment = Minami hiroshi (p. 12) -- Concerning television commercials  = OGI masashiro (p. 17) -- List of the winners and works (p. 20) -- Introduction of the winners of ADC prizes (p. 22) -- List of the person in charge of the Annual of Advertising Art in Japan (p. 33) -- Gold medal (p. 35) -- Silver medal (p. 49) -- Posters (p. 67) -- Magazine advertisements (p. 89) -- Newspaper advertisements (p. 113) -- Direct mail advertisement (p. 165) -- Packaging advertisements (p. 177) -- Point of purchase (p. 185) -- Displays and outdoor advertisements (p. 199) -- Editorial design (p. 207) -- Television commercials (p. 223) -- Advertising campaign of new products (p. 235) -- List of the members of Art Directors Club of Tokyo (p. 258) -- List of J.A.A.C., T.C.C.A., A.P.A., Nikakai Advertising Art Section, Tokyo Copywriters Club (p. 262) -- List of advertising groups and designers' groups in Japan (p. 271) -- Index (p. 272) -- Advertisements, index of advertisements (p. 277)
+=942  ##$cBK
+=952  ##$p10441$10$2ddc$aLPL$bLPL$c$kDON$o744.7 ANN$e$5$7
