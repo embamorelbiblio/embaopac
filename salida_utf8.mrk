@@ -79728,17 +79728,20 @@
 =942  ##$cBK
 =952  ##$p6412$10$2ddc$aLPL$bLPL$c$k$oTyD-036 $e$5$7
 
-=LDR  10004nmm  2200000 a 4500
+=LDR  10016nmc  2200000 a 4500
 =001  006413
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261013000000.0
+=008  296020s1997    ||||||||||||||000 | spa||
+=020  ##$a9502427547
 =040  ##$cAR-QuEMBA
 =100  1#$aSolari, Marta
-=245  10$aDorado
-=260  ##$aEd. Albatros
+=245  10$aDorado$bIconos, dorado y plateado a la hoja
+=260  ##$aBuenos Aires$bAlbatros$c1997
+=300  0#$a125 p.
+=490  #0$aDecore ud. mismo
 =942  ##$cBK
-=952  ##$p6413$10$2ddc$aLPL$bLPL$c$k$oTyD-037 $e$5$7
+=952  ##$p6413$10$2ddc$aLPL$bLPL$c$k$o751 SOL$e$5$7
 
 =LDR  10007nmm  2200000 a 4500
 =001  006414
@@ -123589,7 +123592,7 @@
 =LDR  10071nmc  2200000 a 4500
 =001  009598
 =003  AR-QuEMBA
-=005  20261006000000.0
+=005  20261013000000.0
 =008  144120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789876848626
 =040  ##$cAR-QuEMBA
@@ -123607,7 +123610,7 @@
 =490  #0$aIdentidades Bonaerenses
 =505  0#$tPrólogo / María Pia López (5) -- Los censores / Luisa Valenzuela (7) -- El árbol / Sara Rosenberg (13) -- Siete noches de insomnio / Elsa Osorio (21) -- Aparecidos / Victoria Mora (35) -- Poemas / Ana María Ponce (41) -- Jorgelina Paula Molina Planas / Angela Pradelli (47) -- Las autoras (89)
 =942  ##$cBK
-=952  ##$p9598$10$2ddc$aLPL$bLPL$c$k$oL IDE$e$5$7
+=952  ##$p9598$10$2ddc$aLPL$bLPL$c$k$oIB A863.9283 VAL$e$5$7
 
 =LDR  10025nmc  2200000 a 4500
 =001  009599
@@ -135184,3 +135187,17 @@
 =505  0#$tPreface = Kamekura yusaku (p. 7) -- The judging = OKA hideyuki (p. 8) -- The fusion of art and entertainment = Minami hiroshi (p. 12) -- Concerning television commercials  = OGI masashiro (p. 17) -- List of the winners and works (p. 20) -- Introduction of the winners of ADC prizes (p. 22) -- List of the person in charge of the Annual of Advertising Art in Japan (p. 33) -- Gold medal (p. 35) -- Silver medal (p. 49) -- Posters (p. 67) -- Magazine advertisements (p. 89) -- Newspaper advertisements (p. 113) -- Direct mail advertisement (p. 165) -- Packaging advertisements (p. 177) -- Point of purchase (p. 185) -- Displays and outdoor advertisements (p. 199) -- Editorial design (p. 207) -- Television commercials (p. 223) -- Advertising campaign of new products (p. 235) -- List of the members of Art Directors Club of Tokyo (p. 258) -- List of J.A.A.C., T.C.C.A., A.P.A., Nikakai Advertising Art Section, Tokyo Copywriters Club (p. 262) -- List of advertising groups and designers' groups in Japan (p. 271) -- Index (p. 272) -- Advertisements, index of advertisements (p. 277)
 =942  ##$cBK
 =952  ##$p10441$10$2ddc$aLPL$bLPL$c$kDON$o744.7 ANN$e$5$7
+
+=LDR  10018nmm  2200000 a 4500
+=001  010442
+=003  AR-QuEMBA
+=005  20261013000000.0
+=008  136120s1979    ||||||||||||||000 | spa||
+=020  ##$a8434200139
+=040  ##$cAR-QuEMBA
+=100  1#$aParramon, Jose M.
+=245  10$aAsi se pinta al pastel$b... a la cera al tempera en monotip con collage
+=260  ##$aBarcelona$bInstituto Parramon$c1979
+=300  0#$a123 p.
+=942  ##$cBK
+=952  ##$p10442$10$2ddc$aLPL$bLPL$c$k$o751 PAR$e$5$7

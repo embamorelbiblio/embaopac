@@ -988,3 +988,13 @@ LIBRO: Itinerarios de la modernidad : corrientes del pensamiento y tradiciones i
 INV: 2546
 RETIRÓ EL: 09/10/2026
 PRESTADO
+
+LIBRO: Matisse : 1869-1954
+INV: 8589
+RETIRÓ EL: 13/10/2026
+PRESTADO
+
+LIBRO: Hornos cerámicos
+INV: 844
+RETIRÓ EL: 13/10/2026
+PRESTADO
