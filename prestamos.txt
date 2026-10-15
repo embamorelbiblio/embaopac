@@ -929,11 +929,6 @@ INV: 5954
 RETIRÓ EL: 06/10/2026
 PRESTADO
 
-LIBRO: El dibujo de figura en todo su valor
-INV: 119
-RETIRÓ EL: 07/10/2026
-PRESTADO
-
 LIBRO: Rembrandt
 INV: 6491
 RETIRÓ EL: 07/10/2026
