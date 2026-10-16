@@ -7194,17 +7194,20 @@
 =942  ##$cBK
 =952  ##$p544$10$2ddc$aLPL$bLPL$c$k$oAPV-005 $e$5$7
 
-=LDR  10009nmm  2200000 a 4500
+=LDR  10021nmc  2200000 a 4500
 =001  000545
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  306020n        ||||||||||||||000 | spa||
+=005  20261015000000.0
+=008  306020s1994    ||||||||||||||000 | spa||
+=020  ##$a9500415597
 =040  ##$cAR-QuEMBA
 =100  1#$aWelton, Jude
-=245  10$aEntender la pintura, para comp, la pint y la comp
-=260  ##$aEmece Edit.-Amigos Mnba
+=245  10$aEntender la pintura$bGuia ilustrada esencial para comprender un pintura y su composicion
+=260  ##$aBuenos Aires$bEmece$c1994
+=300  0#$a64 p.
+=490  #0$aTetimonio visual del arte
 =942  ##$cBK
-=952  ##$p545$10$2ddc$aLPL$bLPL$c$k$oAPV-006 $e$5$7
+=952  ##$p545$10$2ddc$aLPL$bLPL$c$k$o751 WEL$e$5$7
 
 =LDR  10114nmm  2200000 a 4500
 =001  000546
@@ -79272,17 +79275,18 @@
 =942  ##$cBK
 =952  ##$p6376$10$2ddc$aLPL$bLPL$c$k$oTyC-039 $e$5$7
 
-=LDR  10011nmm  2200000 a 4500
+=LDR  10022nmm  2200000 a 4500
 =001  006377
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261015000000.0
+=008  296020s1945    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aSaavedra Mendez, Jorge
-=245  10$aConservacion y restauracion de antiguedades y objetos de arte
-=260  ##$aLibreria Hachette S.A.
+=245  10$aConservacion y restauracion de antiguedades y objetos de arte$bDoscientos ilustraciones en negro y doce laminas en colores
+=260  ##$aBuenos Aires$bCenturion$c1945
+=300  0#$a380 p.
 =942  ##$cBK
-=952  ##$p6377$10$2ddc$aLPL$bLPL$c$k$oTyD - 001 $e$5$7
+=952  ##$p6377$10$2ddc$aLPL$bLPL$c$k$o751 SAA$e$5$7
 
 =LDR  10009nmm  2200000 a 4500
 =001  006378
@@ -79399,16 +79403,19 @@
 =942  ##$cBK
 =952  ##$p6386$10$2ddc$aLPL$bLPL$c$k$oTyD-010 $e$5$7
 
-=LDR  10008nmm  2200000 a 4500
+=LDR  10017nmm  2200000 a 4500
 =001  006387
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261015000000.0
+=008  296020s1994    ||||||||||||||000 | spa||
+=020  ##$a8487809588
 =040  ##$cAR-QuEMBA
-=245  10$aTecnicas de pintura y diseño. oleo, la figura humana
-=260  ##$aEdiciones Genesis S,A.
+=700  1#$aGasch, Manuel$eeditor
+=245  10$aTecnicas de pintura y diseño. $bOleo. La figura humana
+=260  ##$aMexico$bGenesis$c1994
+=300  0#$a47 p.
 =942  ##$cBK
-=952  ##$p6387$10$2ddc$aLPL$bLPL$c$k$oTyD-011 $e$5$7
+=952  ##$p6387$10$2ddc$aLPL$bLPL$c$kDON$o751 GAS$e$5$7
 
 =LDR  10005nmm  2200000 a 4500
 =001  006388
@@ -113402,16 +113409,19 @@
 =942  ##$cBK
 =952  ##$p8864$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
 
-=LDR  10005nmm  2200000 a 4500
+=LDR  10012nmm  2200000 a 4500
 =001  008865
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  113020n        ||||||||||||||000 | spa||
+=005  20261015000000.0
+=008  113020s1999    ||||||||||||||000 | spa||
+=020  ##$a.
 =040  ##$cAR-QuEMBA
-=240  10$akeys to painting
-=245  10$akeys to painting
+=700  1#$aWolf, Rachel Rubin$eeditor
+=245  10$aFur
+=260  ##$aOhio$bNorth Ligth Books$c1999
+=300  0#$a125 p.
 =942  ##$cBK
-=952  ##$p8865$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+=952  ##$p8865$10$2ddc$aLPL$bLPL$c$k$o751 WOL$e$5$7
 
 =LDR  10034nmc  2200000 a 4500
 =001  008866
@@ -135201,3 +135211,18 @@
 =300  0#$a123 p.
 =942  ##$cBK
 =952  ##$p10442$10$2ddc$aLPL$bLPL$c$k$o751 PAR$e$5$7
+
+=LDR  10028nmc  2200000 a 4500
+=001  010443
+=003  AR-QuEMBA
+=005  20261015000000.0
+=008  156120s1993    ||||||||||||||000 | spa||
+=020  ##$a9500413469
+=040  ##$cAR-QuEMBA
+=100  1#$aClarke, Michael
+=245  10$aAcuarela$bGuia visual de la historia de este popular medio de pintura: desde sus inicios historicos hasta las obras de los grandes maestros contemporaneos.
+=260  ##$aBuenos Aires$bEmece$c1993
+=300  0#$a64 p.
+=490  #0$aTestimonio visual del arte
+=942  ##$cBK
+=952  ##$p10443$10$2ddc$aLPL$bLPL$c$k$o751 CLA$e$5$7

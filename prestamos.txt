@@ -509,16 +509,6 @@ INV: 10235
 RETIRÓ EL: 29/04/2026
 PRESTADO
 
-LIBRO: Nueva ceramica: revista latinoamericana : [revista]
-INV: 8172
-RETIRÓ EL: 29/04/2026
-PRESTADO
-
-LIBRO: Arte cerámico : [revista]
-INV: 934
-RETIRÓ EL: 29/04/2026
-PRESTADO
-
 LIBRO: Estética : historia y fundamentos
 INV: 9400
 RETIRÓ EL: 04/05/2026
