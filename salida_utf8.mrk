@@ -24504,20 +24504,23 @@
 =942  ##$cBK
 =952  ##$p1914$10$2ddc$aLPL$bLPL$c$k$oGG-042 $e$5$7
 
-=LDR  10058nmm  2200000 a 4500
+=LDR  10069nmm  2200000 a 4500
 =001  001915
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261019000000.0
 =008  308120n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=700  0#$aYutaka Tazawa ... [et al.]
+=700  1#$aTazawa, Yutaka
+=700  1#$aMatsubara, Saburo
+=700  1#$aOkuda, Shunsuke
+=700  1#$aNagahata, Yasunori
 =245  10$aHistoria cultural del Japón : una perspectiva
 =250  ##$a2a ed.
 =260  ##$a[Japón] : Ministerio de Relaciones Exteriores, 1985
 =300  0#$a120 p.
-=505  0#$tVida y cultura en la edad arcaica -- Establecimiento de un gobierno central y asimilación de la cultura budista -- Vida en la Corte y desarrollo de la cultura nacional -- Aparición de la clase guerrera y cultural medieval -- Arte y sensibilidad japonesas en la edad pre-moderna -- Desarrollo de las ciudades y nacimieno de la cultura ciudadana -- Hundimiento de la sociedad feudal y modernización
+=505  0#$tVida y cultura en la edad arcaica (p. 9) -- Establecimiento de un gobierno central y asimilación de la cultura budista (p. 21) -- Vida en la Corte y desarrollo de la cultura nacional (p. 39) -- Aparición de la clase guerrera y cultural medieval (p. 53) -- Arte y sensibilidad japonesas en la edad pre-moderna (p.69) -- Desarrollo de las ciudades y nacimieno de la cultura ciudadana (p. 83) -- Hundimiento de la sociedad feudal y modernización (p. 99) -- Lista de láminas (p. 113)
 =942  ##$cBK
-=952  ##$p1915$10$2ddc$aLPL$bLPL$c$k$oA-OR-008 $e$5$7
+=952  ##$p1915$10$2ddc$aLPL$bLPL$c$kDON$o709.5 HIS$e$5$7
 
 =LDR  10063nmc  2200000 a 4500
 =001  001916
@@ -41733,17 +41736,19 @@
 =942  ##$cBK
 =952  ##$p3290$10$2ddc$aLPL$bLPL$c$k$oHI-008 $e$5$7
 
-=LDR  10005nmm  2200000 a 4500
+=LDR  10011nmm  2200000 a 4500
 =001  003291
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  306020n        ||||||||||||||000 | spa||
+=005  20261019000000.0
+=008  306020s2010    ||||||||||||||000 | spa||
+=020  ##$a978849908786
 =040  ##$cAR-QuEMBA
 =100  1#$aKing, Stephen
 =245  10$aLa caida de gilead
-=260  ##$aDebolsillo
+=260  ##$aEspaña$bDebolsillo$c2010
+=500  0#$ahojas sueltas
 =942  ##$cBK
-=952  ##$p3291$10$2ddc$aLPL$bLPL$c$k$oHI-009 $e$5$7
+=952  ##$p3291$10$2ddc$aLPL$bLPL$c$k$o741.5 KIN$e$5$7
 
 =LDR  10019nmm  2200000 a 4500
 =001  003292
@@ -46434,18 +46439,14 @@
 =942  ##$cBK
 =952  ##$p3643$10$2ddc$aLPL$bLPL$c$k$oHI-363 $e$5$7
 
-=LDR  10013nmm  2200000 a 4500
+=LDR  10001nmm  2200000 a 4500
 =001  003644
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  194020s[19-    ||||||||||||||000 | spa||
+=005  20261019000000.0
+=008  194020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=100  0#$aLa Historieta Argentina
-=245  10$aLa Historieta Argentina
-=260  ##$aBuenos Aires$bAutoedicion$c[19--?]
-=300  0#$a66 p.
 =942  ##$cBK
-=952  ##$p3644$10$2ddc$aLPL$bLPL$c$kDON$o741.0982 HIS$e$5$7
+=952  ##$p3644$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
 
 =LDR  10014nmm  2200000 a 4500
 =001  003645
@@ -79379,29 +79380,35 @@
 =942  ##$cBK
 =952  ##$p6384$10$2ddc$aLPL$bLPL$c$kDON$o751 PAR$e$5$7
 
-=LDR  10007nmm  2200000 a 4500
+=LDR  10016nmc  2200000 a 4500
 =001  006385
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261019000000.0
+=008  296020s1979    ||||||||||||||000 | spa||
+=020  ##$a8434200112
 =040  ##$cAR-QuEMBA
 =100  1#$aParramon, Jose M.
 =245  10$aAsi se pinta al oleo
-=260  ##$aInt. Parramon Ediciones
+=260  ##$aBarcelona$bIntituto Parramon Ediciones$c1979
+=300  0#$a128 p.
+=490  #0$aAprender haciendo
 =942  ##$cBK
-=952  ##$p6385$10$2ddc$aLPL$bLPL$c$k$oTyD-009 $e$5$7
+=952  ##$p6385$10$2ddc$aLPL$bLPL$c$kDON$o751 PAR$e$5$7
 
-=LDR  10007nmm  2200000 a 4500
+=LDR  10016nmc  2200000 a 4500
 =001  006386
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261019000000.0
+=008  296020s1979    ||||||||||||||000 | spa||
+=020  ##$a8434200139
 =040  ##$cAR-QuEMBA
 =100  1#$aParramon, Jose M.
 =245  10$aAsi se pinta al pastel
-=260  ##$aInt. Parramon Ediciones
+=260  ##$aBarcelona$bInstituto Parramon$c1979
+=300  0#$a123 p.
+=490  #0$aAprender haciendo
 =942  ##$cBK
-=952  ##$p6386$10$2ddc$aLPL$bLPL$c$k$oTyD-010 $e$5$7
+=952  ##$p6386$10$2ddc$aLPL$bLPL$c$kDON$o751 PAR$e$5$7
 
 =LDR  10017nmm  2200000 a 4500
 =001  006387
@@ -79477,17 +79484,19 @@
 =942  ##$cBK
 =952  ##$p6392$10$2ddc$aLPL$bLPL$c$k$oTyD-016 $e$5$7
 
-=LDR  10007nmm  2200000 a 4500
+=LDR  10017nmc  2200000 a 4500
 =001  006393
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261019000000.0
+=008  296020s1968    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aCastagnino, Juan Carlos
 =245  10$aLa acuarela
-=260  ##$aCentro Editor De America Latina
+=260  ##$aBuenos Aires$bCentro Editor De America Latina$c1968
+=300  0#$a78 p.
+=490  #0$aLas tecnicas de las Artes Visuales
 =942  ##$cBK
-=952  ##$p6393$10$2ddc$aLPL$bLPL$c$k$oTyD-017 $e$5$7
+=952  ##$p6393$10$2ddc$aLPL$bLPL$c$kDON$o751 CAS$e$5$7
 
 =LDR  10008nmm  2200000 a 4500
 =001  006394
@@ -79723,17 +79732,20 @@
 =942  ##$cBK
 =952  ##$p6411$10$2ddc$aLPL$bLPL$c$k$o745 ROL$e$5$7
 
-=LDR  10005nmm  2200000 a 4500
+=LDR  10014nmc  2200000 a 4500
 =001  006412
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261019000000.0
+=008  296020s1997    ||||||||||||||000 | spa||
+=020  ##$a9502407954
 =040  ##$cAR-QuEMBA
 =100  1#$aMarangon, Dora De
 =245  10$aTrompe l'oeil
-=260  ##$aEd. Albatros
+=260  ##$aCapital Federal$bAlbatros$c1997
+=300  0#$a94 p.
+=490  #0$aPintura decorativa
 =942  ##$cBK
-=952  ##$p6412$10$2ddc$aLPL$bLPL$c$k$oTyD-036 $e$5$7
+=952  ##$p6412$10$2ddc$aLPL$bLPL$c$kDON$o751 MAR$e$5$7
 
 =LDR  10016nmc  2200000 a 4500
 =001  006413
@@ -79925,33 +79937,36 @@
 =942  ##$cBK
 =952  ##$p6427$10$2ddc$aLPL$bLPL$c$k$oTyD-051 $e$5$7
 
-=LDR  10044nmm  2200000 a 4500
+=LDR  10045nmm  2200000 a 4500
 =001  006428
 =003  AR-QuEMBA
-=005  20260810000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261019000000.0
+=008  296020s1979    ||||||||||||||000 | spa||
 =020  ##$a8431538120
 =040  ##$cAR-QuEMBA
 =100  1#$aManera, Domingo
 =245  10$aCurso rápido de pintura al óleo
 =250  ##$a2a ed.
-=260  ##$aBarcelona : De Vecchi, 1979
+=260  ##$aBarcelona $bDe Vecchi$c1979
 =300  0#$a153 p.
 =505  0#$tLos colores (p. 25) -- Teoría del colo (p. 26) -- Los pigmentos (p. 3) -- Aceites y barnices (p. 47) -- Elementos básicos de una tela (p. 53) -- Utensillos varios (p. 59) -- Naturaleza muerta (p. 67) -- Los paisajes (p. 81) -- El retrato (p. 95) -- Consejos prácticos (p. 109) -- Técnicas pictóricas (p. 119)
 =942  ##$cBK
 =952  ##$p6428$10$2ddc$aLPL$bLPL$c$kDON$o751 MAN$e$5$7
 
-=LDR  10007nmm  2200000 a 4500
+=LDR  10020nmc  2200000 a 4500
 =001  006429
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261019000000.0
+=008  296020s1978    ||||||||||||||000 | spa||
+=020  ##$a843420146
 =040  ##$cAR-QuEMBA
 =100  1#$aParramon, Jose M.
-=245  10$aEl bodegon al oleo
-=260  ##$aInt. Parramon Ediciones
+=245  10$aEl bodegon al oleo$bGuia artistica y tecnica para pintar al oleo
+=260  ##$aBarcelona$bIntituto Parramon$c1978
+=300  0#$a128 p.
+=490  #0$aAprender haciendo
 =942  ##$cBK
-=952  ##$p6429$10$2ddc$aLPL$bLPL$c$k$oTyD-053 $e$5$7
+=952  ##$p6429$10$2ddc$aLPL$bLPL$c$kDON$o751 PAR$e$5$7
 
 =LDR  10017nmc  2200000 a 4500
 =001  006430
@@ -80026,17 +80041,20 @@
 =942  ##$cBK
 =952  ##$p6434$10$2ddc$aLPL$bLPL$c$k$o743.6 COM$e$5$7
 
-=LDR  10004nmm  2200000 a 4500
+=LDR  10014nmc  2200000 a 4500
 =001  006435
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261019000000.0
+=008  296020s1977    ||||||||||||||000 | spa||
+=020  ##$a8432971049
 =040  ##$cAR-QuEMBA
 =100  1#$aComamala, Juan T.
 =245  10$aPintando al oleo
-=260  ##$aCeac
+=260  ##$aBarcelona$bCeac$c1977
+=300  0#$a202 p.
+=490  #0$aPintando y dibujando
 =942  ##$cBK
-=952  ##$p6435$10$2ddc$aLPL$bLPL$c$k$oTyD-059 $e$5$7
+=952  ##$p6435$10$2ddc$aLPL$bLPL$c$kDON$o751 COM$e$5$7
 
 =LDR  10030nmm  2200000 a 4500
 =001  006436
@@ -98443,19 +98461,19 @@
 =942  ##$cBK
 =952  ##$p7777$10$2ddc$aLPL$bLPL$c$kDON$o701 CHO$e$5$7
 
-=LDR  10012nmm  2200000 a 4500
+=LDR  10014nmm  2200000 a 4500
 =001  007778
 =003  AR-QuEMBA
-=005  20260701000000.0
+=005  20261019000000.0
 =008  299120s1940    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aLambry, Roberto
-=245  10$aPintar es fácil : con lavado, aguada y tinta china
+=245  10$aPintar es fácil $b(con lavada, aguada y tinta china)
 =260  ##$aBarcelona$bArs$c1940
-=300  0#$a207p.
+=300  0#$a207 p.
 =653  ##$aDIBUJO
 =942  ##$cBK
-=952  ##$p7778$10$2ddc$aLPL$bLPL$c$kDON$oA3 051$e$5$7
+=952  ##$p7778$10$2ddc$aLPL$bLPL$c$kDON$o751 LAM$e$5$7
 
 =LDR  10028nmc  2200000 a 4500
 =001  007779
@@ -131069,15 +131087,20 @@
 =942  ##$cBK
 =952  ##$p10131$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
 
-=LDR  10002nmm  2200000 a 4500
+=LDR  10035nmm  2200000 a 4500
 =001  010132
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261019000000.0
 =008  166020n        ||||||||||||||000 | spa||
+=020  ##$a382282735
 =040  ##$cAR-QuEMBA
+=100  1#$aBischoff, Ulrich
 =245  10$aEdvard Munch
+=260  ##$aKoln : Taschen, 1988
+=300  0#$a96 p.
+=505  0#$tMunch's Artistic Background : Christiana, Paris, Berlin (p. 6) -- The frieze of life : "A poem of life, love and death" (p. 30) -- Recognition late in life : portraits, landscapes and self-portraits (p. 64) -- Edvard Munch 1863-1944 : a chronology (p. 91)
 =942  ##$cBK
-=952  ##$p10132$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+=952  ##$p10132$10$2ddc$aLPL$bLPL$c$kDON$o759.2 BIS$e$5$7
 
 =LDR  10017nmc  2200000 a 4500
 =001  010133
@@ -134150,15 +134173,20 @@
 =942  ##$cBK
 =952  ##$p10359$10$2ddc$aLPL$bLPL$c$kDON$o707.4 BIE$e$5$7
 
-=LDR  10006nmm  2200000 a 4500
+=LDR  10031nmc  2200000 a 4500
 =001  010360
 =003  AR-QuEMBA
-=005  20260811000000.0
+=005  20261019000000.0
 =008  116020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=245  10$aMaravillas del arte$bHistoria universal del arte
+=100  1#$aAbate, Francisco
+=245  10$aDe la Escuela de París a la segunda guerra mundial. 2
+=260  ##$aBuenos Aires : Viscontea, 19777
+=300  0#$a150 p.
+=490  #0$aMaravillas del Arte : Historia Universal del Arte ; 37
+=505  0#$tLas grandes personalidades del Novecientos (p. 7) -- El Nuevo Realismo (p. 72) -- La arquitectura del Novecientos (p. 98)
 =942  ##$cBK
-=952  ##$p10360$10$2ddc$aLPL$bLPL$c$k$oAM-051 $e$5$7
+=952  ##$p10360$10$2ddc$aLPL$bLPL$c$kDON$o709.04 ABA$e$5$7
 
 =LDR  10076nmc  2200000 a 4500
 =001  010361

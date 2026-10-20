@@ -804,11 +804,6 @@ INV: 7326
 RETIRÓ EL: 23/09/2026
 PRESTADO
 
-LIBRO: Comiqueando. 6
-INV: 6959
-RETIRÓ EL: 24/09/2026
-PRESTADO
-
 LIBRO: El horror de Dunwich
 INV: 10422
 RETIRÓ EL: 24/09/2026
@@ -879,16 +874,6 @@ INV: 6354
 RETIRÓ EL: 30/09/2026
 PRESTADO
 
-LIBRO: D.n.a.2
-INV: 3332
-RETIRÓ EL: 01/10/2026
-PRESTADO
-
-LIBRO: Nippur Magnum. 114
-INV: 9444
-RETIRÓ EL: 02/10/2026
-PRESTADO
-
 LIBRO: Arteterapia : semánticas y morfologías
 INV: 6302
 RETIRÓ EL: 02/10/2026
@@ -944,11 +929,6 @@ INV: 1531
 RETIRÓ EL: 07/10/2026
 PRESTADO
 
-LIBRO: Historia de la música folklórica. 2
-INV: 1909
-RETIRÓ EL: 08/10/2026
-PRESTADO
-
 LIBRO: Poemas
 INV: 4947
 RETIRÓ EL: 09/10/2026
@@ -982,4 +962,109 @@ PRESTADO
 LIBRO: Hornos cerámicos
 INV: 844
 RETIRÓ EL: 13/10/2026
+PRESTADO
+
+LIBRO: Cybersix
+INV: 3579
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Cyber Six. 1
+INV: 1942
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Cybersix
+INV: 3578
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: La cuestión del arte en el siglo XXI : nuevas perspectivas teóricas
+INV: 2765
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: El arte del Renacimiento
+INV: 1921
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: El Renacimiento en Italia. 2
+INV: 1944
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Arte chino
+INV: 1323
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Arte de Japón y de Corea
+INV: 1324
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Negroafricano
+INV: 1929
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Arte de la India y de la Indonesia
+INV: 1912
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Griego
+INV: 1880
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: De Grecia clásica a Etruria
+INV: 1881
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Barroco
+INV: 1924
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Islámico
+INV: 1903
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Arte de Africa y Oceanía
+INV: 1325
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: El mundo bizantino : la encrucijada entre Oriente y Occidente
+INV: 7401
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: El Románico en Alemania y en Italia
+INV: 1900
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Lo mejor del arte bizantino
+INV: 42
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Romano
+INV: 1888
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Arte Romano
+INV: 1321
+RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Rococó
+INV: 6661
+RETIRÓ EL: 19/10/2026
 PRESTADO
