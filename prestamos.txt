@@ -794,11 +794,6 @@ INV: 10417
 RETIRÓ EL: 22/09/2026
 PRESTADO
 
-LIBRO: Segunda Guerra Mundial
-INV: 10418
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
 LIBRO: El arte de escuchar la música
 INV: 7326
 RETIRÓ EL: 23/09/2026
@@ -817,26 +812,6 @@ PRESTADO
 LIBRO: Epistolario-1873-1883
 INV: 2901
 RETIRÓ EL: 24/09/2026
-PRESTADO
-
-LIBRO: El Románico en Francia, Inglaterra y España
-INV: 492
-RETIRÓ EL: 28/09/2026
-PRESTADO
-
-LIBRO: El Románico en Alemania y en Italia
-INV: 9715
-RETIRÓ EL: 28/09/2026
-PRESTADO
-
-LIBRO: Historia social de la literatura y del arte. 1
-INV: 6662
-RETIRÓ EL: 28/09/2026
-PRESTADO
-
-LIBRO: Europa medieval
-INV: 1271
-RETIRÓ EL: 28/09/2026
 PRESTADO
 
 LIBRO: Transitar la formación pedagógica
@@ -965,16 +940,6 @@ RETIRÓ EL: 13/10/2026
 PRESTADO
 
 LIBRO: Cybersix
-INV: 3579
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Cyber Six. 1
-INV: 1942
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Cybersix
 INV: 3578
 RETIRÓ EL: 19/10/2026
 PRESTADO
@@ -1067,4 +1032,39 @@ PRESTADO
 LIBRO: Rococó
 INV: 6661
 RETIRÓ EL: 19/10/2026
+PRESTADO
+
+LIBRO: Rousseau : el aduanero
+INV: 644
+RETIRÓ EL: 20/10/2026
+PRESTADO
+
+LIBRO: La obra completa de Rousseau 1844-1910
+INV: 9412
+RETIRÓ EL: 20/10/2026
+PRESTADO
+
+LIBRO: El niño y su arte
+INV: 6011
+RETIRÓ EL: 20/10/2026
+PRESTADO
+
+LIBRO: Comiqueando. 37
+INV: 6877
+RETIRÓ EL: 20/10/2026
+PRESTADO
+
+LIBRO: Comiqueando. 28
+INV: 6871
+RETIRÓ EL: 20/10/2026
+PRESTADO
+
+LIBRO: El folclore en la educación
+INV: 7911
+RETIRÓ EL: 20/10/2026
+PRESTADO
+
+LIBRO: Escuela de dibujo de anatomía : humana, animal y comparada
+INV: 120
+RETIRÓ EL: 20/10/2026
 PRESTADO

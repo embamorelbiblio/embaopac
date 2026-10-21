@@ -79338,17 +79338,19 @@
 =942  ##$cBK
 =952  ##$p6381$10$2ddc$aLPL$bLPL$c$k$oTyD-005 $e$5$7
 
-=LDR  10016nmm  2200000 a 4500
+=LDR  10019nmm  2200000 a 4500
 =001  006382
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  248020n        ||||||||||||||000 | spa||
+=005  20261020000000.0
+=008  248020s1944    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aLaurie, Arthur Pillans
-=245  10$aLa práctica de la pintura : métodos y materiales empleados por los pintores
-=260  ##$aBuenos Aires : Albatros, 1944
+=245  10$aLa práctica de la pintura$bMetodos y materiales empleados por los pintores
+=250  ##$a4a. ed.
+=260  ##$aBuenos Aires $bAlbatros$c1944
+=300  0#$a298 p.
 =942  ##$cBK
-=952  ##$p6382$10$2ddc$aLPL$bLPL$c$k$oTyD-006 $e$5$7
+=952  ##$p6382$10$2ddc$aLPL$bLPL$c$k$o751 LAU$e$5$7
 
 =LDR  10017nmc  2200000 a 4500
 =001  006383
@@ -79912,7 +79914,7 @@
 =LDR  10060nmm  2200000 a 4500
 =001  006426
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261020000000.0
 =008  296020s1999    ||||||||||||||000 | spa||
 =020  ##$a853611145
 =040  ##$cAR-QuEMBA
