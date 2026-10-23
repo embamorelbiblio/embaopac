@@ -779,11 +779,6 @@ INV: 5034
 RETIRÓ EL: 16/09/2026
 PRESTADO
 
-LIBRO: El silencio de las chicharras
-INV: 10409
-RETIRÓ EL: 17/09/2026
-PRESTADO
-
 LIBRO: Nativas
 INV: 9587
 RETIRÓ EL: 22/09/2026
@@ -1067,4 +1062,29 @@ PRESTADO
 LIBRO: Escuela de dibujo de anatomía : humana, animal y comparada
 INV: 120
 RETIRÓ EL: 20/10/2026
+PRESTADO
+
+LIBRO: El silencio de las chicharras
+INV: 10409
+RETIRÓ EL: 22/10/2026
+PRESTADO
+
+LIBRO: Sobre lo espiritual en el arte
+INV: 7861
+RETIRÓ EL: 22/10/2026
+PRESTADO
+
+LIBRO: Kandinsky
+INV: 8086
+RETIRÓ EL: 22/10/2026
+PRESTADO
+
+LIBRO: Malvinas
+INV: 3569
+RETIRÓ EL: 22/10/2026
+PRESTADO
+
+LIBRO: Civil War II
+INV: 9510
+RETIRÓ EL: 22/10/2026
 PRESTADO
