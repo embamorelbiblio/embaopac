@@ -5383,15 +5383,17 @@
 =942  ##$cBK
 =952  ##$p405$10$2ddc$aLPL$bLPL$c$k$oAL ECU-003 $e$5$7
 
-=LDR  10016nmc  2200000 a 4500
+=LDR  10018nmc  2200000 a 4500
 =001  000406
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  273020n        ||||||||||||||000 | spa||
+=005  20261023000000.0
+=008  273020sPlan    ||||||||||||||000 | spa||
+=020  ##$a8439584156
 =040  ##$cAR-QuEMBA
 =100  1#$aBrook, Carolina
 =245  10$aMuralismo mexicano
-=260  ##$a[Buenos Aires] : Planeta DeAgostini, [ca. 2000]
+=260  ##$aBarcelona$b2000$cPlaneta DeAgostini
+=300  0#$a60 p.
 =490  #0$aEl impresionismo y los inicios de la Pintura Moderna
 =942  ##$cBK
 =952  ##$p406$10$2ddc$aLPL$bLPL$c$kDON$o751.73 BRO$e$5$7
@@ -6714,10 +6716,10 @@
 =942  ##$cBK
 =952  ##$p508$10$2ddc$aLPL$bLPL$c$kDON$o709.0347 GIB$e$5$7
 
-=LDR  10016nmm  2200000 a 4500
+=LDR  10036nmm  2200000 a 4500
 =001  000509
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261023000000.0
 =008  047120s2007    ||||||||||||||000 | spa||
 =020  ##$a9783822829929
 =040  ##$cAR-QuEMBA
@@ -6725,8 +6727,9 @@
 =245  10$aModernismo : la utopía de la reconciliación
 =260  ##$aHong Kong $bTaschen$c2007
 =300  0#$a240 p.
+=505  0#$tEl movimiento : cómo la modernidad aprendió a caminar (p. 6) -- Los conflictos : la rebelión de las provincias (p. 32) -- El equilibrio : la introducción de la Modernidad a través de Viena (p. 204)
 =942  ##$cBK
-=952  ##$p509$10$2ddc$aLPL$bLPL$c$kDON$o724.5 SEM$e$5$7
+=952  ##$p509$10$2ddc$aLPL$bLPL$c$kDON$o745 SEM$e$5$7
 
 =LDR  10022nmc  2200000 a 4500
 =001  000510
@@ -7227,18 +7230,19 @@
 =942  ##$cBK
 =952  ##$p546$10$2ddc$aLPL$bLPL$c$kDON$o701.82 COL$e$5$7
 
-=LDR  10016nmm  2200000 a 4500
+=LDR  10020nmm  2200000 a 4500
 =001  000547
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261023000000.0
 =008  222020s2006    ||||||||||||||000 | spa||
+=020  ##$a9870512232
 =040  ##$cAR-QuEMBA
 =100  1#$aSorrentino, Francisco P.
-=245  10$aLa perspectiva y la correccion optica en pint mural
-=260  ##$aBuenos Aires$bSenado De La Prov. Bs. As.$c2006
+=245  10$aLa perspectiva y la correccion optica en pintura mural
+=260  ##$aBuenos Aires$bSenado de la Provincia de Buenos Aires$c2006
 =300  0#$a198p.
 =942  ##$cBK
-=952  ##$p547$10$2ddc$aLPL$bLPL$c$k$o701.82 SOR$e$51$71
+=952  ##$p547$10$2ddc$aLPL$bLPL$c$kDON$o751.73 SOR$e$5$7
 
 =LDR  10005nmm  2200000 a 4500
 =001  000548
@@ -46443,14 +46447,20 @@
 =942  ##$cBK
 =952  ##$p3643$10$2ddc$aLPL$bLPL$c$k$oHI-363 $e$5$7
 
-=LDR  10001nmm  2200000 a 4500
+=LDR  10061nmm  2200000 a 4500
 =001  003644
 =003  AR-QuEMBA
-=005  20261019000000.0
+=005  20261023000000.0
 =008  194020n        ||||||||||||||000 | spa||
+=020  ##$a9788445905319
 =040  ##$cAR-QuEMBA
+=100  1#$aLeicester, Rob
+=245  10$aKlimt
+=260  ##$aBarcelona : Iberlibro, 2005
+=300  0#$a125 p.
+=505  0#$tIntroducción (p. 5) -- Nacimiento y primeros pasos (p. 6) -- La Ringstrasse (p. 6) -- La Secession (p. 9) -- Controversias en la Secession (p. 12) -- El gran triunfo de la Exposición de 1908 (p. 15) -- Los últimos años (p. 18) -- Su muerte (p. 19) -- Rasgos físicos y carácter del artista (p. 19) -- El estilo de Klimt y su tiempo (p. 31) -- Obras principales (p. 45) -- El género paisajístico (p. 102) -- Klimt dibujante y pintor erótico (p. 108) -- La última etapa (p. 113) -- Klimt : vocabulario artístico (p. 117)
 =942  ##$cBK
-=952  ##$p3644$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+=952  ##$p3644$10$2ddc$aLPL$bLPL$c$kDON$o745.723 LEI$e$5$7
 
 =LDR  10014nmm  2200000 a 4500
 =001  003645
@@ -100440,43 +100450,47 @@
 =942  ##$cBK
 =952  ##$p7917$10$2ddc$aLPL$bLPL$c$k$o702.8 BAR$e$5$7
 
-=LDR  10018nmm  2200000 a 4500
+=LDR  10021nmm  2200000 a 4500
 =001  007918
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261023000000.0
 =008  222020s2006    ||||||||||||||000 | spa||
-=040  ##$cAR-QuEMBA
-=100  1#$aSorrentino, Francisco P.
-=245  10$aLa perspectiva y lacorrecion optica en la pintura mural
-=260  ##$aBuenos Aires$bHonorable Camara de Senadores de Bs. As$c2006
-=942  ##$cBK
-=952  ##$p7918$10$2ddc$aLPL$bLPL$c$k$o701.82 SOR$e$5$7
-
-=LDR  10020nmm  2200000 a 4500
-=001  007919
-=003  AR-QuEMBA
-=005  20260629000000.0
-=008  222020n        ||||||||||||||000 | spa||
+=020  ##$a9780512232
 =040  ##$cAR-QuEMBA
 =100  1#$aSorrentino, Francisco P.
 =245  10$aLa perspectiva y la correcion optica en la pintura mural
-=260  ##$aBuenos Aires$bHonorable Camara de Senadores de la Provincia de Bs. As.
+=260  ##$aBuenos Aires$bHonorable Camara de Senadores de Buenos Aires$c2006
+=300  0#$a198 p.
+=942  ##$cBK
+=952  ##$p7918$10$2ddc$aLPL$bLPL$c$kDON$o751.73 SOR$e$5$7
+
+=LDR  10022nmm  2200000 a 4500
+=001  007919
+=003  AR-QuEMBA
+=005  20261023000000.0
+=008  222020s2006    ||||||||||||||000 | spa||
+=020  ##$a9870512232
+=040  ##$cAR-QuEMBA
+=100  1#$aSorrentino, Francisco P.
+=245  10$aLa perspectiva y la correcion optica en la pintura mural
+=260  ##$aBuenos Aires$bHonorable Camara de Senadores de la Provincia de Bs. As.$c2006
 =300  0#$a198p.
 =942  ##$cBK
-=952  ##$p7919$10$2ddc$aLPL$bLPL$c$k$o701.82 SOR$e$5$7
+=952  ##$p7919$10$2ddc$aLPL$bLPL$c$k$o751.73 SOR$e$5$7
 
-=LDR  10021nmm  2200000 a 4500
+=LDR  10022nmm  2200000 a 4500
 =001  007920
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261023000000.0
 =008  222020s2006    ||||||||||||||000 | spa||
+=020  ##$a9870512232
 =040  ##$cAR-QuEMBA
 =100  1#$aSorrentino, Francisco P.
 =245  10$aLa perspectiva y la correcion optica en la pintura mural
 =260  ##$aBuenos Aires$bHonorable Camara de Sendores de la Provincia de Bs. As.$c2006
 =300  0#$a198p.
 =942  ##$cBK
-=952  ##$p7920$10$2ddc$aLPL$bLPL$c$k$o701.82 SOR$e$5$7
+=952  ##$p7920$10$2ddc$aLPL$bLPL$c$kDON$o751.73 SOR$e$5$7
 
 =LDR  10049nmc  2200000 a 4500
 =001  007921
