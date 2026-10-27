@@ -9864,17 +9864,21 @@
 =942  ##$cBK
 =952  ##$p746$10$2ddc$aLPL$bLPL$c$k$oBI-LEO-005 $e$5$7
 
-=LDR  10005nmm  2200000 a 4500
+=LDR  10019nmc  2200000 a 4500
 =001  000747
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261026000000.0
 =008  306020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aBorsook, Eve
 =245  10$aAmbrogio Lorenzetti
-=260  ##$aEdic. Toray S.A.
+=250  ##$a1a ed.
+=260  ##$aBarcelona : Toray, 1967
+=300  0#$a39 p.
+=490  #0$aLos diamantes del arte ; 7
+=505  0#$tLa vida y la obra (p. 3) -- La fortuna crítica (p. 20)
 =942  ##$cBK
-=952  ##$p747$10$2ddc$aLPL$bLPL$c$k$oBI-LOR-001 $e$5$7
+=952  ##$p747$10$2ddc$aLPL$bLPL$c$kDON$o759.245 BOR$e$5$7
 
 =LDR  10005nmm  2200000 a 4500
 =001  000748
@@ -10552,17 +10556,20 @@
 =942  ##$cBK
 =952  ##$p802$10$2ddc$aLPL$bLPL$c$k$oBI-REN-005 $e$5$7
 
-=LDR  10004nmm  2200000 a 4500
+=LDR  10037nmc  2200000 a 4500
 =001  000803
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261026000000.0
 =008  306020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aConte, Eduardo
 =245  10$aRibera
-=260  ##$aEdit.Kier
+=260  ##$aBuenos Aires : Kier, 1945
+=300  0#$a122 p.
+=490  #0$aAlba ; 25
+=505  0#$tLa virgen del pollo (p. 4) -- El martirio de San Bartolomé (p. 19) -- El poeta (Aguafuerte) (p. 37) -- Arquímedes (p. 55) -- El sueñode Jacob (p. 73) -- El apóstol San Andrés (p. 91) -- Martirio de San Bartolomé (p. 109) -- La crucifixión de San Pablo (Dibujo) (p. 119)
 =942  ##$cBK
-=952  ##$p803$10$2ddc$aLPL$bLPL$c$k$oBI-RIV-001 $e$5$7
+=952  ##$p803$10$2ddc$aLPL$bLPL$c$kDON$o759.042 CON$e$5$7
 
 =LDR  10006nmm  2200000 a 4500
 =001  000804
@@ -24241,19 +24248,19 @@
 =942  ##$cBK
 =952  ##$p1895$10$2ddc$aLPL$bLPL$c$k$oCR-012 $e$5$7
 
-=LDR  10013nmc  2200000 a 4500
+=LDR  10014nmc  2200000 a 4500
 =001  001896
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261026000000.0
 =008  197120n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aAinaud, Juan
-=245  10$aArte romanico catalán : pinturas sobre tabla
+=245  10$aArte románico catalán : pinturas sobre tabla
 =260  ##$aBarcelona : Gustavo Gili, 1965
 =300  0#$a15 p.
 =490  #0$aMinia ; 59
 =942  ##$cBK
-=952  ##$p1896$10$2ddc$aLPL$bLPL$c$k$oGG-059 $e$5$7
+=952  ##$p1896$10$2ddc$aLPL$bLPL$c$kDON$o759.02 AIN$e$5$7
 
 =LDR  10013nmc  2200000 a 4500
 =001  001897
