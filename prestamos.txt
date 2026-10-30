@@ -774,11 +774,6 @@ INV: 10417
 RETIRÓ EL: 22/09/2026
 PRESTADO
 
-LIBRO: El arte de escuchar la música
-INV: 7326
-RETIRÓ EL: 23/09/2026
-PRESTADO
-
 LIBRO: El horror de Dunwich
 INV: 10422
 RETIRÓ EL: 24/09/2026
@@ -1092,4 +1087,44 @@ PRESTADO
 LIBRO: Trelew : la pasión fusilada
 INV: 9461
 RETIRÓ EL: 27/10/2026
+PRESTADO
+
+LIBRO: Muralismo mexicano
+INV: 406
+RETIRÓ EL: 28/10/2026
+PRESTADO
+
+LIBRO: Stoker, drake
+INV: 5104
+RETIRÓ EL: 28/10/2026
+PRESTADO
+
+LIBRO: La música del siglo XX
+INV: 5442
+RETIRÓ EL: 28/10/2026
+PRESTADO
+
+LIBRO: La musica. 1 : los hombres, los instrumentos, las obras
+INV: 5414
+RETIRÓ EL: 28/10/2026
+PRESTADO
+
+LIBRO: Nippur  de Lagash
+INV: 3626
+RETIRÓ EL: 28/10/2026
+PRESTADO
+
+LIBRO: Los grandes escultores : Bernini
+INV: 1794
+RETIRÓ EL: 28/10/2026
+PRESTADO
+
+LIBRO: Los grandes escultores : Bernini
+INV: 8017
+RETIRÓ EL: 28/10/2026
+PRESTADO
+
+LIBRO: Los grandes escultores : La escuela de Bernini
+INV: 1795
+RETIRÓ EL: 28/10/2026
 PRESTADO
