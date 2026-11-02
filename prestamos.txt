@@ -829,11 +829,6 @@ INV: 6302
 RETIRÓ EL: 02/10/2026
 PRESTADO
 
-LIBRO: Musica del brasil
-INV: 5472
-RETIRÓ EL: 05/10/2026
-PRESTADO
-
 LIBRO: Las venas abiertas de América Latina
 INV: 5787
 RETIRÓ EL: 06/10/2026
@@ -1044,16 +1039,6 @@ INV: 8086
 RETIRÓ EL: 22/10/2026
 PRESTADO
 
-LIBRO: Malvinas
-INV: 3569
-RETIRÓ EL: 22/10/2026
-PRESTADO
-
-LIBRO: Civil War II
-INV: 9510
-RETIRÓ EL: 22/10/2026
-PRESTADO
-
 LIBRO: Psicologia de la conducta
 INV: 6023
 RETIRÓ EL: 23/10/2026
@@ -1127,4 +1112,49 @@ PRESTADO
 LIBRO: Los grandes escultores : La escuela de Bernini
 INV: 1795
 RETIRÓ EL: 28/10/2026
+PRESTADO
+
+LIBRO: Velázquez. 2
+INV: 637
+RETIRÓ EL: 30/10/2026
+PRESTADO
+
+LIBRO: Ribera
+INV: 6483
+RETIRÓ EL: 30/10/2026
+PRESTADO
+
+LIBRO: José de Ribera
+INV: 1767
+RETIRÓ EL: 30/10/2026
+PRESTADO
+
+LIBRO: Los grandes escultores : Bernini
+INV: 1793
+RETIRÓ EL: 30/10/2026
+PRESTADO
+
+LIBRO: Los grandes escultores : Bernini
+INV: 8018
+RETIRÓ EL: 30/10/2026
+PRESTADO
+
+LIBRO: Los grandes escultores : La escuela de Bernini
+INV: 8043
+RETIRÓ EL: 30/10/2026
+PRESTADO
+
+LIBRO: Los grandes escultores : Giacometti
+INV: 8181
+RETIRÓ EL: 30/10/2026
+PRESTADO
+
+LIBRO: Los grandes escultores : la escultura románica en Francia
+INV: 7978
+RETIRÓ EL: 30/10/2026
+PRESTADO
+
+LIBRO: Los grandes escultores : La escultura románica en España
+INV: 7981
+RETIRÓ EL: 30/10/2026
 PRESTADO

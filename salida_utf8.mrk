@@ -123674,7 +123674,7 @@
 =LDR  10025nmc  2200000 a 4500
 =001  009599
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261030000000.0
 =008  144120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789874878571
 =040  ##$cAR-QuEMBA
@@ -123686,7 +123686,7 @@
 =300  0#$a52 p.$bil. ; 21 x 15 cm.
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p9599$10$2ddc$aLPL$bLPL$c$k$oL IDE$e$5$7
+=952  ##$p9599$10$2ddc$aLPL$bLPL$c$k$oIB A861 FOR$e$5$7
 
 =LDR  10023nmc  2200000 a 4500
 =001  009600
@@ -124100,7 +124100,7 @@
 =LDR  10017nmc  2200000 a 4500
 =001  009625
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261030000000.0
 =008  204120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789507536595
 =040  ##$cAR-QuEMBA
@@ -124111,7 +124111,7 @@
 =300  0#$a80 p.
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p9625$10$2ddc$aLPL$bLPL$c$k$oL IDE$e$5$7
+=952  ##$p9625$10$2ddc$aLPL$bLPL$c$k$oIB A860 FER$e$5$7
 
 =LDR  10027nmc  2200000 a 4500
 =001  009626
@@ -124149,7 +124149,7 @@
 =LDR  10016nmc  2200000 a 4500
 =001  009628
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261030000000.0
 =008  204120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789874893475
 =040  ##$cAR-QuEMBA
@@ -124160,7 +124160,7 @@
 =300  0#$a40 p.
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p9628$10$2ddc$aLPL$bLPL$c$k$oIB 861 RAC$e$5$7
+=952  ##$p9628$10$2ddc$aLPL$bLPL$c$k$oIB A861 RAC$e$5$7
 
 =LDR  10018nmc  2200000 a 4500
 =001  009629
@@ -135340,17 +135340,17 @@
 =942  ##$cBK
 =952  ##$p10447$10$2ddc$aLPL$bLPL$c$kDON$o751 TOS$e$5$7
 
-=LDR  10019nmm  2200000 a 4500
+=LDR  10023nmm  2200000 a 4500
 =001  010448
 =003  AR-QuEMBA
-=005  20261022000000.0
+=005  20261030000000.0
 =008  226120s2010    ||||||||||||||000 | spa||
 =020  ##$a9789870416036
 =040  ##$cAR-QuEMBA
 =700  1#$aNarvaez, Adriana Edith$eadaptador
-=245  10$aCurso practico de dibujo y pintura: Fundamentos$bEl encaje: primeros pasos
-=250  ##$a1a. ed.
+=245  10$aCurso práctico de dibujo y pintura : fundamentos$bel encaje : primeros pasos
+=250  ##$a1a ed.
 =260  ##$aBuenos Aires$bAguilar$c2010
 =500  0#$aAnillado
 =942  ##$cBK
-=952  ##$p10448$10$2ddc$aLPL$bLPL$c$k$o751 NAR$e$5$7
+=952  ##$p10448$10$2ddc$aLPL$bLPL$c$kDON$o751 NAR$e$5$7
