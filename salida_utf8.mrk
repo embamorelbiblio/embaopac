@@ -135043,17 +135043,22 @@
 =942  ##$cBK
 =952  ##$p10425$10$2ddc$aLPL$bLPL$c$k$o323 $e$51$71
 
-=LDR  10009nmm  2200000 a 4500
+=LDR  10068nmm  2200000 a 4500
 =001  010426
 =003  AR-QuEMBA
-=005  20260929000000.0
+=005  20261102000000.0
 =008  296020n        ||||||||||||||000 | spa||
 =020  ##$a9505816553
 =040  ##$cAR-QuEMBA
-=700  1#$aBarrera, Rosita
+=100  1#$aBarrera, Rosita
 =245  10$aEl folclore en la educación
+=250  ##$a2a ed.
+=260  ##$aBuenos Aires : Colihue, 1998
+=300  0#$a366 p.
+=505  0#$tPRIMERA PARTE  : PRINCIPALES ELEMENTOS DEL FOLCLORE ARGENTINO : El folclore y lo folclórico (p. 13) -- La música folclórica argentina (p. 21) -- Atuendos tradicionales (p. 43) -- El esparcimiento en la campaña (p. 61) -- Artesanías (p. 81) -- Fiestas y ceremonias (p. 89) -- Juegos y deportes (p. 125) -- La imaginación popular (p. 141) -- El mate (p. 187)
+=505  0#$tSEGUNDA PARTE : EL FOLCLORE EN LA ESCUELA (p. 199) -- Los actos escolares (p. 201) -- Danzas tradicionales folclóricas (p. 267) -- Otras actividades de proyección folclórica (p. 351)
 =942  ##$cBK
-=952  ##$p10426$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+=952  ##$p10426$10$2ddc$aLPL$bLPL$c$kDON$o390 BAR$e$5$7
 
 =LDR  10026nmc  2200000 a 4500
 =001  010427
@@ -135354,3 +135359,17 @@
 =500  0#$aAnillado
 =942  ##$cBK
 =952  ##$p10448$10$2ddc$aLPL$bLPL$c$kDON$o751 NAR$e$5$7
+
+=LDR  10010nmm  2200000 a 4500
+=001  010449
+=003  AR-QuEMBA
+=005  20261102000000.0
+=008  026120n        ||||||||||||||000 | spa||
+=020  ##$a8420100226
+=040  ##$cAR-QuEMBA
+=100  1#$aLlobera, Joseph
+=700  1#$aOltra, Romain
+=245  10$aLa bande dessinee
+=260  ##$aParis : Eyrolles, 1982
+=942  ##$cBK
+=952  ##$p10449$10$2ddc$aLPL$bLPL$c$kDON$oLLO$e$5$7

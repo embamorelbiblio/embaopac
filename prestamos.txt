@@ -809,11 +809,6 @@ INV: 7402
 RETIRÓ EL: 28/09/2026
 PRESTADO
 
-LIBRO: El folclore en la educación
-INV: 10426
-RETIRÓ EL: 29/09/2026
-PRESTADO
-
 LIBRO: Esma
 INV: 10407
 RETIRÓ EL: 29/09/2026
@@ -911,11 +906,6 @@ PRESTADO
 
 LIBRO: El Renacimiento en Italia. 2
 INV: 1944
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Arte chino
-INV: 1323
 RETIRÓ EL: 19/10/2026
 PRESTADO
 
@@ -1157,4 +1147,14 @@ PRESTADO
 LIBRO: Los grandes escultores : La escultura románica en España
 INV: 7981
 RETIRÓ EL: 30/10/2026
+PRESTADO
+
+LIBRO: Las aventuras del capitan alatriste:limpieza de sangre
+INV: 3284
+RETIRÓ EL: 02/11/2026
+PRESTADO
+
+LIBRO: Hounds. Vol. 1
+INV: 3690
+RETIRÓ EL: 02/11/2026
 PRESTADO
