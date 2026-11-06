@@ -539,11 +539,6 @@ INV: 8266
 RETIRÓ EL: 14/05/2026
 PRESTADO
 
-LIBRO: Cartas a un joven poeta
-INV: 4987
-RETIRÓ EL: 15/05/2026
-PRESTADO
-
 LIBRO: paginas escogidas
 INV: 10131
 RETIRÓ EL: 15/05/2026
@@ -586,11 +581,6 @@ PRESTADO
 
 LIBRO: Educar : (sobre)impresiones estéticas
 INV: 6996
-RETIRÓ EL: 28/05/2026
-PRESTADO
-
-LIBRO: Diarios
-INV: 4631
 RETIRÓ EL: 28/05/2026
 PRESTADO
 
@@ -729,11 +719,6 @@ INV: 10408
 RETIRÓ EL: 02/09/2026
 PRESTADO
 
-LIBRO: Acuarela
-INV: 6381
-RETIRÓ EL: 04/09/2026
-PRESTADO
-
 LIBRO: Much'as figures decoratives
 INV: 9396
 RETIRÓ EL: 04/09/2026
@@ -832,31 +817,6 @@ PRESTADO
 LIBRO: Diálogos entre arte y terapia : del "arte psicótico" al desarrollo de la arteterapia y sus aplicaciones
 INV: 5954
 RETIRÓ EL: 06/10/2026
-PRESTADO
-
-LIBRO: Rembrandt
-INV: 6491
-RETIRÓ EL: 07/10/2026
-PRESTADO
-
-LIBRO: El Greco
-INV: 6492
-RETIRÓ EL: 07/10/2026
-PRESTADO
-
-LIBRO: Rembrandt
-INV: 8337
-RETIRÓ EL: 07/10/2026
-PRESTADO
-
-LIBRO: Rembrandt Van Rijn
-INV: 1304
-RETIRÓ EL: 07/10/2026
-PRESTADO
-
-LIBRO: Goya
-INV: 1531
-RETIRÓ EL: 07/10/2026
 PRESTADO
 
 LIBRO: Poemas
@@ -1074,16 +1034,6 @@ INV: 5104
 RETIRÓ EL: 28/10/2026
 PRESTADO
 
-LIBRO: La música del siglo XX
-INV: 5442
-RETIRÓ EL: 28/10/2026
-PRESTADO
-
-LIBRO: La musica. 1 : los hombres, los instrumentos, las obras
-INV: 5414
-RETIRÓ EL: 28/10/2026
-PRESTADO
-
 LIBRO: Nippur  de Lagash
 INV: 3626
 RETIRÓ EL: 28/10/2026
@@ -1102,11 +1052,6 @@ PRESTADO
 LIBRO: Los grandes escultores : La escuela de Bernini
 INV: 1795
 RETIRÓ EL: 28/10/2026
-PRESTADO
-
-LIBRO: Velázquez. 2
-INV: 637
-RETIRÓ EL: 30/10/2026
 PRESTADO
 
 LIBRO: Ribera
@@ -1134,21 +1079,6 @@ INV: 8043
 RETIRÓ EL: 30/10/2026
 PRESTADO
 
-LIBRO: Los grandes escultores : Giacometti
-INV: 8181
-RETIRÓ EL: 30/10/2026
-PRESTADO
-
-LIBRO: Los grandes escultores : la escultura románica en Francia
-INV: 7978
-RETIRÓ EL: 30/10/2026
-PRESTADO
-
-LIBRO: Los grandes escultores : La escultura románica en España
-INV: 7981
-RETIRÓ EL: 30/10/2026
-PRESTADO
-
 LIBRO: Las aventuras del capitan alatriste:limpieza de sangre
 INV: 3284
 RETIRÓ EL: 02/11/2026
@@ -1157,4 +1087,59 @@ PRESTADO
 LIBRO: Hounds. Vol. 1
 INV: 3690
 RETIRÓ EL: 02/11/2026
+PRESTADO
+
+LIBRO: Velazquez
+INV: 829
+RETIRÓ EL: 03/11/2026
+PRESTADO
+
+LIBRO: Velazquez
+INV: 830
+RETIRÓ EL: 03/11/2026
+PRESTADO
+
+LIBRO: Arte románico
+INV: 8112
+RETIRÓ EL: 05/11/2026
+PRESTADO
+
+LIBRO: Pintura románica
+INV: 9439
+RETIRÓ EL: 05/11/2026
+PRESTADO
+
+LIBRO: Arte románico y gótico
+INV: 41
+RETIRÓ EL: 05/11/2026
+PRESTADO
+
+LIBRO: Asi se dibuja
+INV: 131
+RETIRÓ EL: 05/11/2026
+PRESTADO
+
+LIBRO: Curso de dibujo y pintura
+INV: 139
+RETIRÓ EL: 05/11/2026
+PRESTADO
+
+LIBRO: Curso de dibujo y pintura
+INV: 9361
+RETIRÓ EL: 05/11/2026
+PRESTADO
+
+LIBRO: Ribera
+INV: 8338
+RETIRÓ EL: 05/11/2026
+PRESTADO
+
+LIBRO: Las vanguardias artísticas del siglo XX
+INV: 2534
+RETIRÓ EL: 05/11/2026
+PRESTADO
+
+LIBRO: Los movimientos del pop
+INV: 501
+RETIRÓ EL: 05/11/2026
 PRESTADO

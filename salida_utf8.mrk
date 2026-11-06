@@ -9981,17 +9981,18 @@
 =942  ##$cBK
 =952  ##$p755$10$2ddc$aLPL$bLPL$c$k$o759.061 IMP$e$5$7
 
-=LDR  10005nmm  2200000 a 4500
+=LDR  10011nmc  2200000 a 4500
 =001  000756
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261103000000.0
 =008  306020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aTrzeciak, Przemyslaw
 =245  10$aHans Memling
-=260  ##$aHenschlverlag
+=260  ##$aBerlin : Henschlverlag, 1981
+=490  #0$aWelt der Kunst = Mundo del Arte
 =942  ##$cBK
-=952  ##$p756$10$2ddc$aLPL$bLPL$c$k$oBI-MEM-001 $e$5$7
+=952  ##$p756$10$2ddc$aLPL$bLPL$c$kDON$o759.03 TRZ$e$5$7
 
 =LDR  10009nmm  2200000 a 4500
 =001  000757
@@ -10030,17 +10031,19 @@
 =942  ##$cBK
 =952  ##$p759$10$2ddc$aLPL$bLPL$c$k$o759.061 ERA$e$5$7
 
-=LDR  10005nmm  2200000 a 4500
+=LDR  10011nmc  2200000 a 4500
 =001  000760
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261104000000.0
 =008  306020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aBonnefoy, Yves
-=245  10$aMiro
-=260  ##$aBibliotheque Des Arts
+=245  10$aMiró
+=260  ##$aMilán : Silvana, 1964
+=300  0#$a29 p.$bil.
+=490  #0$aLa Bibliotheque Des Arts
 =942  ##$cBK
-=952  ##$p760$10$2ddc$aLPL$bLPL$c$k$oBI-MIR-001 $e$5$7
+=952  ##$p760$10$2ddc$aLPL$bLPL$c$kDON$o709.04035 BON$e$5$7
 
 =LDR  10007nmm  2200000 a 4500
 =001  000761
@@ -55228,17 +55231,19 @@
 =942  ##$cBK
 =952  ##$p4359$10$2ddc$aLPL$bLPL$c$k$oL-VAR-024 $e$5$7
 
-=LDR  10005nmm  2200000 a 4500
+=LDR  10027nmm  2200000 a 4500
 =001  004360
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261103000000.0
 =008  306020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=100  1#$aDe La Vega, Garcilaso
-=245  10$aPoesias
-=260  ##$aEditorial Pleamar
+=100  1#$aVega, Garcilaso de la
+=245  10$aPoesías
+=260  ##$aBuenos Aires : Pleamar, 1946
+=300  0#$a225 p.
+=505  0#$tHomenajes (p. 8) -- Eglogas (p. 13) -- Elegías (p. 131) -- Epístola (p. 156) -- Canciones (p. 163) -- Sonetos (p. 193) -- Canciones en versos castellanos (p. 221)
 =942  ##$cBK
-=952  ##$p4360$10$2ddc$aLPL$bLPL$c$k$oL-DELa-001 $e$5$7
+=952  ##$p4360$10$2ddc$aLPL$bLPL$c$kDON$o861 VEG$e$5$7
 
 =LDR  10010nmm  2200000 a 4500
 =001  004361
@@ -75304,16 +75309,22 @@
 =942  ##$cBK
 =952  ##$p6052$10$2ddc$aLPL$bLPL$c$k$oPV-006 $e$5$7
 
-=LDR  10008nmm  2200000 a 4500
+=LDR  10071nmm  2200000 a 4500
 =001  006053
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261104000000.0
 =008  296020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=245  10$aPinacoteca de los genios: dufy-carpaccio - della francesca
-=260  ##$aEditorial Codex
+=100  1#$aPerocco, Guido
+=700  1#$aPignatti, Terisio
+=700  1#$aPrevitali, Giovanni
+=245  10$aPinacoteca de los genios : Dufy, Carpaccio y Della Francesca
+=260  ##$aBuenos Aires : Codex, [19--]
+=300  0#$a83 p.
+=505  0#$tRaoul Dufy (p. 1) -- Espontánea armonía de colores y gracia mozartiana de ritmos, en una pintura que es toda una invitación a la alegría de vivir (p. 3) -- Enfoque de actualidad / por Julio E. Payró (p. 26) -- Víctor Carpaccio (p. 30) -- Una mágica evocación de la vida veneciana (p. 31) -- El juicio del siglo XX / por María Inés Rivera (p. 54) -- Piero della Francesca (p. 57) -- El fundador de un nuevo arte de las figuras, la perspectiva y la iluminación (p. 59) -- El juicio del siglo XX / por Luis Seoane (p. 82)
+=653  ##$aPINTURA EUROPEA
 =942  ##$cBK
-=952  ##$p6053$10$2ddc$aLPL$bLPL$c$k$oPV-007 $e$5$7
+=952  ##$p6053$10$2ddc$aLPL$bLPL$c$kDON$o759.2 PER$e$5$7
 
 =LDR  10007nmm  2200000 a 4500
 =001  006054
@@ -79347,17 +79358,21 @@
 =942  ##$cBK
 =952  ##$p6380$10$2ddc$aLPL$bLPL$c$k$o751 PER$e$5$7
 
-=LDR  10004nmm  2200000 a 4500
+=LDR  10025nmc  2200000 a 4500
 =001  006381
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261103000000.0
 =008  296020n        ||||||||||||||000 | spa||
+=020  ##$a9500709120
 =040  ##$cAR-QuEMBA
 =100  1#$aSmith, Ray
-=245  10$aAcuarela
-=260  ##$aEdit.Sudamericana
+=245  10$aIntroducción a la acuarela
+=260  ##$aBuenos Aires : Sudamericana, 1994
+=300  0#$a72 p.
+=490  #0$aTestimonio visual del arte$pEscuela de Arte
+=505  0#$tAcuarela (p. 6) -- Una breve historia (p. 8) -- Materiales (p. 12) -- Técnicas (p. 38)
 =942  ##$cBK
-=952  ##$p6381$10$2ddc$aLPL$bLPL$c$k$oTyD-005 $e$5$7
+=952  ##$p6381$10$2ddc$aLPL$bLPL$c$kDON$o751 SMI$e$5$7
 
 =LDR  10019nmm  2200000 a 4500
 =001  006382
@@ -91067,18 +91082,20 @@
 =942  ##$cBK
 =952  ##$p7256$10$2ddc$aLPL$bLPL$c$k$oBI-MIR-003 $e$5$7
 
-=LDR  10016nmm  2200000 a 4500
+=LDR  10019nmm  2200000 a 4500
 =001  007257
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261103000000.0
 =008  318020s2000    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aJansem, Jean
 =700  1#$aHarambourg, Lydia$eprologuista
 =245  10$aMythologies$bJansem 2000
 =260  ##$aRennes$bCalligraphy$c2000
+=300  0#$a117 p.
+=653  ##$aPINTURA FRANCESA
 =942  ##$cBK
-=952  ##$p7257$10$2ddc$aLPL$bLPL$c$k$oBI-JAN-001 $e$5$7
+=952  ##$p7257$10$2ddc$aLPL$bLPL$c$kDON$o754.244 JAN$e$5$7
 
 =LDR  10021nmm  2200000 a 4500
 =001  007258
@@ -135373,3 +135390,103 @@
 =260  ##$aParis : Eyrolles, 1982
 =942  ##$cBK
 =952  ##$p10449$10$2ddc$aLPL$bLPL$c$kDON$oLLO$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=001  010450
+=003  AR-QuEMBA
+=005  20261104000000.0
+=008  046120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aLos Angiru
+=942  ##$cBK
+=952  ##$p10450$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=001  010451
+=003  AR-QuEMBA
+=005  20261104000000.0
+=008  046120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aLos Angiru$n2
+=942  ##$cBK
+=952  ##$p10451$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=001  010452
+=003  AR-QuEMBA
+=005  20261104000000.0
+=008  046120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aLos Angiru$n3
+=942  ##$cBK
+=952  ##$p10452$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=001  010453
+=003  AR-QuEMBA
+=005  20261104000000.0
+=008  046120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aLos Angiru$n4
+=942  ##$cBK
+=952  ##$p10453$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=001  010454
+=003  AR-QuEMBA
+=005  20261104000000.0
+=008  046120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aLos Angiru$n5
+=942  ##$cBK
+=952  ##$p10454$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=001  010455
+=003  AR-QuEMBA
+=005  20261104000000.0
+=008  046120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aAbatataba
+=942  ##$cBK
+=952  ##$p10455$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=001  010456
+=003  AR-QuEMBA
+=005  20261104000000.0
+=008  046120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aLa  redencion
+=942  ##$cBK
+=952  ##$p10456$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=001  010457
+=003  AR-QuEMBA
+=005  20261104000000.0
+=008  046120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aLas durmientes
+=942  ##$cBK
+=952  ##$p10457$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=001  010458
+=003  AR-QuEMBA
+=005  20261104000000.0
+=008  046120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aDuncan
+=942  ##$cBK
+=952  ##$p10458$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+
+=LDR  10002nmm  2200000 a 4500
+=001  010459
+=003  AR-QuEMBA
+=005  20261104000000.0
+=008  046120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aTango oscuro
+=942  ##$cBK
+=952  ##$p10459$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
