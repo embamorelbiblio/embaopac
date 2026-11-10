@@ -371,11 +371,6 @@ INV: 7174
 RETIRÓ EL: 25/08/2025
 PRESTADO
 
-LIBRO: Tratado de armonia (fotocopia)
-INV: 5618
-RETIRÓ EL: 01/09/2025
-PRESTADO
-
 LIBRO: Rembrandt
 INV: 8592
 RETIRÓ EL: 24/09/2025
@@ -514,11 +509,6 @@ INV: 9400
 RETIRÓ EL: 04/05/2026
 PRESTADO
 
-LIBRO: Vestuario criollo : 1770-1920
-INV: 1999
-RETIRÓ EL: 05/05/2026
-PRESTADO
-
 LIBRO: Contra-pedagogías de la crueldad
 INV: 3237
 RETIRÓ EL: 07/05/2026
@@ -652,11 +642,6 @@ PRESTADO
 LIBRO: Heartstopper
 INV: 9659
 RETIRÓ EL: 17/07/2026
-PRESTADO
-
-LIBRO: Desarrollo del ballet en la argentina
-INV: 2008
-RETIRÓ EL: 11/08/2026
 PRESTADO
 
 LIBRO: Una psicoterapia por el arte : teoría y técnica
@@ -1054,11 +1039,6 @@ INV: 1795
 RETIRÓ EL: 28/10/2026
 PRESTADO
 
-LIBRO: Ribera
-INV: 6483
-RETIRÓ EL: 30/10/2026
-PRESTADO
-
 LIBRO: José de Ribera
 INV: 1767
 RETIRÓ EL: 30/10/2026
@@ -1142,4 +1122,14 @@ PRESTADO
 LIBRO: Los movimientos del pop
 INV: 501
 RETIRÓ EL: 05/11/2026
+PRESTADO
+
+LIBRO: Ribera
+INV: 8339
+RETIRÓ EL: 06/11/2026
+PRESTADO
+
+LIBRO: La obra completa de Ribera 1591-1652
+INV: 9379
+RETIRÓ EL: 06/11/2026
 PRESTADO

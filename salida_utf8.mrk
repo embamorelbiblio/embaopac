@@ -80160,17 +80160,19 @@
 =942  ##$cBK
 =952  ##$p6439$10$2ddc$aLPL$bLPL$c$k$o743.6 VEL$e$5$7
 
-=LDR  10008nmm  2200000 a 4500
+=LDR  10014nmm  2200000 a 4500
 =001  006440
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261106000000.0
+=008  296020s1975    ||||||||||||||000 | spa||
+=020  ##$a8470950533
 =040  ##$cAR-QuEMBA
 =100  1#$aBontce, J.
 =245  10$aTecnicas y secretos de la pintura
-=260  ##$aL.E.D.A. Las Ediciones de Arte
+=260  ##$aBarcelona$bL.E.D.A. Las Ediciones de Arte$c1975
+=300  0#$a176 p.
 =942  ##$cBK
-=952  ##$p6440$10$2ddc$aLPL$bLPL$c$k$oTyD-064 $e$5$7
+=952  ##$p6440$10$2ddc$aLPL$bLPL$c$kDON$o751 BON$e$5$7
 
 =LDR  10011nmm  2200000 a 4500
 =001  006441
@@ -97647,18 +97649,28 @@
 =942  ##$cBK
 =952  ##$p7717$10$2ddc$aLPL$bLPL$c$k$oCOL-48 023$e$5$7
 
-=LDR  10014nmm  2200000 a 4500
+=LDR  10100nss  2200000 a 4500
 =001  007718
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  109020s2001    ||||||||||||||000 | spa||
+=005  20261106000000.0
+=008  109020s1999    ||||||||||||||000 | spa||
+=022  ##$a1578-9047
 =040  ##$cAR-QuEMBA
-=245  10$aDescubrir el arte. 24
-=260  ##$aEspaña$bArlanza $c2001
-=300  0#$a115 p.
-=505  0#$tRamon Casas -- Especial Arco --Roma Barroca -- Las mejores webs del Arte
-=942  ##$cBK
-=952  ##$p7718$10$2ddc$aLPL$bLPL$c$k$oCOL-48 024$e$5$7
+=245  10$aDescubrir el Arte$h[revista]
+=260  ##$aEspaña$bArlanza $c1999
+=310  ##$aMensual
+=500  0#$a001. El Greco · La Barcelona de Gaudi · Rauschenberg · Museo de Mérida · Van Dyck
+=500  0#$a002. La Capilla Sixtina . El París de los impresionistas . Hopper . Museo Nacional de Cataluña
+=500  0#$a003. Los cuadros secretos del prado · tàpies · miguel ángel y la sixtina · el bosco
+=500  1#$a004. Velázquez, el genio · exposición: santiago · capilla sixtina: el juicio final · morandi
+=500  0#$a005. El arte en el camino de santiago · exposicion: ferrant · entrevista: fernando botero
+=500  0#$a006. Restaurar y conservar · teruel mudéjar · entrevista: perejaume . bienal de venecia
+=500  1#$a007. Dalí, entre el mito y el escandalo · la florencia de los médicis . entrevista: arroyo
+=500  1#$a008. Caravaggio, el pintor maldito . alhambra, la ciudad roja · entrevista: guinovart
+=500  0#$a009. El retrato en el renacimiento · las iglesias del boí · entrevista: luis gordillo
+=500  0#$a010. Los caprichos de Goya · Arte español: balance de un siglo · El Belén de Salzillo
+=942  ##$cCR
+=952  ##$p7718$10$2ddc$aLPL$bLPL$c$kDON$o705 $e$5$7
 
 =LDR  10016nmm  2200000 a 4500
 =001  007719
@@ -123406,7 +123418,7 @@
 =LDR  10024nmc  2200000 a 4500
 =001  009582
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261106000000.0
 =008  134120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789874875037
 =040  ##$cAR-QuEMBA
@@ -123418,7 +123430,7 @@
 =300  0#$a152 p.$bil. ; 22 x 14 cm.
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p9582$10$2ddc$aLPL$bLPL$c$k$oIB 863 DEL$e$5$7
+=952  ##$p9582$10$2ddc$aLPL$bLPL$c$k$oIB A863 DEL$e$5$7
 
 =LDR  10025nmc  2200000 a 4500
 =001  009583
@@ -123439,7 +123451,7 @@
 =LDR  10018nmc  2200000 a 4500
 =001  009584
 =003  AR-QuEMBA
-=005  20260629000000.0
+=005  20261106000000.0
 =008  134120s2023    ||||||||||||||000 | spa||
 =020  ##$a9789501206098
 =040  ##$cAR-QuEMBA
@@ -123450,7 +123462,7 @@
 =300  0#$a352 p.
 =490  #0$aIdentidades Bonaerenses
 =942  ##$cBK
-=952  ##$p9584$10$2ddc$aLPL$bLPL$c$k$oL IDE$e$5$7
+=952  ##$p9584$10$2ddc$aLPL$bLPL$c$k$oIB 305 FAN$e$5$7
 
 =LDR  10020nmc  2200000 a 4500
 =001  009585
@@ -135490,3 +135502,44 @@
 =245  10$aTango oscuro
 =942  ##$cBK
 =952  ##$p10459$10$2ddc$aLPL$bLPL$c$kDON$o$e$5$7
+
+=LDR  10026nmc  2200000 a 4500
+=001  010460
+=003  AR-QuEMBA
+=005  20261106000000.0
+=008  066120s2023    ||||||||||||||000 | spa||
+=020  ##$a9789877711745
+=040  ##$cAR-QuEMBA
+=100  1#$aGalasso, Norberto
+=245  10$aDos Argentinas: Arturo Jauretche, Victoria Ocampo$bCorrespondencia inédita, sus vidas, sus ideas
+=250  ##$a3a ed. esp.
+=260  ##$aRosario$bHomo Sapiens$c2023
+=300  0#$a244 p.$b23 x 16 cm.
+=490  #0$aIdentidades Bonaerenses
+=942  ##$cBK
+=952  ##$p10460$10$2ddc$aLPL$bLPL$c$k$oIB 306.0982 GAL$e$5$7
+
+=LDR  10111nss  2200000 a 4500
+=001  010461
+=003  AR-QuEMBA
+=005  20261106000000.0
+=008  066120s2000    ||||||||||||||000 | spa||
+=022  ##$a1578-9047
+=040  ##$cAR-QuEMBA
+=245  10$aDescubrir el Arte$h[revista]
+=260  ##$aEspaña$bArlanza $c2000
+=310  ##$aMensual
+=500  0#$a011. Tres pintores en la corte · La Mérida romana · las plazas mayores en España
+=500  0#$a012. Arco 2000 · los bronces de riace : rodin · cáceres: la ciudad de los palacios
+=500  0#$a013. Modernismo · óscar tusquets · giacometti · la toledo de el greco
+=500  0#$a014. El diseño gráfico · el color de la pasión · pedro machuca · la venecia de canaletto
+=500  0#$a015. Colección botero · las fuentes de la granja : dalí-buñuel · la granada renacentista
+=500  1#$a016. Van der Weyden · Burgos, El esplendor del Gótico · Encrucijadas · Antonio López
+=500  0#$a017. Exposición felipe v · retablo de salamanca · compostela barroca · personajes de goya
+=500  0#$a018. Movida en los museos · pompeya · parque güell · entrevista: úrculo
+=500  1#$a019. Salamanca, esplendor plateresco · portugal blanco y azul · friedrich · luis feito
+=500  1#$a020. Carlos v · sydney, la babel del siglo xxi · el expolio artístico · entrevista: canogar
+=500  1#$a021. Berlín · Delaunay · El futuro Guggenheim de Nueva York · Estampa, Arte para todos
+=500  0#$a022. Los top ten del arte español · Imágenes para la Navidad
+=942  ##$cCR
+=952  ##$p10461$10$2ddc$aLPL$bLPL$c$kDON$o705 $e$5$7
