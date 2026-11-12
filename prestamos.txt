@@ -38,16 +38,6 @@ INV: 2148
 RETIRÓ EL: 08/06/2023
 PRESTADO
 
-LIBRO: Novedades Educativas
-INV: 7781
-RETIRÓ EL: 13/06/2023
-PRESTADO
-
-LIBRO: Desarrollo de escuelas inclusivas : ideas, propuestas y experiencas para mejorar las instituciones escolares
-INV: 7386
-RETIRÓ EL: 13/06/2023
-PRESTADO
-
 LIBRO: Arte y percepcion visual : psicología del ojo creador
 INV: 6564
 RETIRÓ EL: 15/06/2023
@@ -669,16 +659,6 @@ INV: 10366
 RETIRÓ EL: 18/08/2026
 PRESTADO
 
-LIBRO: Etica y cine
-INV: 6946
-RETIRÓ EL: 20/08/2026
-PRESTADO
-
-LIBRO: Comics
-INV: 3627
-RETIRÓ EL: 20/08/2026
-PRESTADO
-
 LIBRO: Las palabras andantes
 INV: 10379
 RETIRÓ EL: 28/08/2026
@@ -924,16 +904,6 @@ INV: 6661
 RETIRÓ EL: 19/10/2026
 PRESTADO
 
-LIBRO: Rousseau : el aduanero
-INV: 644
-RETIRÓ EL: 20/10/2026
-PRESTADO
-
-LIBRO: La obra completa de Rousseau 1844-1910
-INV: 9412
-RETIRÓ EL: 20/10/2026
-PRESTADO
-
 LIBRO: El niño y su arte
 INV: 6011
 RETIRÓ EL: 20/10/2026
@@ -1132,4 +1102,64 @@ PRESTADO
 LIBRO: La obra completa de Ribera 1591-1652
 INV: 9379
 RETIRÓ EL: 06/11/2026
+PRESTADO
+
+LIBRO: Donde viven los monstruos
+INV: 7372
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: Huevos fritos . 1
+INV: 6728
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: Gaturro. 4
+INV: 8141
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: Historia de los comics. 2
+INV: 9242
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: Panorama de la pintura Argentina contemporánea
+INV: 9239
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: Mafalda y sus amigos (seleccion) 5 ejemplares
+INV: 3326
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: Los autónomatas  del desierto
+INV: 7371
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: Yo conmigo
+INV: 3492
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: Civil War II
+INV: 9510
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: El invencible Iron Man. 3
+INV: 9512
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: Dragonball
+INV: 10179
+RETIRÓ EL: 10/11/2026
+PRESTADO
+
+LIBRO: El trabajo del actor sobre si mismo : el trabajo sobre si mismo en el proceso creador de las vivencias
+INV: 6124
+RETIRÓ EL: 10/11/2026
 PRESTADO
