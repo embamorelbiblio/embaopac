@@ -2400,16 +2400,16 @@
 =942  ##$cBK
 =952  ##$p167$10$2ddc$aLPL$bLPL$c$k$oAA-Bern-002 $e$5$7
 
-=LDR  10011nmm  2200000 a 4500
+=LDR  10014nmm  2200000 a 4500
 =001  000168
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  218020n        ||||||||||||||000 | spa||
+=005  20261112000000.0
+=008  218020s[19-    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=245  10$aMurales de Antonio Berni, en el ex cine gral. San Martín de Avellaneda
-=260  ##$aAvellaneda Gob. Municipal
+=245  10$aMurales de Antonio Berni$ben el ex Cine General San Martin de Avellaneda
+=260  ##$aAvellaneda$bAvellaneda Gobierno Municipal$c[19--?]
 =942  ##$cBK
-=952  ##$p168$10$2ddc$aLPL$bLPL$c$k$oAA-Bern-003 $e$5$7
+=952  ##$p168$10$2ddc$aLPL$bLPL$c$kDON$o751.73 MUR$e$5$7
 
 =LDR  10023nmm  2200000 a 4500
 =001  000169
@@ -40433,17 +40433,18 @@
 =942  ##$cBK
 =952  ##$p3188$10$2ddc$aLPL$bLPL$c$kDON$o759.982 LOM$e$5$7
 
-=LDR  10013nmm  2200000 a 4500
+=LDR  10020nmm  2200000 a 4500
 =001  003189
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  048120n        ||||||||||||||000 | spa||
+=005  20261112000000.0
+=008  048120s2006    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
-=245  10$aLa batalla de Caseros : historia de un mural
-=260  ##$aMorón : Honorable Concejo Deliberante, 2006
+=110  1#$aMunicipio de Moron
+=245  10$aLa batalla de Caseros $bHistoris de un mural
+=260  ##$aMorón : Honorable Concejo Deliberante, 2006$bHonorable Concejo Deliberante$c2006
 =300  0#$a40 p.
 =942  ##$cBK
-=952  ##$p3189$10$2ddc$aLPL$bLPL$c$k$oHALA-019 $e$5$7
+=952  ##$p3189$10$2ddc$aLPL$bLPL$c$k$o751.73 MUN$e$5$7
 
 =LDR  10005nmm  2200000 a 4500
 =001  003190
@@ -41207,17 +41208,19 @@
 =942  ##$cBK
 =952  ##$p3248$10$2ddc$aLPL$bLPL$c$kCOM$o701 BEN$e$5$7
 
-=LDR  10006nmm  2200000 a 4500
+=LDR  10016nmm  2200000 a 4500
 =001  003249
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  306020n        ||||||||||||||000 | spa||
+=005  20261112000000.0
+=008  306020s2013    ||||||||||||||000 | spa||
+=020  ##$a9789500520652
 =040  ##$cAR-QuEMBA
 =100  1#$aSchavelzon, Daniel
-=245  10$aLa historia de un mural
-=260  ##$aEd. Corregidor
+=245  10$aLa historia de un mural$bSiqueiros en la Argentina
+=260  ##$aBuenos Aires$bCorregidor$c2013
+=300  0#$a510 p.
 =942  ##$cBK
-=952  ##$p3249$10$2ddc$aLPL$bLPL$c$k$oHALA-079 $e$5$7
+=952  ##$p3249$10$2ddc$aLPL$bLPL$c$kDON$o751.73 SCH$e$5$7
 
 =LDR  10016nmm  2200000 a 4500
 =001  003250
@@ -135534,3 +135537,13 @@
 =500  0#$a046. NEW YORK-NEW YORK · AUTORRETRATOS · ARTE Y BOXEO · ITINERARIOS: ZARAGOZA · MADRID SE REMOZA
 =942  ##$cCR
 =952  ##$p10467$10$2ddc$aLPL$bLPL$c$kDON$o705 DES$e$5$7
+
+=LDR  10004nmm  2200000 a 4500
+=001  010468
+=003  AR-QuEMBA
+=005  20261112000000.0
+=008  126120n        ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aEl folklore musical Argentino
+=942  ##$cBK
+=952  ##$p10468$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
