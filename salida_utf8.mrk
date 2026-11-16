@@ -78643,17 +78643,18 @@
 =942  ##$cBK
 =952  ##$p6324$10$2ddc$aLPL$bLPL$c$k$oTxA-019 $e$5$7
 
-=LDR  10006nmm  2200000 a 4500
+=LDR  10009nmm  2200000 a 4500
 =001  006325
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  296020n        ||||||||||||||000 | spa||
+=005  20261113000000.0
+=008  296020s1947    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aCennini, Cennino
 =245  10$aEl libro del arte
-=260  ##$aEditorial Argos
+=260  ##$aBuenos Aires$bArgos$c1947
+=300  0#$a195 p.
 =942  ##$cBK
-=952  ##$p6325$10$2ddc$aLPL$bLPL$c$k$oTxA-020 $e$5$7
+=952  ##$p6325$10$2ddc$aLPL$bLPL$c$k$o751 CEN$e$5$7
 
 =LDR  10013nmm  2200000 a 4500
 =001  006326
@@ -82593,20 +82594,21 @@
 =942  ##$cBK
 =952  ##$p6624$10$2ddc$aLPL$bLPL$c$k$oAPV - 029 $e$5$7
 
-=LDR  10032nmm  2200000 a 4500
+=LDR  10049nmm  2200000 a 4500
 =001  006625
 =003  AR-QuEMBA
-=005  20260629000000.0
-=008  127020n        ||||||||||||||000 | spa||
+=005  20261113000000.0
+=008  127020s2015    ||||||||||||||000 | spa||
 =020  ##$a9789872470777
 =040  ##$cAR-QuEMBA
 =100  1#$aLozano, Roberto Daniel
-=245  10$aLa apariencia visual y su medición
-=260  ##$aBuenos Aires : Grupo Argentino del Color, 2015
+=245  10$aLa apariencia visual y su medición$bEstudio de las formas de apariencia que difieren del color con una introduccion a las frecuencias especiales y la optica de Fourier
+=260  ##$aBuenos Aires$bGrupo Argentino del Color$c2015
 =300  0#$a191 p.
+=500  0#$aIncluye CD con imagenes en color
 =505  0#$tLa aparienia visual : un fenómeno complejo -- La medición de la apariencia visual -- La textura -- Apéndice : la óptica y las series de Fourier
 =942  ##$cBK
-=952  ##$p6625$10$2ddc$aLPL$bLPL$c$k$oAPV - 030 $e$5$7
+=952  ##$p6625$10$2ddc$aLPL$bLPL$c$k$o752 LOZ$e$5$7
 
 =LDR  10038nmm  2200000 a 4500
 =001  006626

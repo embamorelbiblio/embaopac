@@ -356,11 +356,6 @@ INV: 8672
 RETIRÓ EL: 05/08/2025
 PRESTADO
 
-LIBRO: Forner
-INV: 7174
-RETIRÓ EL: 25/08/2025
-PRESTADO
-
 LIBRO: Rembrandt
 INV: 8592
 RETIRÓ EL: 24/09/2025
@@ -999,21 +994,6 @@ INV: 1767
 RETIRÓ EL: 30/10/2026
 PRESTADO
 
-LIBRO: Los grandes escultores : Bernini
-INV: 1793
-RETIRÓ EL: 30/10/2026
-PRESTADO
-
-LIBRO: Los grandes escultores : Bernini
-INV: 8018
-RETIRÓ EL: 30/10/2026
-PRESTADO
-
-LIBRO: Los grandes escultores : La escuela de Bernini
-INV: 8043
-RETIRÓ EL: 30/10/2026
-PRESTADO
-
 LIBRO: Las aventuras del capitan alatriste:limpieza de sangre
 INV: 3284
 RETIRÓ EL: 02/11/2026
@@ -1077,16 +1057,6 @@ PRESTADO
 LIBRO: Los movimientos del pop
 INV: 501
 RETIRÓ EL: 05/11/2026
-PRESTADO
-
-LIBRO: Ribera
-INV: 8339
-RETIRÓ EL: 06/11/2026
-PRESTADO
-
-LIBRO: La obra completa de Ribera 1591-1652
-INV: 9379
-RETIRÓ EL: 06/11/2026
 PRESTADO
 
 LIBRO: Donde viven los monstruos
@@ -1162,4 +1132,24 @@ PRESTADO
 LIBRO: Manifiestos del Surrealismo
 INV: 6315
 RETIRÓ EL: 12/11/2026
+PRESTADO
+
+LIBRO: La arquitectura gotica
+INV: 591
+RETIRÓ EL: 13/11/2026
+PRESTADO
+
+LIBRO: Teoria de la imagen
+INV: 8284
+RETIRÓ EL: 13/11/2026
+PRESTADO
+
+LIBRO: El románico
+INV: 1177
+RETIRÓ EL: 13/11/2026
+PRESTADO
+
+LIBRO: Desarrollo cognitivo y educación I
+INV: 7396
+RETIRÓ EL: 13/11/2026
 PRESTADO
