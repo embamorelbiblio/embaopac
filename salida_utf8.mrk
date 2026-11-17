@@ -9267,17 +9267,19 @@
 =942  ##$cBK
 =952  ##$p698$10$2ddc$aLPL$bLPL$c$k$oBI-DEG-006 $e$5$7
 
-=LDR  10006nmm  2200000 a 4500
+=LDR  10017nmc  2200000 a 4500
 =001  000699
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261116000000.0
 =008  306020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aLassaigne, Jacques
 =245  10$aEugene Delacroix
-=260  ##$aAguilar S.A. Edic.
+=260  ##$aMadrid : Aguilar, 1950
+=300  0#$a20 p$bil.
+=490  #0$aMaestros de la pintura / bajo la dirección de Eric Newton
 =942  ##$cBK
-=952  ##$p699$10$2ddc$aLPL$bLPL$c$k$oBI-DEL-001 $e$5$7
+=952  ##$p699$10$2ddc$aLPL$bLPL$c$kDON$o759.053 LAS$e$5$7
 
 =LDR  10010nmc  2200000 a 4500
 =001  000700
@@ -10184,17 +10186,20 @@
 =942  ##$cBK
 =952  ##$p771$10$2ddc$aLPL$bLPL$c$k$oBI-NES-001 $e$5$7
 
-=LDR  10007nmm  2200000 a 4500
+=LDR  10020nmm  2200000 a 4500
 =001  000772
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261116000000.0
 =008  306020n        ||||||||||||||000 | spa||
+=020  ##$a8292017089
 =040  ##$cAR-QuEMBA
-=100  1#$aJourney, Endless
-=245  10$aKjell nupen. viagem sem fim
-=260  ##$aM.R.R.E. Noruega
+=700  1#$aHovdenakk, Per$eintroducción
+=245  10$aKjell Nupen : viagem sem fim = viaje sin fin = endless journey
+=250  ##$a1a ed.
+=260  ##$aOslo : Galleri Wang, 2002
+=300  0#$a75 p.
 =942  ##$cBK
-=952  ##$p772$10$2ddc$aLPL$bLPL$c$k$oBI-NUP-001 $e$5$7
+=952  ##$p772$10$2ddc$aLPL$bLPL$c$kDON$o759.247 NUP$e$5$7
 
 =LDR  10006nmm  2200000 a 4500
 =001  000773
@@ -10690,17 +10695,21 @@
 =942  ##$cBK
 =952  ##$p812$10$2ddc$aLPL$bLPL$c$k$o759.061 IMP$e$5$7
 
-=LDR  10008nmm  2200000 a 4500
+=LDR  10109nmm  2200000 a 4500
 =001  000813
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261116000000.0
 =008  306020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aMashkovtsev, N.
-=245  10$aVasili Surikov, su vida y obra
-=260  ##$aEdi.En Lenguas Ext.Moscu
+=700  1#$aKuper, Lydia$etraductor
+=245  10$aVasili Surikov : su vida y obra
+=250  ##$a1a ed.
+=260  ##$aMoscú : Ediciones en Lenguas Extranjeras, [197-?]
+=300  0#$a49 p.$bil.
+=505  0#$tVasili Ivánovich Súrikov, eminente pintor... (p. 3) -- Vasili Súrikov nació en 1848... (p. 4) -- En 1854, el Padre de Súrikov fue trasladado... (p. 5) -- A la muerte del padre, la familia regresó... (p. 8) -- En 1874, Súrikov empezó a pintar El festín de Cleopatra... (p. 13) -- En 1875, Súrikov se diplomó... (p. 15) -- En Moscú se acabó de formar la ideología de Súrikov... (p. 16) -- En La ejecución de los streltsí... (p. 21) -- Maximilián Voloshin, el primer biógrafo de Súrikov... (p. 29) -- ...comparar con detalle las figuras demeninas de Morózova con las mujeres de los streltsí (p. 36) -- Los retratos... (p. 40) -- Después de haber pasado el invierno en Krasnoyarsk... (p. 41) -- Cuadro La conquista de Siberia por Ermak... (p. 42) -- En los últimos veinte años de su vida... (p. 47) -- Los héroes de la historia en opinión de Súrikov (p. 49) -- Ilustraciones (p. 51)
 =942  ##$cBK
-=952  ##$p813$10$2ddc$aLPL$bLPL$c$k$oBI-SUR-001 $e$5$7
+=952  ##$p813$10$2ddc$aLPL$bLPL$c$kDON$o759.053 $e$5$7
 
 =LDR  10011nmm  2200000 a 4500
 =001  000814
@@ -135493,16 +135502,16 @@
 =LDR  10141nss  2200000 a 4500
 =001  010466
 =003  AR-QuEMBA
-=005  20261110000000.0
+=005  20261116000000.0
 =008  106120s2001    ||||||||||||||000 | spa||
 =022  ##$a1578-9047
 =040  ##$cAR-QuEMBA
 =245  10$aDescubrir el Arte$h[revista]
 =260  ##$aEspaña$bArlanza $c2001
 =310  ##$aMensual
-=500  1#$a023. EL NEGOCIO DEL ARTE · JERUSALEN, LA CIUDAD DE LOS PEREGRINOS · EUGENIO GRANELL
-=500  0#$a024. RAMON CASAS · ESPECIAL ARCO · ROMA BARROCA · LAS MEJORES WEBS DEL ARTE
-=500  0#$a025. AL FIN. FAMOSOS: LOS MEJORES ARQUITECTOS ESPANOLES · LA VIENA DE LA SECESSION · PAUL SIGNAC
+=500  1#$a023. El negocio del arte · Jerusalén, la ciudad de los peregrinos · Eugenio Granell
+=500  0#$a024. Ramón Casas · Especial Arco · Roma barroca · Las mejores web del arte
+=500  0#$a025. Al fin. Famosos: los mejores arquitectos españoles · La Viena de la Secession · Paul Signac
 =500  0#$a026. PICASSO INTERPRETA A LOS GRANDES MAESTROS · FUROR TALIBAN · MUSEO DEL PRADO: ARRANCA LA AMPLIACION
 =500  1#$a027. EL ESPLENDOR DE LA CORDOBA OMEYA · POLEMICA: DOS "GOYAS" BAJO SOSPECHA · GUAYASAMIN, AL SERVICIO DE LA ETICA
 =500  1#$a028. TIEMPO DE BIENALES: Venecia, Valencia y Barcelona · JUAN MUNOZ EN LA TATE MODERN · LAS EDADES DEL HOMBRE

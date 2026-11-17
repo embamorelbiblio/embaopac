@@ -664,11 +664,6 @@ INV: 1917
 RETIRÓ EL: 31/08/2026
 PRESTADO
 
-LIBRO: Ir más allá de la piel : repensar, rehacer y reivindicar el cuerpo en el capitalismo contemporáneo
-INV: 510
-RETIRÓ EL: 31/08/2026
-PRESTADO
-
 LIBRO: El mundo mágico de las brujas
 INV: 10291
 RETIRÓ EL: 02/09/2026
@@ -814,83 +809,8 @@ INV: 2765
 RETIRÓ EL: 19/10/2026
 PRESTADO
 
-LIBRO: El arte del Renacimiento
-INV: 1921
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: El Renacimiento en Italia. 2
-INV: 1944
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Arte de Japón y de Corea
-INV: 1324
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Negroafricano
-INV: 1929
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Arte de la India y de la Indonesia
-INV: 1912
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Griego
-INV: 1880
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: De Grecia clásica a Etruria
-INV: 1881
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Barroco
-INV: 1924
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Islámico
-INV: 1903
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
 LIBRO: Arte de Africa y Oceanía
 INV: 1325
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: El mundo bizantino : la encrucijada entre Oriente y Occidente
-INV: 7401
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: El Románico en Alemania y en Italia
-INV: 1900
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Lo mejor del arte bizantino
-INV: 42
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Romano
-INV: 1888
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Arte Romano
-INV: 1321
-RETIRÓ EL: 19/10/2026
-PRESTADO
-
-LIBRO: Rococó
-INV: 6661
 RETIRÓ EL: 19/10/2026
 PRESTADO
 
@@ -1152,4 +1072,29 @@ PRESTADO
 LIBRO: Desarrollo cognitivo y educación I
 INV: 7396
 RETIRÓ EL: 13/11/2026
+PRESTADO
+
+LIBRO: Rembrandt
+INV: 8336
+RETIRÓ EL: 16/11/2026
+PRESTADO
+
+LIBRO: Rembrandt
+INV: 9960
+RETIRÓ EL: 16/11/2026
+PRESTADO
+
+LIBRO: Rembrandt
+INV: 6491
+RETIRÓ EL: 16/11/2026
+PRESTADO
+
+LIBRO: Las claves del arte barroco
+INV: 10419
+RETIRÓ EL: 16/11/2026
+PRESTADO
+
+LIBRO: Arte barroco. 1
+INV: 9811
+RETIRÓ EL: 16/11/2026
 PRESTADO
