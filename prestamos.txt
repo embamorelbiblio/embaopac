@@ -168,16 +168,6 @@ INV: 3798
 RETIRÓ EL: 14/05/2024
 PRESTADO
 
-LIBRO: Escalas cooperantes
-INV: 7865
-RETIRÓ EL: 07/06/2024
-PRESTADO
-
-LIBRO: Discurso-figura
-INV: 2386
-RETIRÓ EL: 07/06/2024
-PRESTADO
-
 LIBRO: Apreciatividad : el arte de percibir lo valioso : una habilidad que se ejercita en la vida y el trabajo
 INV: 7604
 RETIRÓ EL: 18/06/2024
@@ -679,11 +669,6 @@ INV: 9396
 RETIRÓ EL: 04/09/2026
 PRESTADO
 
-LIBRO: Nosotras, presas políticas : 1974 - 1983
-INV: 8281
-RETIRÓ EL: 08/09/2026
-PRESTADO
-
 LIBRO: El saber didactico
 INV: 7395
 RETIRÓ EL: 08/09/2026
@@ -772,11 +757,6 @@ PRESTADO
 LIBRO: Diálogos entre arte y terapia : del "arte psicótico" al desarrollo de la arteterapia y sus aplicaciones
 INV: 5954
 RETIRÓ EL: 06/10/2026
-PRESTADO
-
-LIBRO: Poemas
-INV: 4947
-RETIRÓ EL: 09/10/2026
 PRESTADO
 
 LIBRO: No silbes de noche
@@ -1097,4 +1077,19 @@ PRESTADO
 LIBRO: Arte barroco. 1
 INV: 9811
 RETIRÓ EL: 16/11/2026
+PRESTADO
+
+LIBRO: Novena poesia vertical. decima poesia vertical
+INV: 4625
+RETIRÓ EL: 17/11/2026
+PRESTADO
+
+LIBRO: Undecima poesia vertical
+INV: 4626
+RETIRÓ EL: 17/11/2026
+PRESTADO
+
+LIBRO: Duodecima poesia vertical
+INV: 4627
+RETIRÓ EL: 17/11/2026
 PRESTADO

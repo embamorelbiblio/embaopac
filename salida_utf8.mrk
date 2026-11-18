@@ -5347,17 +5347,18 @@
 =942  ##$cBK
 =952  ##$p402$10$2ddc$aLPL$bLPL$c$k$oAL-CUB-003 $e$5$7
 
-=LDR  10010nmm  2200000 a 4500
+=LDR  10014nmm  2200000 a 4500
 =001  000403
 =003  AR-QuEMBA
-=005  20260630000000.0
-=008  306020n        ||||||||||||||000 | spa||
+=005  20261117000000.0
+=008  306020s2005    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  0#$aTranvia Cero
-=245  10$aAl zur-ich tercer encuentro de arte urbano (cd)
-=260  ##$aQuito : Banco Central De Ecuador, 2005
+=245  10$aAl zur-ich$bEncuentro Internacional de Arte Urbano$n4
+=260  ##$aQuito$bBanco Central de Ecuador$c2005
+=300  0#$a31 p.
 =942  ##$cBK
-=952  ##$p403$10$2ddc$aLPL$bLPL$c$k$oAL ECU-001 $e$5$7
+=952  ##$p403$10$2ddc$aLPL$bLPL$c$kDON$o751.73 TRA$e$5$7
 
 =LDR  10010nmm  2200000 a 4500
 =001  000404
@@ -40490,16 +40491,20 @@
 =942  ##$cBK
 =952  ##$p3192$10$2ddc$aLPL$bLPL$c$k$oHALA-022 $e$5$7
 
-=LDR  10006nmm  2200000 a 4500
+=LDR  10057nmm  2200000 a 4500
 =001  003193
 =003  AR-QuEMBA
-=005  20260630000000.0
+=005  20261117000000.0
 =008  306020n        ||||||||||||||000 | spa||
+=020  ##$a8485995198
 =040  ##$cAR-QuEMBA
-=245  10$aArte madi internacional, fin del milenio
-=260  ##$aEditorial Godoy
+=245  10$aArte Madi internacional : fin de milenio
+=250  ##$a1a ed.
+=260  ##$a[Murcia] : Godoy, 2000
+=300  0#$a276 p.
+=505  0#$tNotas del editor / José Jiménez López (p. 9) -- Madi, universalismo geométrico / Martín Páez Burruezo (p. 11) -- Madi hacia el devenir histórico / César López Osornio (p. 14) -- Manifiestos / Arden Quin (p. 17) -- Memoria Madi. Orígenes / Volf Roitman (p. 22) -- Cronología Madi. Datos complementarios / Volf Roitman (p. 31) -- Notas a la cronología Madi / César López Osornio (p. 39) -- Los artistas Madi. Datos biográficos y obras (p. 42) -- Textos en francés (p. 271)
 =942  ##$cBK
-=952  ##$p3193$10$2ddc$aLPL$bLPL$c$k$oHALA-023 $e$5$7
+=952  ##$p3193$10$2ddc$aLPL$bLPL$c$kDON$o709.0405 ART$e$5$7
 
 =LDR  10008nmm  2200000 a 4500
 =001  003194
@@ -78655,7 +78660,7 @@
 =LDR  10009nmm  2200000 a 4500
 =001  006325
 =003  AR-QuEMBA
-=005  20261113000000.0
+=005  20261117000000.0
 =008  296020s1947    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aCennini, Cennino
@@ -82606,7 +82611,7 @@
 =LDR  10049nmm  2200000 a 4500
 =001  006625
 =003  AR-QuEMBA
-=005  20261113000000.0
+=005  20261117000000.0
 =008  127020s2015    ||||||||||||||000 | spa||
 =020  ##$a9789872470777
 =040  ##$cAR-QuEMBA
@@ -97558,14 +97563,18 @@
 =942  ##$cBK
 =952  ##$p7709$10$2ddc$aLPL$bLPL$c$k$oCOL-47 010$e$5$7
 
-=LDR  10001nmm  2200000 a 4500
+=LDR  10010nmm  2200000 a 4500
 =001  007710
 =003  AR-QuEMBA
-=005  20261110000000.0
+=005  20261117000000.0
 =008  109020n        ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
+=100  1#$aBeaumont, Cyril W.
+=245  10$aBreve historia del ballet
+=260  ##$aBuenos Aires : Ricordi, 1949
+=300  0#$a46 p.
 =942  ##$cBK
-=952  ##$p7710$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+=952  ##$p7710$10$2ddc$aLPL$bLPL$c$kDON$o793.2 BEA$e$5$7
 
 =LDR  10001nmm  2200000 a 4500
 =001  007711
@@ -135558,3 +135567,16 @@
 =245  10$aEl folklore musical Argentino
 =942  ##$cBK
 =952  ##$p10468$10$2ddc$aLPL$bLPL$c$k$o$e$5$7
+
+=LDR  10055nmm  2200000 a 4500
+=001  010469
+=003  AR-QuEMBA
+=005  20261117000000.0
+=008  176120s2009    ||||||||||||||000 | spa||
+=040  ##$cAR-QuEMBA
+=245  10$aMúsica e investigación$bRevista del Instituto Nacional de Musicología "Carlos Vega"
+=260  ##$aBuenos Aires$bInstituto Nacional de Musicología "Carlos Vega"$c2009
+=500  0#$aISSN N°: 0329-224X
+=505  0#$tEditorial (15) -- Relevés d´apprenti: Esnaola, Rosquellas y la Misa a tres voces 1824 / Bernardo Illari (17) -- Ejemplos de reiteración gráfica en el abordaje de la altura del sonido. Siglos IX al XX / Diana Fernández Calvo (69) -- El Kyriale-tonario del Museo Larreta de Buenos Aires. Presentación, descripción y apuntes para su estudio / Claudio Morla (113)
+=942  ##$cBK
+=952  ##$p10469$10$2ddc$aLPL$bLPL$c$k$o780.72 MUS$e$5$7
