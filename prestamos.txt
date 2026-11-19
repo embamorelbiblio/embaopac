@@ -809,11 +809,6 @@ INV: 120
 RETIRÓ EL: 20/10/2026
 PRESTADO
 
-LIBRO: El silencio de las chicharras
-INV: 10409
-RETIRÓ EL: 22/10/2026
-PRESTADO
-
 LIBRO: Sobre lo espiritual en el arte
 INV: 7861
 RETIRÓ EL: 22/10/2026
@@ -857,11 +852,6 @@ PRESTADO
 LIBRO: Trelew : la pasión fusilada
 INV: 9461
 RETIRÓ EL: 27/10/2026
-PRESTADO
-
-LIBRO: Muralismo mexicano
-INV: 406
-RETIRÓ EL: 28/10/2026
 PRESTADO
 
 LIBRO: Stoker, drake
@@ -916,16 +906,6 @@ PRESTADO
 
 LIBRO: Arte románico
 INV: 8112
-RETIRÓ EL: 05/11/2026
-PRESTADO
-
-LIBRO: Pintura románica
-INV: 9439
-RETIRÓ EL: 05/11/2026
-PRESTADO
-
-LIBRO: Arte románico y gótico
-INV: 41
 RETIRÓ EL: 05/11/2026
 PRESTADO
 
@@ -1074,11 +1054,6 @@ INV: 10419
 RETIRÓ EL: 16/11/2026
 PRESTADO
 
-LIBRO: Arte barroco. 1
-INV: 9811
-RETIRÓ EL: 16/11/2026
-PRESTADO
-
 LIBRO: Novena poesia vertical. decima poesia vertical
 INV: 4625
 RETIRÓ EL: 17/11/2026
@@ -1092,4 +1067,14 @@ PRESTADO
 LIBRO: Duodecima poesia vertical
 INV: 4627
 RETIRÓ EL: 17/11/2026
+PRESTADO
+
+LIBRO: Muralismo mexicano
+INV: 406
+RETIRÓ EL: 18/11/2026
+PRESTADO
+
+LIBRO: Sombra y enigma de Velázquez
+INV: 7745
+RETIRÓ EL: 18/11/2026
 PRESTADO
