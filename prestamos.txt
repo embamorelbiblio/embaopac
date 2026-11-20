@@ -644,11 +644,6 @@ INV: 10366
 RETIRÓ EL: 18/08/2026
 PRESTADO
 
-LIBRO: Las palabras andantes
-INV: 10379
-RETIRÓ EL: 28/08/2026
-PRESTADO
-
 LIBRO: L'art japonais. 4 : l'estampe
 INV: 1917
 RETIRÓ EL: 31/08/2026
@@ -1006,11 +1001,6 @@ PRESTADO
 
 LIBRO: Ruben dario en la nacion de buenos aires 1892-1916
 INV: 6375
-RETIRÓ EL: 12/11/2026
-PRESTADO
-
-LIBRO: Manifiestos del Surrealismo
-INV: 6315
 RETIRÓ EL: 12/11/2026
 PRESTADO
 

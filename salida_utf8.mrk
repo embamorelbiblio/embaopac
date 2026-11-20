@@ -98427,16 +98427,17 @@
 =942  ##$cBK
 =952  ##$p7777$10$2ddc$aLPL$bLPL$c$kDON$o701 CHO$e$5$7
 
-=LDR  10014nmm  2200000 a 4500
+=LDR  10016nmm  2200000 a 4500
 =001  007778
 =003  AR-QuEMBA
-=005  20261019000000.0
+=005  20261119000000.0
 =008  299120s1940    ||||||||||||||000 | spa||
 =040  ##$cAR-QuEMBA
 =100  1#$aLambry, Roberto
 =245  10$aPintar es fácil $b(con lavada, aguada y tinta china)
 =260  ##$aBarcelona$bArs$c1940
 =300  0#$a207 p.
+=500  0#$atapas despegadas
 =653  ##$aDIBUJO
 =942  ##$cBK
 =952  ##$p7778$10$2ddc$aLPL$bLPL$c$kDON$o751 LAM$e$5$7
